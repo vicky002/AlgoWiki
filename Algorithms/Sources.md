@@ -50,7 +50,7 @@
  - [Article](http://en.wikipedia.org/wiki/Word_wrap)
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/)
  - [Article](http://www.w3.org/TR/css3-text/)
- - [Code](http://www.daqwest.com/repo/dq/algorithms/dynamic%20programming/Word%20wrap/i:code)
+ - [Code](http://rosettacode.org/wiki/Word_wrap)
 
 
 

@@ -1,10 +1,10 @@
 ### Index
-* [Motivational](#Motivation)
+* [Motivational](#motivation)
 * [Competitive Programming](#competitive-programming)
 * [Problem Sets] (#problem-sets)
-* [Article & Blogs](#Articles)
-* [Code Repositories](#Code-Repository)
-* [Coding Calendar](#Cdoing-Calendar)
+* [Article & Blogs](#articles)
+* [Code Repositories](#code-repository)
+* [Coding Calendar](#cdoing-calendar)
 
 ### Motivational 
 * [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)

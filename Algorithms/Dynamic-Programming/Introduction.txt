@@ -1,4 +1,0 @@
-Links to Introduction
-====================
-
-1. http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Dynamic/dynamicIntro.htm

@@ -1,5 +1,13 @@
 ### Index
 * [Dynamic Programming](#dynamic-programming)
+ - [Matrix chain multiplication](#matrix-chain-multiplication)
+ - [Maximum SubArray Problem](#maximum-subarray-problem)
+ - [Longest increasing Subsequece](#longest-increasing-subsequece)
+ - [Subset Sum problem](#subset-sum-problem)
+ - [Dynamic Time Wrapping](#dynamic-time-wrapping)
+ - [Overlapping SubProblems](#overlapping-subProblems)
+ - [Word Wrap](#word-wrap)
+ - [Approximate String Mateching](#approximate-string-mateching)
 * [Graph Algorithms](#graph-algorithms)
 * [Greedy Algorithms](#greedy-algorithms)
 * [String and String Pattern Matching](#string-and-string-pattern-matching)
@@ -118,5 +126,6 @@
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/primAlgor.htm)
  - [Article](http://www.brpreiss.com/books/opus4/html/page577.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=BtGuZ-rrUeY)
+
 
 Will be updated soon!

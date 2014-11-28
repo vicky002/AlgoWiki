@@ -83,3 +83,40 @@
  - [Article](http://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
  - [Article](http://www.lalena.com/ai/tsp/)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=IUzE1MbjoVs)
+
+* Iterative deepening depth-first search
+ - [Article](http://intelligence.worldofcomputing.net/ai-search/depth-first-iterative-deepening.html)
+ - [Article](http://www.mr-think.com/Iterativedeepeningdepthfirstsearch3.htm)
+ - [Article](http://www.quickiwiki.com/en/Iterative_deepening)
+ - [Article](http://dictionary.sensagent.com/Iterative%20deepening%20depth-first%20search/en-en/)
+ - [Article](https://mhesham.wordpress.com/tag/iterative-deepening-depth-first-search/)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=7QcoJjSVT38)
+
+* Kruskal's algorithm
+ - [Article](http://www.geeksforgeeks.org/greedy-algorithms-set-2-kruskals-minimum-spanning-tree-mst/)
+ - [Article](http://lcm.csa.iisc.ernet.in/dsa/node184.html)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/kruskalAlgor.htm)
+ - [Analysis](http://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=71UQH7Pr9kU#t=0)
+
+* Longest Path Problem
+ - [Article](http://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Complexity/npComplete.htm)
+ - [Analysis](http://en.wikipedia.org/wiki/Longest_path_problem)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=a3ww0gwEszo#t=0)
+
+* Depth First Search
+ - [Article](http://www.algolist.net/Algorithms/Graph/Undirected/Depth-first_search)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/depthSearch.htm)
+ - [Article](http://intelligence.worldofcomputing.net/ai-search/depth-first-search.html)
+ - [Code](http://en.wikipedia.org/wiki/Depth-first_search)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=iaBEKo5sM7w#t=0)
+
+* Prim's Algorithm
+ - [Article](http://www.cprogramming.com/tutorial/computersciencetheory/mst.html)
+ - [Article](http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/primAlgor.htm)
+ - [Article](http://www.brpreiss.com/books/opus4/html/page577.html)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=BtGuZ-rrUeY)
+
+Will be updated soon!

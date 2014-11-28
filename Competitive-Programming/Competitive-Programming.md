@@ -1,10 +1,16 @@
 ### Index
+* [Syllabus](#syllabus)
 * [Motivational](#motivation)
 * [Competitive Programming](#competitive-programming)
 * [Problem Sets] (#problem-sets)
 * [Article & Blogs](#articles)
 * [Code Repositories](#code-repository)
 * [Coding Calendar](#cdoing-calendar)
+* [Toolkit](#toolkit)
+
+### Syllabus
+* [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
+* [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 
 ### Motivational 
 * [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)
@@ -54,6 +60,7 @@
 
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
+* [Segment Trees](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html?m=1)
 * [Data structure and Algorithm](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Algorithms For Interviews And Competitive Programming](http://turjachaudhuri.wordpress.com)
 * [Getting Started with Competitve Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
@@ -72,3 +79,7 @@
 
 ### Coding Calendar
 * [Hackerrank Calendar](https://www.hackerrank.com/calendar)
+
+### Toolkit
+* [SPOJ Toolkit](http://spojtoolkit.com/)
+* [UVA Toolkit](http://uvatoolkit.com/problemssolve.php)

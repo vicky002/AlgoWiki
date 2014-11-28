@@ -51,8 +51,35 @@
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/)
  - [Article](http://www.w3.org/TR/css3-text/)
  - [Code](http://rosettacode.org/wiki/Word_wrap)
+* Approximate String Mateching
+ - [Article](http://en.wikipedia.org/wiki/Approximate_string_matching)
+ - [Article](http://www.chokkan.org/software/simstring/)
+ - [Article](https://mohamedfahmed.wordpress.com/2010/04/19/approximate-string-matching-on-gpgpus/)
+ - [Video](http://www.daqwest.com/repo/dq/algorithms/dynamic%20programming/Approximate%20string%20matching/i:video)
 
+### Graph Algorithms
 
+* Minimum Spanning Tree
+ - [Article](http://www.cprogramming.com/tutorial/computersciencetheory/mst.html)
+ - [Article](http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Compgeometry/MyCG/CG-Applets/SteinerTree/msteinercli.htm)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=5xosHRdxqHA)
 
- 
+* Coloring Algorithm
+ - [Article](http://www.geeksforgeeks.org/graph-coloring-set-2-greedy-algorithm/)
+ - [Article](http://mathworld.wolfram.com/VertexColoring.html)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=IDG-ldeEda0)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=o3B-V94VnQg)
 
+* Bellman Ford Algorithm
+ - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-23-bellman-ford-algorithm/)
+ - [Article](http://www.laynetworks.com/Bellman%20Ford%20Algorithm.htm)
+ - [Analysis](https://en.wikipedia.org/wiki/Bellman-Ford_algorithm)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=aeCj-BSSGXU)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=W2fKGISUAtM)
+
+* Travelling Salesman problem
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/AproxAlgor/TSP/tsp.htm)
+ - [Article](http://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
+ - [Article](http://www.lalena.com/ai/tsp/)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=IUzE1MbjoVs)

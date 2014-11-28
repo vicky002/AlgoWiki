@@ -9,6 +9,15 @@
  - Word Wrap
  - Approximate String Mateching
 * [Graph Algorithms](#graph-algorithms)
+ - Minimum Spanning Tree
+ - Coloring Algorithm
+ - Bellman Ford Algorithm
+ - Travelling Salesman problem
+ - Iterative deepening depth-first search
+ - Kruskal's algorithm
+ - Longest Path Problem
+ - Depth First Search
+ - Prim's Algorithm
 * [Greedy Algorithms](#greedy-algorithms)
 * [String and String Pattern Matching](#string-and-string-pattern-matching)
 * [Optimization Algorithms](#optimization-algorithms)
@@ -18,6 +27,7 @@
 * [Statics](#statics)
 * [Heap](#heap)
 * [Linked List](#linked-list)
+
 
 ### Dynamic Programming
 * Matrix chain multiplication

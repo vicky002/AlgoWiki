@@ -1,13 +1,13 @@
 ### Index
 * [Dynamic Programming](#dynamic-programming)
- - [Matrix chain multiplication](#matrix-chain-multiplication)
- - [Maximum SubArray Problem](#maximum-subarray-problem)
- - [Longest increasing Subsequece](#longest-increasing-subsequece)
- - [Subset Sum problem](#subset-sum-problem)
- - [Dynamic Time Wrapping](#dynamic-time-wrapping)
- - [Overlapping SubProblems](#overlapping-subProblems)
- - [Word Wrap](#word-wrap)
- - [Approximate String Mateching](#approximate-string-mateching)
+ - Matrix chain multiplication
+ - Maximum SubArray Problem
+ - Longest increasing Subsequece
+ - Subset Sum problem
+ - Dynamic Time Wrapping
+ - Overlapping SubProblems
+ - Word Wrap
+ - Approximate String Mateching
 * [Graph Algorithms](#graph-algorithms)
 * [Greedy Algorithms](#greedy-algorithms)
 * [String and String Pattern Matching](#string-and-string-pattern-matching)

@@ -3,8 +3,6 @@ AlgoWiki
 
 On Internet, There is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
 
-<a href="https://codeclimate.com/github/vicky002/AlgoWiki"><img src="https://codeclimate.com/github/vicky002/AlgoWiki/badges/gpa.svg" /></a>
-
 Navigation
 =========
 * [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)

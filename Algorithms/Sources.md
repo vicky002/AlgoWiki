@@ -37,6 +37,18 @@
  - Chain Matrix Multiplication
  - Delayed Column Generation 
  - Constraint Satisfaction
+* [Combinatorial Algorithms](#combinatorial-algorithms)
+ - Binary Search Algorithm
+ - Cycle Detection
+ - Daitch-Mokotoff Soundex Coding
+ - Double Metaphone Algorithm
+ - Floyd Cycle Detection Algorithm
+ - Fibonacci Search Algorithm
+ - Fisher–Yates shuffle Algorithm 
+ - General Problem Solver
+ - Jump Point Search 
+ - Kadane's Algorithm
+ - Lagged Fibonacci Generators
 * [Trees](#trees)
 * [Stack](#stack)
 * [Queue](#queue)
@@ -265,3 +277,73 @@
  - [Article](http://www.csee.umbc.edu/courses/771/papers/dechter_r.html)
  - [Article](http://ktiml.mff.cuni.cz/~bartak/constraints/constrsat.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=UhAmM3z6KS0)
+
+### Combinatorial Algorithms
+
+* Binary Search Algorithm
+ - [Article](http://www.algolist.net/Algorithms/Binary_search)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/binarySearchTree.htm)
+ - [Article](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binarySearch)
+ - [Article](http://www.csit.parkland.edu/~mbrandyberry/CS1Java/Lessons/Lesson27/BinarySearch.htm)
+ - [Code](http://rosettacode.org/wiki/Binary_search)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=wNVCJj642n4)
+
+* Cycle Detection
+ - [Article](http://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
+ - [Article](http://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
+ - [Article](http://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=0tOXEoHN3Yc)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=I7pT3RRmmuE)
+
+* Daitch-Mokotoff Soundex Coding
+ - [Article](http://www.jewishgen.org/infofiles/soundex.html)
+ - [Article](http://www.avotaynu.com/soundex.htm)
+ - [Article](http://ntz-develop.blogspot.com/2011/03/phonetic-algorithms.html)
+ - [Article](http://www.onegreatfamily.com/blog/index/13-04-19/The_Daitch-Mokotoff_Soundex_System.aspx)
+
+* Double Metaphone Algorithm
+ - [Article](http://www.codeproject.com/Articles/4624/Implement-Phonetic-quot-Sounds-like-quot-Name-Sear)
+ - [Article](http://php.net/manual/en/function.metaphone.php)
+
+* Floyd Cycle Detection Algorithm
+ - [Article](http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
+ - [Article](http://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html)
+ - [Article](http://www.economicexpert.com/a/Floyd:s:cycle:finding:algorithm.htm)
+ - [Article](http://c2.com/cgi/wiki?TortoiseAndHare)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=I7pT3RRmmuE)
+
+* Fibonacci Search Algorithm
+ - [Article](http://www.ics.forth.gr/~lourakis/fibsrch/)
+ - [Article](http://mathfaculty.fullerton.edu/mathews/n2003/FibonacciSearchMod.html)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=i3U-csxumts)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=49V_hbKu-Lc)
+
+* Fisher–Yates shuffle Algorithm 
+ - [Article](http://www.geeksforgeeks.org/shuffle-a-given-array/)
+ - [Article](http://bost.ocks.org/mike/shuffle/)
+ - [Article](http://www.codinghorror.com/blog/2007/12/the-danger-of-naivete.html)
+ - [Article](http://www.i-programmer.info/programming/theory/2744-how-not-to-shuffle-the-kunth-fisher-yates-algorithm.html)
+ - [Article](http://gamedevelopment.tutsplus.com/tutorials/quick-tip-shuffle-cards-or-any-elements-with-the-fisher-yates-shuffle-algorithm--gamedev-6314)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=tLxBwSL3lPQ)
+
+* General Problem Solver
+ - [Article](http://psywww.com/intropsych/ch07_cognition/general_problem_solver.html)
+
+* Jump Point Search 
+ - [Article](http://harablog.wordpress.com/2011/09/07/jump-point-search/)
+ - [Article](http://www.stoimen.com/blog/2011/12/12/computer-algorithms-jump-search/)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=bcDhV7kwWio)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=Kg_0bHEl0-g)
+
+* Kadane's Algorithm
+ - [Article](http://dhruvbird.blogspot.com/2013/04/inside-guts-of-kadanes-algorithm-or.html)
+ - [Article](https://kartikkukreja.wordpress.com/2013/06/17/kadanes-algorithm/)
+ - [Article](http://www.ritambhara.in/kadanes-algorithm-to-find-maximum-subarray-sum/)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=MEPv8rP279I)
+
+* Lagged Fibonacci Generators
+ - [Article](http://www.phy.ornl.gov/csep/rn/node20.html)
+ - [Article](http://www.sprng.org/Version4.0/generators.html)
+ - [Article](http://www.berniepope.id.au/lfg.html)
+ - [Article](http://neohumanism.org/l/la/lagged_fibonacci_generator.html)
+ - [Video](https://www.youtube.com/watch?feature=player_embedded&v=qdmH6slZ0ac)

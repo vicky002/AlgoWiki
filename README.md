@@ -9,6 +9,7 @@ Navigation
 * [Algoriths and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
 * [Free Algorithm Books](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Algorithms-Data_Structures.md)
 * [Free Data Science Book pdfs](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Data%20Science.md)
+* [Machine Learning](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Machine-Learning/Sources.md)
 * [C~pdf books and websites](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 
 

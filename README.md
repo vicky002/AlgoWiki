@@ -13,6 +13,8 @@ Navigation
 
 How to Contribute
 ==================
+We are collecting Websites and resources! Send files,pdfs,printed articles or your bookmark folder @tvicky002@gmail.com ! 
+
 Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)

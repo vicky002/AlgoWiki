@@ -13,7 +13,7 @@ Navigation
 
 How to Contribute
 ==================
-We are collecting Websites and resources! Send files,pdfs,printed articles or your bookmark folder @tvicky002@gmail.com ! 
+We are collecting Websites and resources! Send files,pdfs,printed articles or your bookmark folder @tvicky002@gmail.com 
 
 Read Our Contribution Page
 =======================

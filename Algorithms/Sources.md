@@ -1,3 +1,6 @@
+Suggest us Algorithms to add, just give us names [Here](https://docs.google.com/forms/d/16zan_258T14UBttNgXmgfAcgMU0nTRdE61l23F29EI4/viewform?usp=send_form)!
+-------------------------------------------------------------
+
 ### Index
 * [Dynamic Programming](#dynamic-programming)
  - Matrix chain multiplication

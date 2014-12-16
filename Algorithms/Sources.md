@@ -1,6 +1,6 @@
 Suggest us Algorithms to add, just give us names [Here](https://docs.google.com/forms/d/16zan_258T14UBttNgXmgfAcgMU0nTRdE61l23F29EI4/viewform?usp=send_form)!
 -------------------------------------------------------------
-
+We have lots of links to add here...it will be updated soon!
 ### Index
 * [Dynamic Programming](#dynamic-programming)
  - Matrix chain multiplication
@@ -53,6 +53,13 @@ Suggest us Algorithms to add, just give us names [Here](https://docs.google.com/
  - Kadane's Algorithm
  - Lagged Fibonacci Generators
 * [Trees](#trees)
+ - Andersson Tree
+ - AVL Tree
+ - AND/OR trees
+ - Binary Tree
+ - B-Tree
+ - B-tree and UB-tree
+ - BINARY HEAP
 * [Stack](#stack)
 * [Queue](#queue)
 * [Statics](#statics)
@@ -350,3 +357,48 @@ Suggest us Algorithms to add, just give us names [Here](https://docs.google.com/
  - [Article](http://www.berniepope.id.au/lfg.html)
  - [Article](http://neohumanism.org/l/la/lagged_fibonacci_generator.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=qdmH6slZ0ac)
+
+### Trees
+
+* Andersson Tree
+ - [Article](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
+
+* AVL Tree
+ - [Article](http://www.geeksforgeeks.org/avl-tree-set-1-insertion/)
+ - [Article](http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html)
+ - [Article](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_avl.aspx)
+ - [Article](http://cis.stvincent.edu/html/tutorials/swd/avltrees/avltrees.html)
+ - [Article](http://www.eli.sdsu.edu/courses/fall96/cs660/notes/avl/avl.html)
+ - [Video](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
+
+* AND/OR trees
+ - [Article](http://cs.nyu.edu/courses/spring02/G22.2560-001/andor.html)
+
+* Binary Tree
+ - [Article](http://www.cprogramming.com/tutorial/lesson18.html)
+ - [Article](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/binarySearchTree.htm)
+ - [Article](http://cslibrary.stanford.edu/110/BinaryTrees.html)
+ - [Article](http://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
+ - [Video](https://www.youtube.com/watch?v=M6lYob8STMI)
+
+* B-Tree
+ - [Article](http://www.geeksforgeeks.org/b-tree-set-1-introduction-2/)
+ - [Article](http://guide.couchdb.org/draft/btree.html)
+ - [Article](http://www.bluerwhite.org/btree/)
+ - [Article](http://cis.stvincent.edu/html/tutorials/swd/btree/btree.html)
+ - [Video](https://www.youtube.com/watch?v=coRJrcIYbF4)
+
+* B-tree and UB-tree
+ - [Article](http://www.scholarpedia.org/article/B-tree_and_UB-tree)
+ - [Video(Part1)](https://www.youtube.com/watch?v=Ji6NVCb-td8)
+ - [Video(Part2)](https://www.youtube.com/watch?v=Do2kIruqJnk)
+ - [Video(Part3)](https://www.youtube.com/watch?v=vr1DUj0jL38)
+
+* BINARY HEAP
+ - [Article](http://www.algolist.net/Data_structures/Binary_heap)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/heapSort.htm)
+ - [Article](http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/)
+ - [Video](https://www.youtube.com/watch?v=H7rvz_WdV3U)
+
+Will be updated soon! 

@@ -12,7 +12,7 @@ Navigation
 * [Machine Learning](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Machine-Learning/Sources.md)
 * [C~pdf books and websites](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 * [C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
-* [HTML](https://github.com/vicky002/AlgoWiki/tree/gh-pages/HTML_CSS)
+* [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 
 
 How to Contribute

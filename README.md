@@ -5,7 +5,7 @@ On Internet, There is a lot of knowledge on different topics scarred over differ
 
 Navigation
 =========
-**Some of the links below only contains Pdfs books we will add websites and video resources soon!**
+**Some of the links below contain only Pdfs books we will add websites and video resources soon!**
 
 * [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)
 * [Algoriths and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)

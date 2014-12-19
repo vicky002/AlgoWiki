@@ -1,3 +1,5 @@
+Books
+=====
 JavaScript
 -----------
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
@@ -43,3 +45,8 @@ Node.js
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The Node Beginner Book](http://nodebeginner.org/)
+
+
+Websites + Video Course
+---------------------
+Will be updated soon!

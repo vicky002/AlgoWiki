@@ -13,6 +13,7 @@ Navigation
 * [C~pdf books and websites](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 * [C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
+* [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
 
 
 How to Contribute

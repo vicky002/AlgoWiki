@@ -77,6 +77,8 @@ We have lots of links to add here...it will be updated soon!
  - [Pseudocode](http://en.wikipedia.org/wiki/Maximum_subarray_problem)
  - [Video](http://www.youtube.com/watch?feature=player_embedded&v=MEPv8rP279I)
 * Longest increasing Subsequece
+ - [Article](http://www.lightoj.com/article_show.php?article=1000&language=english&type=pdf)
+ - [Article](http://wcipeg.com/wiki/Longest_increasing_subsequence)
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/)
  - [Article](http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming)
  - [Code](http://rosettacode.org/wiki/Longest_increasing_subsequence)

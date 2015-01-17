@@ -17,6 +17,7 @@ Navigation
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Interview Preparation](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Interviews/resources.md)
 * [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
+* [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
 
 
 How to Contribute

@@ -36,6 +36,9 @@ JavaScript
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+JQuery
+------
+JQuery API(http://api.jquery.com/)
 
 
 Node.js

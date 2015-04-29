@@ -81,6 +81,7 @@
 
 ### Coding Calendar
 * [Hackerrank Calendar](https://www.hackerrank.com/calendar)
+* [Chrome Extension for active and upcoming challenges](https://chrome.google.com/webstore/detail/challenge-hunt/cgbnhngdlmhjbmgkekedepoapmoingjj)
 
 ### Toolkit
 * [SPOJ Toolkit](http://spojtoolkit.com/)

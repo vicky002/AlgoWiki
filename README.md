@@ -19,6 +19,7 @@ Navigation
 * [Artificial Intelligence](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Artifical_Intelligence/resources.md)
 * [All about C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 * [All about C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
+* [All about Java](https://github.com/vicky002/AlgoWiki/blob/gh-pages/java/Java_Resources.md)
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)

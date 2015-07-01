@@ -23,6 +23,7 @@ Navigation
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
+* [Flask](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Interview Preparation](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Interviews/resources.md)
 * [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)

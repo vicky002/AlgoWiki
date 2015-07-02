@@ -21,6 +21,7 @@ Navigation
 * [All about C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
 * [All about Java](https://github.com/vicky002/AlgoWiki/blob/gh-pages/java/Java_Resources.md)
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
+* [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Flask](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)

@@ -37,7 +37,7 @@
 * [Just another Golf Coding](http://jagc.org/)
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
-* [Codeabbey](http://www.codeabbey.com/)
+* [Hackerearth](https://www.hackerearth.com)
 
 
 ### Problem Sets

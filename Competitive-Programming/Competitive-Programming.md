@@ -2,7 +2,7 @@
 * [Syllabus](#syllabus)
 * [Motivational](#motivation)
 * [Competitive Programming](#competitive-programming)
-* [Problem Sets] (#problem-sets)
+* [Problem Sets](#problem-sets)
 * [Article & Blogs](#articles)
 * [Code Repositories](#code-repository)
 * [Coding Calendar](#cdoing-calendar)

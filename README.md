@@ -3,7 +3,7 @@ AlgoWiki - Builidng Knowledge Repositories
 
 On Internet, There is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
 
-[Project Website](https://www.algowiki.in/)
+[Project Website](http://www.algowiki.in/)
 --------------------------------------------
 
 =============

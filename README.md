@@ -5,7 +5,7 @@ On Internet, There is a lot of knowledge on different topics scarred over differ
 Website will be launched soon!
 ------------------------------
 Till then you can access our
-[Project Webpage](https://algowiki.herokuapp.com/)
+[Project Website](https://www.algowiki.in/)
 =============
 Navigation
 =========

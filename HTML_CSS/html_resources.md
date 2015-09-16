@@ -4,6 +4,7 @@
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim
 * [GA Dash](http://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton

@@ -58,6 +58,7 @@
 * [TalentBuddy](http://www.talentbuddy.co/)
 * [Timus Online Judge](http://acm.timus.ru/)
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
+* [URI Online Judge](https://www.urionlinejudge.com.br)
 
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)

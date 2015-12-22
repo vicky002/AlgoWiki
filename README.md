@@ -4,7 +4,7 @@ AlgoWiki - Builidng Knowledge Repositories
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 
-On Internet, There is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
+On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
 
 [Project Website](http://www.algowiki.in/)
 --------------------------------------------
@@ -12,10 +12,10 @@ On Internet, There is a lot of knowledge on different topics scarred over differ
 =============
 Navigation
 =========
-**Some of the links below contain only Pdfs books we will add websites and video resources soon!**
+**Some of the links below contain only Pdfs books. We will add websites and video resources soon!**
 
 * [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)
-* [Algoriths and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
+* [Algorithms and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
 * [Free Algorithm Books](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Algorithms-Data_Structures.md)
 * [Free Data Science Book pdfs](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Data%20Science.md)
 * [Machine Learning](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Machine-Learning/Sources.md)
@@ -36,39 +36,39 @@ Navigation
 
 How to Contribute
 ==================
-We are collecting Websites and resources! Send files,pdfs,printed articles or your bookmark folder @tvicky002@gmail.com 
+We are collecting websites and resources! Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
 
 Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)
-1. You can Add links of different sources on different topics
+1. You can add links of different sources on different topics.
 2. You can also create topics and add diffrent resources to it.
-3. Make sure that links that you provide should be related to the topic!
+3. Make sure that links that you provide are related to the topic!
 
 Topics
 ======
 - Algorithms
 - Operating System
 - Competitive Programming
-- Web Languages
+- Web Languages:
  -  Html
  -  Javascipt
  -  JQuery
- -  php, 
- -  Django,etc!
-- Programming Language 
+ -  PHP, 
+ -  Django, etc!
+- Programming Languages:
  - C
  - C++
  - Java
- - python
+ - Python
 - Machine Learning
 - Artificial Intelligence
-- Discrete Mathematics
+- Discrete Mathematics:
  - Number Theory
  - Graph Theory
  - Combinatorics
  - Game Theory etc!
 
-There are many topics, you can contribute to it, create topics add resources to it!
+There are many topics, you can contribute to it – create topics add resources to it!
 
 

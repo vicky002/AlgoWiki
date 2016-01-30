@@ -55,7 +55,7 @@ Topics
  -  Javascipt
  -  JQuery
  -  PHP, 
- -  Django, etc!
+ -  Django
 - Programming Languages:
  - C
  - C++
@@ -63,12 +63,8 @@ Topics
  - Python
 - Machine Learning
 - Artificial Intelligence
-- Discrete Mathematics:
- - Number Theory
- - Graph Theory
- - Combinatorics
- - Game Theory etc!
+- Discrete Mathematics
 
 There are many topics, you can contribute to it – create topics add resources to it!
 
-
+Buid in :heart: with GitHub! 

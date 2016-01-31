@@ -6,12 +6,10 @@ AlgoWiki - Builidng Knowledge Repositories
 
 On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
 
-[Project Website](http://www.algowiki.in/)
---------------------------------------------
+## [Project Website](http://www.algowiki.in/)
 
-=============
 ## Navigation
-=========
+
 **Some of the links below contain only Pdfs books. We will add websites and video resources soon!**
 
 * [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)

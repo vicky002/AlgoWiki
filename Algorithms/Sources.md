@@ -366,9 +366,9 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://neohumanism.org/l/la/lagged_fibonacci_generator.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=qdmH6slZ0ac)
 
-### Query Processing
+### Trees
 
-* 
+* Andersson Tree
  - [Article](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
 
 * AVL Tree
@@ -409,7 +409,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/)
  - [Video](https://www.youtube.com/watch?v=H7rvz_WdV3U)
 
-### Trees
+### Query Processing
 
 * Fenwick trees
  - [Article](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)

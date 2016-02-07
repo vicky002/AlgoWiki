@@ -264,7 +264,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. [BSD]
 * [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
-* [OpenGL](https://www.opengl.org/) :zap:
+* [Open Graphics Library (OpenGL)](https://www.opengl.org/) :zap: - Cross-platform application programming interface (API) for rendering 2D and 3D vector graphics [SGI][link](http://www.sgi.com/tech/opengl/?/license.html)
 
 ## Image Processing
 

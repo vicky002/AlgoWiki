@@ -60,6 +60,12 @@ We have lots of links to add here...it will be updated soon!
  - B-Tree
  - B-tree and UB-tree
  - BINARY HEAP
+ * [Query Processing](#query-processing)
+ - Fenwick trees
+ - Segment Trees
+ - Mo's Algorithm
+ - Union Find Datastructure
+ - Heavy Light Decomposition
 * [Stack](#stack)
 * [Queue](#queue)
 * [Statics](#statics)
@@ -360,9 +366,9 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://neohumanism.org/l/la/lagged_fibonacci_generator.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=qdmH6slZ0ac)
 
-### Trees
+### Query Processing
 
-* Andersson Tree
+* 
  - [Article](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
 
 * AVL Tree
@@ -402,5 +408,39 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/heapSort.htm)
  - [Article](http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/)
  - [Video](https://www.youtube.com/watch?v=H7rvz_WdV3U)
+
+### Trees
+
+* Fenwick trees
+ - [Article](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+ - [Article](https://en.wikipedia.org/wiki/Fenwick_tree)
+ - [Video](https://www.youtube.com/watch?v=CWDQJGaN1gY)
+ - [Video](https://www.youtube.com/watch?v=kqjOYGc-Wvg)
+
+* Segment Trees
+ - [Article](https://en.wikipedia.org/wiki/Segment_tree)
+ - [Article](http://codeforces.com/blog/entry/18051)
+ - [Article](http://letuskode.blogspot.in/2013/01/segtrees.html)
+ - [Article](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
+ - [Video](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
+
+* Mo's Algorithm
+ - [Article](http://blog.anudeep2011.com/mos-algorithm/)
+ - [Article](https://www.hackerearth.com/notes/mos-algorithm/)
+ - [Article](https://www.hackerearth.com/notes/mos-algorithm/)
+
+* Union Find Datastructure
+ - [Article](https://www.cs.princeton.edu/~rs/AlgsDS07/01UnionFind.pdf)
+ - [Article](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+ - [Article](http://www.cs.cmu.edu/~avrim/451f11/lectures/lect1020.pdf)
+ - [Article](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
+ - [Video](https://www.youtube.com/watch?v=3366m2f-UGQ)
+
+* Heavy Light Decomposition
+ - [Article](http://blog.anudeep2011.com/heavy-light-decomposition/)
+ - [Article](https://en.wikipedia.org/wiki/Heavy_path_decomposition)
+ - [Article](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/)
+ - [Article](https://prashanthkvs.wordpress.com/2012/03/04/heavy-light-decomposition/)
+ - [Video](https://courses.csail.mit.edu/6.851/spring12/lectures/L19.html)
 
 Will be updated soon! 

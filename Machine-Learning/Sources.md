@@ -26,4 +26,57 @@ Machine Learning
 
 Websites
 -------
+* [Kaggle: The Home of Data Science](https://www.kaggle.com/)
+* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* [Welcome to Deep Learning](http://deeplearning.net/)
+* [Excellent Answer by Franck-Dernoncourt](https://www.quora.com/What-are-the-best-talks-lectures-related-to-big-data-algorithms-machine-learning/answer/Franck-Dernoncourt)
+* [Machine Learning Demos](http://mldemos.epfl.ch/)
+* [AI WEBSITES THAT DESIGN THEMSELVES](https://thegrid.io/)
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/http://www.kdnuggets.com/)
+* [Machine Learning in Games](http://satirist.org/learn-game/)
+* [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
+
+
+Libraries
+--------
+Python:
+* [Scikit-learn](http://scikit-learn.org/stable/):
+* [PyBrain](http://pybrain.org/)
+* [Natural Language Toolkit(nltk)](http://www.nltk.org/)
+* [Theano](http://www.deeplearning.net/software/theano/)
+* [Caffe(Deep learning framework by the BVLC)](http://caffe.berkeleyvision.org/)
+* [Pylearn2](http://deeplearning.net/software/pylearn2/)
+* [MDP (Modular toolkit for Data Processing)](http://mdp-toolkit.sourceforge.net/): 
+* [TensorFlow™ ](https://www.tensorflow.org/)
+* [Spark](http://spark.apache.org/)
+* [Milk](https://pypi.python.org/pypi/milk/)
+* [OpenCV(object detection stuff)](http://opencv.willowgarage.com/documentation/python/index.html)
+* [Machine Learning Python](http://mlpy.sourceforge.net/)
+* [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
+Algorithms
+----------
+Kernel Density Estimation and Non-parametric Bayes Classifier
+K-Means
+Kernel Principal Components Analysis
+Linear Regression
+Neighbors (Nearest, Farthest, Range, k, Classification)
+Non-Negative Matrix Factorization
+Support Vector Machines
+Dimensionality Reduction
+Fast Singular Value Decomposition
+Decision Tree
+Bootstapped SVM
+
+Popular DataSets
+---------------
+
+
+
+
+Relevant Research Papers
+---------------------
+
+
+
 Will be updated soon! 

@@ -80,6 +80,7 @@
 ### Code Repository
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)
 * [Igor’s Code Repository](http://shygypsy.com/tools/)
+* [Indy's Code Library](https://sites.google.com/site/indy256/)
 
 ### Coding Calendar
 * [Hackerrank Calendar](https://www.hackerrank.com/calendar)

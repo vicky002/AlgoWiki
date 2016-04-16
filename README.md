@@ -65,4 +65,4 @@ Topics
 
 There are many topics, you can contribute to it – create topics add resources to it!
 
-Buid in :heart: with GitHub! 
+Built with :heart: in GitHub! 

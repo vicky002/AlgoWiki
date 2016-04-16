@@ -31,6 +31,7 @@ Websites
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [Welcome to Deep Learning](http://deeplearning.net/)
 * [Excellent Answer by Franck-Dernoncourt](https://www.quora.com/What-are-the-best-talks-lectures-related-to-big-data-algorithms-machine-learning/answer/Franck-Dernoncourt)
+* [UCI | Machine Learning Repository] (http://archive.ics.uci.edu/ml/)
 * [Machine Learning Demos](http://mldemos.epfl.ch/)
 * [AI WEBSITES THAT DESIGN THEMSELVES](https://thegrid.io/)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/http://www.kdnuggets.com/)

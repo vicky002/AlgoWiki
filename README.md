@@ -66,3 +66,5 @@ Topics
 There are many topics, you can contribute to it – create topics add resources to it!
 
 Built with :heart: in GitHub! 
+
+LICENCE: [MIT](https://github.com/vicky002/AlgoWiki/blob/gh-pages/LICENSE) (c) Vikesh Tiwari, AlgoWiki

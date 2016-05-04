@@ -1,4 +1,4 @@
-
+﻿
 ### Contents
 
 * [Articles](#articles)
@@ -68,9 +68,11 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * **Top Coder tutorials** [[web][c_tct]]
 * **Infoarena training path** (RO) [[web][c_itp]]
 * **LeetCode Online Judge** [[web][c-lc]]
+* **CodeChef** [[web][c_cc]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
+[c_cc]: http://codechef.com/
 [c_cr]: http://coderust.com/
 [c_fpr]: http://resrc.io/
 [c_gcj]: https://code.google.com/codejam/contests.html

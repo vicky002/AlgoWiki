@@ -24,6 +24,7 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [All about php](https://github.com/vicky002/AlgoWiki/blob/gh-pages/PHP/php_resources.md)
 * [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
+* [All about Rust](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rust/rust_resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Flask](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)

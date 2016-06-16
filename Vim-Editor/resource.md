@@ -1,4 +1,4 @@
 # **EVERYTHING ABOUT VIM**
-* ## **Links**
+## **Links**
 * [Basic of Vim] (https://www.linux.com/learn/vim-101-beginners-guide-vim)
 

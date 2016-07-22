@@ -44,7 +44,7 @@ Python Development Resources
             + [For Linux](http://docs.python-guide.org/en/latest/starting/install/linux/)
         + Learning Python
             + [10 ways to learn Python](http://codecondo.com/10-ways-to-learn-python/)
-            + [Think Pytho](http://www.greenteapress.com/thinkpython/html/)
+            + [Think Python](http://www.greenteapress.com/thinkpython/html/)
             + [Learn Python The Hard Way](http://learnpythonthehardway.org/)
             + [A Byte of Python](http://www.swaroopch.com/notes/python/)
             + [Python 101](http://www.rexx.com/~dkuhlman/python_101/python_101.html) 

@@ -21,6 +21,7 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 * [All about C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 * [All about C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
 * [All about Java](https://github.com/vicky002/AlgoWiki/blob/gh-pages/java/Java_Resources.md)
+* [All about Objective-C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Objective_C/sources.md)
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [All about php](https://github.com/vicky002/AlgoWiki/blob/gh-pages/PHP/php_resources.md)
 * [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
@@ -60,6 +61,7 @@ Topics
  - C
  - C++
  - Java
+ - Objective-C
  - Python
 - Machine Learning
 - Artificial Intelligence

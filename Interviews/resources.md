@@ -112,7 +112,7 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 
 Recommended (resume): Gayle McDowell –  **The Google Resume** [[Amazon][g_tgr_amzn]] [[pdf][g_tgr_pdf]]
 
-Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]]
+Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]] [[Solutions][g_cci_soln]]
 
 * **CareerCup** [[web][g_cc]]
 * **Interview Cake** [[web][g_i_cake]]
@@ -125,6 +125,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 [g_cc]: http://www.careercup.com/
 [g_cci_amzn]: http://www.amazon.com/dp/098478280X
 [g_cci_pdf]: https://www.google.com/search?q=cracking+the+coding+interview+pdf
+[g_cci_soln]: https://github.com/aanchal204/Cracking-the-Coding-Interview
 [g_i_cake]: https://www.interviewcake.com/
 [g_cfi]: http://codingforinterviews.com/
 [g_ma]:  http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html

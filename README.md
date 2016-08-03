@@ -43,7 +43,7 @@ Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)
 1. You can add links of different sources on different topics.
-2. You can also create topics and add diffrent resources to it.
+2. You can also create topics and add different resources to it.
 3. Make sure that links that you provide are related to the topic!
 
 Topics
@@ -63,6 +63,7 @@ Topics
  - Java
  - Objective-C
  - Python
+ - Rust
 - Machine Learning
 - Artificial Intelligence
 - Discrete Mathematics

@@ -231,3 +231,4 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
 * [job_interview](https://github.com/ruby-jokes/job_interview)
 * [what-happens-when](https://github.com/alex/what-happens-when)
+* [interview](https://github.com/andreis/interview)

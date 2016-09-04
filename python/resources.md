@@ -138,7 +138,8 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
         + [jtauber](http://lanyrd.com/profile/jtauber/)@lanyrd
         + [NextDayVideo](http://www.youtube.com/user/NextDayVideo)
 + Miscellaneous
-    + [PyMite](https://wiki.python.org/moin/PyMite) Python on a microcontroller
+    + [PyMite](https://wiki.python.org/moin/PyMite) - Python on a microcontroller
+    + [Pyserial](http://pythonhosted.org/pyserial/) - Pyserial encapsulates the access for the serial port
 + Hosting
     + [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
     + [Dotcloud](http://docs.dotcloud.com/services/python/)

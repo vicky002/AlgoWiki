@@ -166,6 +166,7 @@ Reference
 
 * [CERT C Coding Standard][266]
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
+* [C language reference][349]
 * [Draft C11 standard][247]
 * [GNU C Reference Manual][329]
 * [Robert Pike's notes on programming in C][273]
@@ -861,3 +862,4 @@ XML
 [346]: http://www.mission-base.com/peter/source/pbl/doc/AIntroduction.html
 [347]: http://cdecl.org/
 [348]: https://github.com/mpv-player/mpv
+[349]: http://ctp.mkprog.com/en/c/

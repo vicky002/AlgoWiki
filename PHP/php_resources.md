@@ -751,6 +751,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
+* [PHP Reference](http://ctp.mkprog.com/en/php/) - with examples and comparison to other languages
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 * [Nomad PHP](http://nomadphp.com/) - A online PHP learning resource.

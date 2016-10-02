@@ -130,6 +130,8 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
           + tools for integrating C/C++ and Fortran code   
           + useful linear algebra, Fourier transform, and random number capabilities   
         + [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
+    + Data Analysis
+        + [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)

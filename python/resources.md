@@ -155,3 +155,6 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
     + [AWS Elasticbeanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python.html)
     + [Deis](http://deis.io/) - Private PaaS like Heroku
     + [Webfaction](https://www.webfaction.com/) - Shared hosting
++ Books
+    + [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)    
+    + [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distrubted Computer Programming in Python

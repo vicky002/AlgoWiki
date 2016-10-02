@@ -122,6 +122,14 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
         + [Dumbo](http://klbostee.github.io/dumbo/) - Convenient Python API for writing MapReduce programs.
         + [Hadoopy](http://www.hadoopy.com/en/latest/)
         + [Pydoop](http://pydoop.sourceforge.net/docs/)
+    + Science and Mathematics    
+        + [SciPy](https://www.scipy.org/) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering    
+        + [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things:   
+          + a powerful N-dimensional array object  
+          + sophisticated (broadcasting) functions   
+          + tools for integrating C/C++ and Fortran code   
+          + useful linear algebra, Fourier transform, and random number capabilities   
+        + [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)

@@ -590,6 +590,7 @@ All about Java frameworks, libraries and software.
 * [Java Code Geeks](http://www.javacodegeeks.com/)
 * [Java.net](http://java.net/)
 * [Javalobby](http://java.dzone.com/)
+* [Java reference](http://ctp.mkprog.com/en/java/)
 * [JavaWorld](http://www.javaworld.com/)
 * [Java, SQL, and jOOQ](http://blog.jooq.org/)
 * [JAXenter](http://jaxenter.com/)

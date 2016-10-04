@@ -645,6 +645,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 
 * [Standard C++](http://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
 * [CppCon](http://cppcon.org/) - The C++ Conference.
+* [C++ basic reference](http://ctp.mkprog.com/en/c%2B%2B/) - C++, Visual C++ .NET reference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [C FAQ](http://c-faq.com/) - C frequently asked questions.

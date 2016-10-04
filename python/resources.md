@@ -44,7 +44,7 @@ Python Development Resources
             + [For Linux](http://docs.python-guide.org/en/latest/starting/install/linux/)
         + Learning Python
             + [10 ways to learn Python](http://codecondo.com/10-ways-to-learn-python/)
-            + [Think Pytho](http://www.greenteapress.com/thinkpython/html/)
+            + [Think Python](http://www.greenteapress.com/thinkpython/html/)
             + [Learn Python The Hard Way](http://learnpythonthehardway.org/)
             + [A Byte of Python](http://www.swaroopch.com/notes/python/)
             + [Python 101](http://www.rexx.com/~dkuhlman/python_101/python_101.html) 
@@ -122,6 +122,16 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
         + [Dumbo](http://klbostee.github.io/dumbo/) - Convenient Python API for writing MapReduce programs.
         + [Hadoopy](http://www.hadoopy.com/en/latest/)
         + [Pydoop](http://pydoop.sourceforge.net/docs/)
+    + Science and Mathematics    
+        + [SciPy](https://www.scipy.org/) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering    
+        + [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things:   
+          + a powerful N-dimensional array object  
+          + sophisticated (broadcasting) functions   
+          + tools for integrating C/C++ and Fortran code   
+          + useful linear algebra, Fourier transform, and random number capabilities   
+        + [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
+    + Data Analysis
+        + [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)
@@ -138,7 +148,8 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
         + [jtauber](http://lanyrd.com/profile/jtauber/)@lanyrd
         + [NextDayVideo](http://www.youtube.com/user/NextDayVideo)
 + Miscellaneous
-    + [PyMite](https://wiki.python.org/moin/PyMite) Python on a microcontroller
+    + [PyMite](https://wiki.python.org/moin/PyMite) - Python on a microcontroller
+    + [Pyserial](http://pythonhosted.org/pyserial/) - Pyserial encapsulates the access for the serial port
 + Hosting
     + [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
     + [Dotcloud](http://docs.dotcloud.com/services/python/)
@@ -146,3 +157,6 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
     + [AWS Elasticbeanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python.html)
     + [Deis](http://deis.io/) - Private PaaS like Heroku
     + [Webfaction](https://www.webfaction.com/) - Shared hosting
++ Books
+    + [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)    
+    + [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distrubted Computer Programming in Python

@@ -1,4 +1,4 @@
-﻿
+
 ### Contents
 
 * [Articles](#articles)
@@ -105,6 +105,8 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 * [Impact Interview](http://www.impactinterview.com/2009/10/140-google-interview-questions/#software_engineer)
 * [Dynamic Programming](http://hawstein.com/posts/dp-novice-to-advanced.html)
 * [Interviewbit](https://www.interviewbit.com/) 
+* [CodeWars](https://www.codewars.com/)
+* [FireCode](https://www.firecode.io/)
 
 [c_tb_app1]: https://github.com/zouzhile/interview
 
@@ -112,7 +114,7 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 
 Recommended (resume): Gayle McDowell –  **The Google Resume** [[Amazon][g_tgr_amzn]] [[pdf][g_tgr_pdf]]
 
-Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]]
+Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]] [[Solutions][g_cci_soln]]
 
 * **CareerCup** [[web][g_cc]]
 * **Interview Cake** [[web][g_i_cake]]
@@ -125,6 +127,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 [g_cc]: http://www.careercup.com/
 [g_cci_amzn]: http://www.amazon.com/dp/098478280X
 [g_cci_pdf]: https://www.google.com/search?q=cracking+the+coding+interview+pdf
+[g_cci_soln]: https://github.com/aanchal204/Cracking-the-Coding-Interview
 [g_i_cake]: https://www.interviewcake.com/
 [g_cfi]: http://codingforinterviews.com/
 [g_ma]:  http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html
@@ -230,3 +233,4 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
 * [job_interview](https://github.com/ruby-jokes/job_interview)
 * [what-happens-when](https://github.com/alex/what-happens-when)
+* [interview](https://github.com/andreis/interview)

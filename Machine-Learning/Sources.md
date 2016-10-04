@@ -8,6 +8,7 @@ Machine Learning
 * [Machine Learning | Standford] (https://see.stanford.edu/Course/CS229) - Andrew Ng *(Notes, lectures and videos)*
 * [Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf) (PDF)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* [Building Machine Learning Systems with Python](http://totoharyanto.staff.ipb.ac.id/files/2012/10/Building-Machine-Learning-Systems-with-Python-Richert-Coelho.pdf)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
@@ -38,6 +39,10 @@ Websites
 * [Machine Learning in Games](http://satirist.org/learn-game/)
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 
+Online Courses
+-------
+* [Machine Learning - Specialization (6 courses) by Emily Fox and Carlos Guestrin (University of Washington)](https://www.coursera.org/specializations/machine-learning)
+* [Machine Learning by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
 
 Libraries
 --------

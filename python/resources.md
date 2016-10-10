@@ -5,6 +5,7 @@ Python Development Resources
     + [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
     + [Learning Python The Hard Way](http://learnpythonthehardway.org/book/)
     + [Python By Example](http://www.lightbird.net/py-by-example/)
+    + [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
     + [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
     + [Porting to Python 3 Redux](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/) - 
       Write code that works on Python 2.6, 2.7 and 3.3

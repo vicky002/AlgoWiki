@@ -37,7 +37,8 @@ Websites
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Machine Learning in Games](http://satirist.org/learn-game/)
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
-
+* [Reinforcement Learning](http://outlace.com/)
+* [Deep Beat(Lyrics Generating AI)](http://deepbeat.org/)
 
 Libraries
 --------
@@ -55,6 +56,9 @@ Python:
 * [OpenCV(object detection stuff)](http://opencv.willowgarage.com/documentation/python/index.html)
 * [Machine Learning Python](http://mlpy.sourceforge.net/)
 * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+* [Keras](https://keras.io/)
+* [Lassage (Built over Theano)](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
+
 
 Algorithms
 ----------

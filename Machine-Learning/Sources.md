@@ -17,6 +17,7 @@ Machine Learning
 * [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf) (PDF)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/) - This book is based on the EC (ESPRIT) project StatLog.
+* [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) -  Edward Loper, Ewan Klein, and Steven Bird (PDF)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
@@ -31,10 +32,9 @@ Websites
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [Welcome to Deep Learning](http://deeplearning.net/)
 * [Excellent Answer by Franck-Dernoncourt](https://www.quora.com/What-are-the-best-talks-lectures-related-to-big-data-algorithms-machine-learning/answer/Franck-Dernoncourt)
-* [UCI | Machine Learning Repository] (http://archive.ics.uci.edu/ml/)
 * [Machine Learning Demos](http://mldemos.epfl.ch/)
 * [AI WEBSITES THAT DESIGN THEMSELVES](https://thegrid.io/)
-* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/http://www.kdnuggets.com/)
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Machine Learning in Games](http://satirist.org/learn-game/)
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 

@@ -55,7 +55,6 @@
 * [Project Euler](https://projecteuler.net/)
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
 * [Sphere Online Judge](http://www.spoj.com/)
-* [TalentBuddy](http://www.talentbuddy.co/)
 * [Timus Online Judge](http://acm.timus.ru/)
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [URI Online Judge](https://www.urionlinejudge.com.br)

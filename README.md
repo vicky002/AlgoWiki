@@ -21,15 +21,18 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 * [All about C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 * [All about C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
 * [All about Java](https://github.com/vicky002/AlgoWiki/blob/gh-pages/java/Java_Resources.md)
+* [All about Objective-C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Objective_C/sources.md)
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [All about php](https://github.com/vicky002/AlgoWiki/blob/gh-pages/PHP/php_resources.md)
 * [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
+* [All about Rust](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rust/rust_resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Flask](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Interview Preparation](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Interviews/resources.md)
 * [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
+* [Linux](https://github.com/vicky002/AlgoWiki/tree/gh-pages/Linux)
 
 
 How to Contribute
@@ -40,7 +43,7 @@ Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)
 1. You can add links of different sources on different topics.
-2. You can also create topics and add diffrent resources to it.
+2. You can also create topics and add different resources to it.
 3. Make sure that links that you provide are related to the topic!
 
 Topics
@@ -58,7 +61,9 @@ Topics
  - C
  - C++
  - Java
+ - Objective-C
  - Python
+ - Rust
 - Machine Learning
 - Artificial Intelligence
 - Discrete Mathematics
@@ -66,3 +71,5 @@ Topics
 There are many topics, you can contribute to it – create topics add resources to it!
 
 Built with :heart: in GitHub! 
+
+LICENCE: [MIT](https://github.com/vicky002/AlgoWiki/blob/gh-pages/LICENSE) (c) Vikesh Tiwari, AlgoWiki

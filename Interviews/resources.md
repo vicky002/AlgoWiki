@@ -104,7 +104,7 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 * [GeeksforGeeks](http://geeksforgeeks.org/forum/forum/interview-questions)
 * [Impact Interview](http://www.impactinterview.com/2009/10/140-google-interview-questions/#software_engineer)
 * [Dynamic Programming](http://hawstein.com/posts/dp-novice-to-advanced.html)
-* [Interviewbit](https://www.interviewbit.com/) 
+* [Interviewbit](https://www.interviewbit.com/)
 * [CodeWars](https://www.codewars.com/)
 * [FireCode](https://www.firecode.io/)
 
@@ -121,7 +121,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
-* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
+* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]]
 * Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
 [g_cc]: http://www.careercup.com/
@@ -214,7 +214,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell – **Cracking the Coding Interview** [[Youtube][v_cci]]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
-* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]] 
+* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]]
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
 [v_cci2]: http://youtu.be/aClxtDcdpsQ
@@ -234,3 +234,5 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [job_interview](https://github.com/ruby-jokes/job_interview)
 * [what-happens-when](https://github.com/alex/what-happens-when)
 * [interview](https://github.com/andreis/interview)
+* [interview](https://github.com/sam17/interview)
+* [interview](https://github.com/mission-peace/interview)

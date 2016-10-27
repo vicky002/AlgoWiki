@@ -7,6 +7,7 @@
 * [Code Repositories](#code-repository)
 * [Coding Calendar](#cdoing-calendar)
 * [Toolkit](#toolkit)
+* [Quora posts](#Quora-posts)
 
 ### Syllabus
 * [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
@@ -20,6 +21,7 @@
  - [2011 ICPC Regionals Victory](http://blog.nikhilgarg.me/2011/12/we-came-we-saw-we-conquered.html)
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
+* [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
 
 ### Competitive Programming
 * [4Clojure](http://www.4clojure.com/)
@@ -91,3 +93,7 @@
 
 ###Similar Repositories
 * [Awesome-Competitive-Programming](https://github.com/lnishan/awesome-competitive-programming)
+
+### Quora posts
+* [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
+

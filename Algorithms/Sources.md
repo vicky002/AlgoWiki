@@ -138,6 +138,7 @@ We have lots of links to add here...it will be updated soon!
 * Bellman Ford Algorithm
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-23-bellman-ford-algorithm/)
  - [Article](http://www.laynetworks.com/Bellman%20Ford%20Algorithm.htm)
+ - [Article](https://compprog.wordpress.com/2007/11/29/one-source-shortest-path-the-bellman-ford-algorithm/)
  - [Analysis](https://en.wikipedia.org/wiki/Bellman-Ford_algorithm)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=aeCj-BSSGXU)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=W2fKGISUAtM)

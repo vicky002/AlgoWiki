@@ -77,6 +77,7 @@
 * [Topcoder Match Editorial Archive](http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis)
 * [Codechef Editorials](http://www.codechef.com/wiki/editorials-codechef-contest-problems)
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
+* [List of other resources](http://codeforces.com/blog/entry/23054)
 
 ### Code Repository
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)

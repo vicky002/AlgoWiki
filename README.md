@@ -4,7 +4,7 @@ AlgoWiki - Builidng Knowledge Repositories
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow Check AlgoWiki on @gitHub by @vikesh002 : https://github.com/vicky002/AlgoWiki &url=%5Bobject%20Object%5D)
 
 
-On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
+On the Internet, there is a vast ocean of knowledge on different and varied topics. Most of this knowledge is either available online on the web or resides with the people as human knowledge. I want to create this repository as a platform to bind these scattered pieces of knowledge, spread over various websites at one place! 
 
 ## [Project Website](http://www.algowiki.in/)
 
@@ -37,7 +37,7 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 
 How to Contribute
 ==================
-We are collecting websites and resources! Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
+We are collecting links to websites and resources. Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
 
 Read Our Contribution Page
 =======================
@@ -68,7 +68,7 @@ Topics
 - Artificial Intelligence
 - Discrete Mathematics
 
-There are many topics, you can contribute to it – create topics add resources to it!
+There are many topics, you can contribute to – Just create topics and add resources to it!
 
 Built with :heart: in GitHub! 
 

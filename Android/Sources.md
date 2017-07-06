@@ -10,7 +10,7 @@ Android
 ### Online Training ###
 
 * [Vogella](http://www.vogella.com/tutorials/android.html)
-* [Android Basics Nanodegree by Goole](https://in.udacity.com/course/android-basics-nanodegree-by-google--nd803/)
+* [Android Basics Nanodegree](https://in.udacity.com/course/android-basics-nanodegree-by-google--nd803/)
 * [Tutorials Point](https://www.tutorialspoint.com/android/)
 * [Udemy](https://www.udemy.com/courses/development/mobile-development/Android-Video-Tutorials/)
 * [Lynda](https://www.lynda.com/Android-training-tutorials/947-0.html)

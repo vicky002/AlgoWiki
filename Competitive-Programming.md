@@ -13,7 +13,7 @@
 * [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
 * [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 
-### Motivational
+### Motivational 
 * [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)
 * [Target in six steps](http://community.topcoder.com/tc?module=Static&d1=features&d2=070805)– Petr Mitrichev
 * Nikhil Garg’s blog posts
@@ -64,7 +64,7 @@
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
 * [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
-* [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html)
+* [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html) 
 * [Segment Trees](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html?m=1)
 * [Data structure and Algorithm](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Algorithms For Interviews And Competitive Programming](http://turjachaudhuri.wordpress.com)
@@ -77,7 +77,6 @@
 * [Topcoder Match Editorial Archive](http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis)
 * [Codechef Editorials](http://www.codechef.com/wiki/editorials-codechef-contest-problems)
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
-* [List of other resources](http://codeforces.com/blog/entry/23054)
 
 ### Code Repository
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)
@@ -91,10 +90,7 @@
 ### Toolkit
 * [SPOJ Toolkit](http://spojtoolkit.com/)
 * [UVA Toolkit](http://uvatoolkit.com/problemssolve.php)
-
-###Similar Repositories
-* [Awesome-Competitive-Programming](https://github.com/lnishan/awesome-competitive-programming)
+* [Animations for Various Data Structure and Algorithm](https://visualgo.net)
 
 ### Quora posts
 * [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
-

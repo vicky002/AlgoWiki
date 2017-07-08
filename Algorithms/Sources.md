@@ -23,6 +23,12 @@ We have lots of links to add here...it will be updated soon!
  - Prim's Algorithm
  - Topological Sorting
  - Transitive closure
+* [Sort Algorithms](#sort-algorithms)
+ - Bubble Sort
+ - Selection Sort
+ - Insertion Sort
+ - Merge Sort
+ - Quick Sort
 * [String and String Pattern Matching](#string-and-string-pattern-matching)
  - Aho-Corasick string matching algorithm
  - Rabin-Karp Algorithm
@@ -138,6 +144,7 @@ We have lots of links to add here...it will be updated soon!
 * Bellman Ford Algorithm
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-23-bellman-ford-algorithm/)
  - [Article](http://www.laynetworks.com/Bellman%20Ford%20Algorithm.htm)
+ - [Article](https://compprog.wordpress.com/2007/11/29/one-source-shortest-path-the-bellman-ford-algorithm/)
  - [Analysis](https://en.wikipedia.org/wiki/Bellman-Ford_algorithm)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=aeCj-BSSGXU)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=W2fKGISUAtM)
@@ -198,7 +205,38 @@ We have lots of links to add here...it will be updated soon!
  - [Analysis](http://en.wikipedia.org/wiki/Transitive_closure)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=UGiG4PoCC-E)
 
+### Sort Algorithms
 
+* Bubble Sort
+ - [Article](http://quiz.geeksforgeeks.org/bubble-sort/)
+ - [Article](https://en.wikipedia.org/wiki/Bubble_sort)
+ - [Article](http://www.algolist.net/Algorithms/Sorting/Bubble_sort)
+ - [Video](https://www.youtube.com/watch?v=y_Nuui4Qf-k)
+ 
+* Selection Sort
+ - [Article](http://quiz.geeksforgeeks.org/selection-sort/)
+ - [Article](https://en.wikipedia.org/wiki/Selection_sort)
+ - [Video](https://www.youtube.com/watch?v=6nDMgr0-Yyo)
+ 
+* Insertion Sort
+ - [Article](quiz.geeksforgeeks.org/insertion-sort/)
+ - [Article](https://en.wikipedia.org/wiki/Insertion_sort)
+ - [Article](https://www.tutorialspoint.com/data_structures_algorithms/insertion_sort_algorithm.htm)
+ - [Video](https://www.youtube.com/watch?v=i-SKeOcBwko)
+ 
+* Merge Sort
+ - [Article](quiz.geeksforgeeks.org/merge-sort/)
+ - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/mergeSort.htm)
+ - [Article](https://en.wikipedia.org/wiki/Merge_sort)
+ - [Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
+ 
+* Quick Sort
+ - [Article](http://quiz.geeksforgeeks.org/quick-sort/)
+ - [Article](https://en.wikipedia.org/wiki/Quicksort)
+ - [Article](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
+ - [Video](https://www.youtube.com/watch?v=COk73cpQbFQ)
+ 
+ 
 ### String and String Pattern Matching
 
 * Aho-Corasick string matching algorithm

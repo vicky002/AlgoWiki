@@ -1,7 +1,6 @@
 AlgoWiki - Builidng Knowledge Repositories
 ============================================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow Check AlgoWiki on @gitHub by @vikesh002 : https://github.com/vicky002/AlgoWiki &url=%5Bobject%20Object%5D)
 
 
 On the Internet, there is a vast ocean of knowledge on different and varied topics. Most of this knowledge is either available online on the web or resides with the people as human knowledge. I want to create this repository as a platform to bind these scattered pieces of knowledge, spread over various websites at one place! 

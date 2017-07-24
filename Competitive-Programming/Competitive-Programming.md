@@ -41,6 +41,9 @@
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
 
+### Competitive Programming Problem Recommender
+* [Code-Drills](https://code-drills.com/)
+
 
 ### Problem Sets
 * [Anarchy Golf](http://golf.shinh.org/)
@@ -78,6 +81,7 @@
 * [Codechef Editorials](http://www.codechef.com/wiki/editorials-codechef-contest-problems)
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
 * [List of other resources](http://codeforces.com/blog/entry/23054)
+* [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
 
 ### Code Repository
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)
@@ -94,7 +98,8 @@
 
 ###Similar Repositories
 * [Awesome-Competitive-Programming](https://github.com/lnishan/awesome-competitive-programming)
-
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses#algorithms)
+* [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
 ### Quora posts
 * [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
 

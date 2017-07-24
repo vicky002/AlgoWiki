@@ -32,7 +32,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
 * [Linux](https://github.com/vicky002/AlgoWiki/tree/gh-pages/Linux)
-
+* [Open Source Guide](https://opensource.guide/)
 
 How to Contribute
 ==================

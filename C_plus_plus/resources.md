@@ -639,6 +639,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of TheNewBoston's C programming tutorials are right here.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
+* [Derek Banas C++ in One Video](https://www.youtube.com/watch?v=Rub-JsjMhWY&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY) - Gives a good overview/review of the functionality of C++
 
 ## Websites
 *Useful C/C++ related websites.*

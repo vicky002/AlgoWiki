@@ -130,6 +130,11 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
           + sophisticated (broadcasting) functions   
           + tools for integrating C/C++ and Fortran code   
           + useful linear algebra, Fourier transform, and random number capabilities   
+        + [Sympy](http://www.sympy.org) - SymPy is a Python library for symbolic mathematics. It contains the following features:
+          + SymPy includes features ranging from basic symbolic arithmetic to calculus, algebra, discrete mathematics and quantum physics.
+          + It is capable of formatting the result of the computations as LaTeX code.
+          
+          [Here's the list of Projects based on Sympy](https://en.wikipedia.org/wiki/SymPy#Related_projects)
         + [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
     + Data Analysis
         + [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language

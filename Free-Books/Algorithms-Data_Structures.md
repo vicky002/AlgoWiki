@@ -32,3 +32,4 @@ Algorithms And Data Structures
 * [The Art of Computer Programming(fascicles, mostly volume 4) - Donald Knuth](http://www.cs.utsa.edu/~wagner/knuth)
 * [The Design of Approximation Algorithms(PDF)](http://www.designofapproxalgs.com/book.pdf)
 * [The Great Tree List Recursion Problem (PDF)](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf)
+*  [cracking the coding interview](https://technicalyorker.files.wordpress.com/2016/02/cracking-the-coding-interview1.pdf)

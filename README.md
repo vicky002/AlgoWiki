@@ -30,6 +30,8 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 * [Interview Preparation](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Interviews/resources.md)
 * [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
+* [Rails](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rails/rails_resources.md)
+* [Ruby](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Ruby/ruby_resources.md)
 
 
 How to Contribute
@@ -52,13 +54,15 @@ Topics
  -  Html
  -  Javascipt
  -  JQuery
- -  PHP, 
+ -  PHP 
  -  Django
+ -  Rails
 - Programming Languages:
  - C
  - C++
  - Java
  - Python
+ - Ruby
 - Machine Learning
 - Artificial Intelligence
 - Discrete Mathematics

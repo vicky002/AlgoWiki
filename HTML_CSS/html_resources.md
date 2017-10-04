@@ -4,6 +4,7 @@
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim
 * [GA Dash](http://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Gov.uk Form Elements Style Guide](http://govuk-elements.herokuapp.com/form-elements/)
 * [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com/)
@@ -17,4 +18,21 @@
 
 Websites..
 --------
+
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
+
+
+Learn through games
+--------
+
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Grid Garden](http://cssgridgarden.com/)
+
+
+Methodologies
+--------
+
+* [BEM: About](https://en.bem.info/methodology/)
+* [BEM: Introduction](http://getbem.com/introduction/)
+* [BEM: CSS Tricks Guide](https://css-tricks.com/bem-101)

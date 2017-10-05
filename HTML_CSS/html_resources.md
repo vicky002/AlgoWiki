@@ -22,6 +22,8 @@
 * [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [Learn CSS Layout](http://learnlayout.com/)
+* [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
+* [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
 
 ## Frameworks
 --------

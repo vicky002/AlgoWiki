@@ -10,6 +10,7 @@ JavaScript
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/) - Marijn Haverbeke
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Human Javascript](http://read.humanjavascript.com/)
+* [JavaScript and JQuery: Interactive Front-End Web Development](http://javascriptbook.com/) - Jon Duckett
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley

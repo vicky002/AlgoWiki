@@ -74,6 +74,7 @@ Online
   - https://www.tagtree.tv/library
   - http://code.tutsplus.com/categories/javascript/courses
   - https://github.com/bolshchikov/js-must-watch (one-off videos)
+  - https://www.youtube.com/watch?v=fju9ii8YsGs
 - Coding Challenges
   - http://www.codecademy.com/
   - http://www.codewars.com/

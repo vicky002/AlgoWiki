@@ -1,10 +1,14 @@
 AlgoWiki - Builidng Knowledge Repositories
 ============================================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow Check AlgoWiki on @gitHub by @vikesh002 : https://github.com/vicky002/AlgoWiki &url=%5Bobject%20Object%5D)
 
 
-On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
+On the Internet, there is a vast ocean of knowledge on different and varied topics. Most of this knowledge is either available online on the web or resides with the people as human knowledge. I want to create this repository as a platform to bind these scattered pieces of knowledge, spread over various websites at one place! 
+
+## Donate ($1) - Help me in making AlgoWiki Better
+[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
+
+
 
 ## [Project Website](http://www.algowiki.in/)
 
@@ -21,9 +25,11 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 * [All about C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
 * [All about C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
 * [All about Java](https://github.com/vicky002/AlgoWiki/blob/gh-pages/java/Java_Resources.md)
+* [All about Objective-C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Objective_C/sources.md)
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [All about php](https://github.com/vicky002/AlgoWiki/blob/gh-pages/PHP/php_resources.md)
 * [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
+* [All about Rust](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rust/rust_resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Flask](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
@@ -32,17 +38,18 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
 * [Rails](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rails/rails_resources.md)
 * [Ruby](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Ruby/ruby_resources.md)
-
+* [Linux](https://github.com/vicky002/AlgoWiki/tree/gh-pages/Linux)
+* [Open Source Guide](https://opensource.guide/)
 
 How to Contribute
 ==================
-We are collecting websites and resources! Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
+We are collecting links to websites and resources. Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
 
 Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)
 1. You can add links of different sources on different topics.
-2. You can also create topics and add diffrent resources to it.
+2. You can also create topics and add different resources to it.
 3. Make sure that links that you provide are related to the topic!
 
 Topics
@@ -61,12 +68,17 @@ Topics
  - C
  - C++
  - Java
+ - Objective-C
  - Python
  - Ruby
+ - Rust
 - Machine Learning
 - Artificial Intelligence
+- Android
 - Discrete Mathematics
 
-There are many topics, you can contribute to it – create topics add resources to it!
+There are many topics, you can contribute to – Just create topics and add resources to it!
 
 Built with :heart: in GitHub! 
+
+LICENCE: [MIT](https://github.com/vicky002/AlgoWiki/blob/gh-pages/LICENSE) (c) Vikesh Tiwari, AlgoWiki

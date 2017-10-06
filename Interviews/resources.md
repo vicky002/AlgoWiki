@@ -68,9 +68,11 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * **Top Coder tutorials** [[web][c_tct]]
 * **Infoarena training path** (RO) [[web][c_itp]]
 * **LeetCode Online Judge** [[web][c-lc]]
+* **CodeChef** [[web][c_cc]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
+[c_cc]: http://codechef.com/
 [c_cr]: http://coderust.com/
 [c_fpr]: http://resrc.io/
 [c_gcj]: https://code.google.com/codejam/contests.html
@@ -102,7 +104,10 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 * [GeeksforGeeks](http://geeksforgeeks.org/forum/forum/interview-questions)
 * [Impact Interview](http://www.impactinterview.com/2009/10/140-google-interview-questions/#software_engineer)
 * [Dynamic Programming](http://hawstein.com/posts/dp-novice-to-advanced.html)
-* [Interviewbit](https://www.interviewbit.com/) 
+* [Interviewbit](https://www.interviewbit.com/)
+* [CodeWars](https://www.codewars.com/)
+* [FireCode](https://www.firecode.io/)
+* [GeeksforGeeks](http://www.geeksforgeeks.org/about/interview-corner/)
 
 [c_tb_app1]: https://github.com/zouzhile/interview
 
@@ -110,19 +115,20 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 
 Recommended (resume): Gayle McDowell –  **The Google Resume** [[Amazon][g_tgr_amzn]] [[pdf][g_tgr_pdf]]
 
-Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]]
+Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]] [[Solutions][g_cci_soln]]
 
 * **CareerCup** [[web][g_cc]]
 * **Interview Cake** [[web][g_i_cake]]
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
-* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
+* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]]
 * Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
 [g_cc]: http://www.careercup.com/
 [g_cci_amzn]: http://www.amazon.com/dp/098478280X
 [g_cci_pdf]: https://www.google.com/search?q=cracking+the+coding+interview+pdf
+[g_cci_soln]: https://github.com/aanchal204/Cracking-the-Coding-Interview
 [g_i_cake]: https://www.interviewcake.com/
 [g_cfi]: http://codingforinterviews.com/
 [g_ma]:  http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html
@@ -209,7 +215,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell – **Cracking the Coding Interview** [[Youtube][v_cci]]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
-* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]] 
+* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]]
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
 [v_cci2]: http://youtu.be/aClxtDcdpsQ
@@ -228,3 +234,6 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
 * [job_interview](https://github.com/ruby-jokes/job_interview)
 * [what-happens-when](https://github.com/alex/what-happens-when)
+* [interview](https://github.com/andreis/interview)
+* [interview](https://github.com/sam17/interview)
+* [interview](https://github.com/mission-peace/interview)

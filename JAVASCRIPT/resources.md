@@ -10,6 +10,7 @@ JavaScript
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/) - Marijn Haverbeke
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Human Javascript](http://read.humanjavascript.com/)
+* [JavaScript and JQuery: Interactive Front-End Web Development](http://javascriptbook.com/) - Jon Duckett
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley
@@ -17,6 +18,7 @@ JavaScript
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
+* [JavaScript Reference](http://ctp.mkprog.com/en/javascript/)
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
@@ -36,6 +38,9 @@ JavaScript
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+JQuery
+------
+JQuery API(http://api.jquery.com/)
 
 
 Node.js
@@ -75,6 +80,8 @@ Online
   - http://www.codewars.com/
   - http://ejohn.org/apps/learn/
   - http://nodeschool.io/
+  - https://www.freecodecamp.com/
+  
 
 **Short guides**
 

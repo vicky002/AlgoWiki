@@ -7,12 +7,13 @@
 * [Code Repositories](#code-repository)
 * [Coding Calendar](#cdoing-calendar)
 * [Toolkit](#toolkit)
+* [Quora posts](#Quora-posts)
 
 ### Syllabus
 * [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
 * [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 
-### Motivational 
+### Motivational
 * [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)
 * [Target in six steps](http://community.topcoder.com/tc?module=Static&d1=features&d2=070805)– Petr Mitrichev
 * Nikhil Garg’s blog posts
@@ -20,6 +21,7 @@
  - [2011 ICPC Regionals Victory](http://blog.nikhilgarg.me/2011/12/we-came-we-saw-we-conquered.html)
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
+* [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
 
 ### Competitive Programming
 * [4Clojure](http://www.4clojure.com/)
@@ -39,6 +41,9 @@
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
 
+### Competitive Programming Problem Recommender
+* [Code-Drills](https://code-drills.com/)
+
 
 ### Problem Sets
 * [Anarchy Golf](http://golf.shinh.org/)
@@ -55,7 +60,6 @@
 * [Project Euler](https://projecteuler.net/)
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
 * [Sphere Online Judge](http://www.spoj.com/)
-* [TalentBuddy](http://www.talentbuddy.co/)
 * [Timus Online Judge](http://acm.timus.ru/)
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
@@ -63,7 +67,7 @@
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
 * [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
-* [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html) 
+* [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html)
 * [Segment Trees](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html?m=1)
 * [Data structure and Algorithm](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Algorithms For Interviews And Competitive Programming](http://turjachaudhuri.wordpress.com)
@@ -76,6 +80,8 @@
 * [Topcoder Match Editorial Archive](http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis)
 * [Codechef Editorials](http://www.codechef.com/wiki/editorials-codechef-contest-problems)
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
+* [List of other resources](http://codeforces.com/blog/entry/23054)
+* [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
 
 ### Code Repository
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)
@@ -89,3 +95,11 @@
 ### Toolkit
 * [SPOJ Toolkit](http://spojtoolkit.com/)
 * [UVA Toolkit](http://uvatoolkit.com/problemssolve.php)
+
+###Similar Repositories
+* [Awesome-Competitive-Programming](https://github.com/lnishan/awesome-competitive-programming)
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses#algorithms)
+* [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
+### Quora posts
+* [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
+

@@ -19,4 +19,4 @@ Resources For Learning Cryptograpy
 	+ [khans acadmy journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
 	+ [All About Cryptography](http://freevideolectures.com/Course/3027/Cryptography-and-Network-Security)
 	+ [Cryptography: Encryption](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption/)
-	+ [learn from youtube channel Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)]
+	+ [learn from youtube channel Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)

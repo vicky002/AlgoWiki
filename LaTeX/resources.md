@@ -11,3 +11,9 @@
  - [LaTeX Tutorials](https://www.latex-tutorial.com)
  - [Getting Started with LATEX](http://www.rpi.edu/dept/arc/training/latex/class-slides-pc.pdf)
 
+## Templates
+ - [Resumes](https://www.sharelatex.com/templates/cv-or-resume)
+ - [IEEE LaTeX Templates](https://www.ieee.org/documents/ieee-latex-conference-template.zip)
+ - [Letters](https://en.wikibooks.org/wiki/LaTeX/Letters)
+ - [Lab/Project](https://www.overleaf.com/gallery/tagged/report)
+ 

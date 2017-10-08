@@ -24,6 +24,13 @@
 * [Learn CSS Layout](http://learnlayout.com/)
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
 * [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
+* [CSSmatic - CSS short cuts](http://www.cssmatic.com/)
+* [GRID GARDEN- A GAME FOR LEARNING CSS](http://cssgridgarden.com/)
+* [Flexbox froggy- A GAME FOR LEARNING CSS](http://flexboxfroggy.com/)
+* [Sassmeister](https://www.sassmeister.com/)
+* [Udacity-Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+* [Basic+advance](https://learn.shayhowe.com/)
+* [HTMLDOG](http://www.htmldog.com/)
 
 ## Frameworks
 --------
@@ -31,3 +38,12 @@
 * [Foundation](https://foundation.zurb.com/)
 * [Semantic UI](https://semantic-ui.com/)
 * [Material IO](https://material.io/)
+* [Materialize CSS](http://materializecss.com/)
+* [Bulma](http://bulma.io/)
+* [Fabric](https://developer.microsoft.com/en-us/fabric)
+* [Sass](http://sass-lang.com/)
+* [Bootsrap-from basic](https://www.w3schools.com/bootstrap/default.asp)
+
+
+
+

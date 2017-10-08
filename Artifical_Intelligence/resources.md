@@ -66,3 +66,4 @@ Contributions most welcome.
 ## Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
+* [AI APIs To Implement](https://developer.ibm.com/api/list)

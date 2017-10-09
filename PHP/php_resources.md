@@ -220,6 +220,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement the dependency injection design pattern.*
 
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Nette DI](https://github.com/nette/di) - Full fledged dependency injection container with autowiring
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
@@ -272,6 +273,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Jenkins](http://jenkins-ci.org/) A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+* [Grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool, which can be useful on dev stage
 
 ## Documentation
 *Libraries for generating project documentation.*
@@ -295,6 +297,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Argon2](https://github.com/charlesportwoodii/php-argon2-ext) - A next generation of BCrypt hash, with CPU/GPU/Memory constraints
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -357,6 +360,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Blackfire.io](http://blackfire.io) - A low-overhead code profiler.
+* [PHPSPX](https://github.com/NoiseByNorthwest/php-spx) A PHP profiling extension.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -565,6 +569,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+* [Money](https://github.com/sebastianbergmann/money) A Value Object that represents a monetary value (and stores it correctly in database)
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*

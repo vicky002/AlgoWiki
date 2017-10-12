@@ -6,3 +6,5 @@
 * [Interactive Vim Tutorial](http://www.openvim.com/)
 * [Become a vim genius](http://www.vimgenius.com/)
 * [Other similar sites](http://www.labnol.org/internet/learning-vim-for-beginners/28820/)
+* [VIM Adventures - Learning VIM while playing a game](https://vim-adventures.com/)
+* [Vim help files online](http://vimhelp.appspot.com/)

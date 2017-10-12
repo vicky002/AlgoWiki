@@ -1,4 +1,4 @@
-AlgoWiki - Builidng Knowledge Repositories
+AlgoWiki - Building Knowledge Repositories
 ============================================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)
 

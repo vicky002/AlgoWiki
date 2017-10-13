@@ -39,6 +39,11 @@ Websites
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 * [Reinforcement Learning](http://outlace.com/)
 * [Deep Beat(Lyrics Generating AI)](http://deepbeat.org/)
+* [UCI KDD Archive](http://kdd.ics.uci.edu/)
+* [DELVE datasets](http://www.cs.toronto.edu/~delve/data/datasets.html)
+* [AWS Public datasets](https://aws.amazon.com/datasets/)
+* [Pew Research Center](http://www.pewresearch.org/download-datasets/)
+* [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
 
 Libraries
 --------

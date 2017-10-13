@@ -1,16 +1,31 @@
 # Rails Development Resources
 
-## Books
+### [Index](#index)
+- [Books](#books)
+- [Generators](#generators)
+- [Guides](#guides)
+- [Online Tutorials](#online-tutorials)
+- [Rails Community](#rails-community)
+- [Rails Official Documentation](#rails-official-documentation)
+
+### Books
 - [Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, Efficient, Full-Stack Web Development, 2nd Edition](https://www.amazon.com/Rails-Angular-Postgres-Bootstrap-Development/dp/1680502204/ref=sr_1_5?s=books&ie=UTF8&qid=1507076657&sr=1-5&keywords=Rails) by David B. Copeland
 - [Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book) by Michael Hartl
 
-## Rails Community
-- [Rails for Zombies](http://railsforzombies.org/)
-- [RailsCasts](http://railscasts.com)
-- [GoRails](https://gorails.com)
-- [Drifting Ruby](https://www.driftingruby.com/)
+### Generators
+- [Rails Composer](https://github.com/RailsApps/rails-composer)
+- [Prelang](http://prelang.com)
+- [Hobo](http://www.hobocentral.net)
 
-## Online Tutorials
+### Guides
+- [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
+- [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
+- [Famous Web Apps Built with Ruby on Rails](https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/)
+- [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
+- [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
+- [Five Practices for Robust Ruby on Rails Applications](https://blog.codeship.com/five-practices-for-robust-ruby-on-rails-applications/)
+
+### Online Tutorials
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [12 Ruby Apps in 12 Weeks Video Walk-through](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 - [Codecademy: Ruby on Rails](https://www.codecademy.com/learn/learn-rails)
@@ -25,20 +40,13 @@
 - [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 - [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
 
-## Guides
-- [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
-- [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
-- [Famous Web Apps Built with Ruby on Rails](https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/)
-- [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
-- [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
-- [Five Practices for Robust Ruby on Rails Applications](https://blog.codeship.com/five-practices-for-robust-ruby-on-rails-applications/)
+### Rails Community
+- [Rails for Zombies](http://railsforzombies.org/)
+- [RailsCasts](http://railscasts.com)
+- [GoRails](https://gorails.com)
+- [Drifting Ruby](https://www.driftingruby.com/)
 
-## Generators
-- [Rails Composer](https://github.com/RailsApps/rails-composer)
-- [Prelang](http://prelang.com)
-- [Hobo](http://www.hobocentral.net)
-
-## Rails Official Documentation
+### Rails Official Documentation
 - [Ruby on Rails API](http://api.rubyonrails.org/)
 - [Rails Official Website](http://rubyonrails.org)
 - [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>

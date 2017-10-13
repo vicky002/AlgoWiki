@@ -2,6 +2,9 @@ AlgoWiki - Builidng Knowledge Repositories
 ============================================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)
 
+### Join Our community Forum for discussions related Project AlgoWiki, Computer Science Resources, Internships and Job etc. [AlgoWiki - Eulercoder Community on Slack](https://publicslack.com/slacks/eulercodercommunity/invites/new)
+
+---
 
 On the Internet, there is a vast ocean of knowledge on different and varied topics. Most of this knowledge is either available online on the web or resides with the people as human knowledge. I want to create this repository as a platform to bind these scattered pieces of knowledge, spread over various websites at one place! 
 

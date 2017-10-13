@@ -1,6 +1,6 @@
 AlgoWiki - Builidng Knowledge Repositories
 ============================================
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D) | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)  | [![GitHub stars](https://img.shields.io/github/stars/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/issues) | [![GitHub forks](https://img.shields.io/github/forks/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/network) 
 
 ### Join Our community Forum for discussions related Project AlgoWiki, Computer Science Resources, Internships and Job etc. [AlgoWiki - Eulercoder Community on Slack](https://publicslack.com/slacks/eulercodercommunity/invites/new)
 

@@ -719,7 +719,7 @@ Libraries to help manage database schemas and migrations.
 *Alternative PHP virtual machines.*
 
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-* [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
+* [HippyVM](http://hippyvm.baroquesoftware.com) - Another PHP virtual machine.
 * [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
 
 ## Integrated Development Environment

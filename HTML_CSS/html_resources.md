@@ -28,6 +28,8 @@
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
 * [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
 * [CSSmatic - CSS short cuts](http://www.cssmatic.com/)
+* [CSS-Tricks - Articles on implementing design using CSS](https://css-tricks.com/)
+* [CSS Zen Garden - Finding design inspirations](http://www.csszengarden.com/)
 * [GRID GARDEN- A GAME FOR LEARNING CSS](http://cssgridgarden.com/)
 * [Flexbox froggy- A GAME FOR LEARNING CSS](http://flexboxfroggy.com/)
 * [Sassmeister](https://www.sassmeister.com/)

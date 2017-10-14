@@ -227,6 +227,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 
 ## Similar Github repos
 
+* [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) **(NEW)**
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide) **(NEW)**
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles) **(NEW)**
 * [interview-resources](https://github.com/davidhampgonsalves/interview-resources)

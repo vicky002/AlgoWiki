@@ -39,6 +39,11 @@ Websites
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 * [Reinforcement Learning](http://outlace.com/)
 * [Deep Beat(Lyrics Generating AI)](http://deepbeat.org/)
+* [UCI KDD Archive](http://kdd.ics.uci.edu/)
+* [DELVE datasets](http://www.cs.toronto.edu/~delve/data/datasets.html)
+* [AWS Public datasets](https://aws.amazon.com/datasets/)
+* [Pew Research Center](http://www.pewresearch.org/download-datasets/)
+* [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
 
 Libraries
 --------
@@ -58,6 +63,7 @@ Python:
 * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [Keras](https://keras.io/)
 * [Lassage (Built over Theano)](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
+* [PyTorch](http://pytorch.org/)
 
 
 Algorithms
@@ -76,7 +82,10 @@ Bootstapped SVM
 
 Popular DataSets
 ---------------
-
+* [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+* [Iris Dataset](http://archive.ics.uci.edu/ml/datasets/Iris)
+* [Wine Quality Dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+* [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 
 

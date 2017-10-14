@@ -1,4 +1,4 @@
-AlgoWiki - Builidng Knowledge Repositories
+AlgoWiki - Building Knowledge Repositories
 ============================================
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow,%20Check%20AlgoWiki%20-%20CS%20all%20resources%20at%20one%20place!%20by%20@vikesh002%20on%20Github:&url=https://github.com/vicky002/AlgoWiki/)| [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)  | [![GitHub stars](https://img.shields.io/github/stars/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/issues) | [![GitHub forks](https://img.shields.io/github/forks/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/network) 
 
@@ -11,9 +11,6 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 ## Donate ($1) - Help me in making AlgoWiki Better
 [<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
 
-
-
-## [Project Website](http://www.algowiki.in/)
 
 ## Navigation
 

@@ -79,6 +79,7 @@ Python Development Resources
     + [Pylons (now Pyramid)](http://www.pylonsproject.org/)
     + [CherryPy](http://cherrypy.org/)
     + [Flask](http://flask.pocoo.org/)
+    + [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio (PEP 3156).
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
     + [Web2py](http://web2py.com/)
@@ -169,7 +170,13 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
     + [Webfaction](https://www.webfaction.com/) - Shared hosting
 + Books
     + [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)    
-    + [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distributed Computer Programming in Python
     + [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.co.uk/Black-Hat-Python-Programming-Pentesters/dp/1593275900) - An overview of penetration testing and hacking techniques for the Python programmer
     + [Hacking Secret Ciphers with Python](https://inventwithpython.com/hackingciphers.pdf) - Cipher breaking using automated Python scripts. Useful for CTF competitions
     + [Invent Your Own Computer Games with Python](https://inventwithpython.com/inventwithpython_3rd.pdf) - Introduction to making games using the Python Pygame library
++ Podcasts
+    + [Talk python to me](https://talkpython.fm/)
+    + [Python bytes](https://pythonbytes.fm)
+    + [podcast.init](https://www.podcastinit.com)
+    + [Python testing](http://pythontesting.net/test-podcast/)
+    + [Import this](https://www.kennethreitz.org/import-this/)
+    

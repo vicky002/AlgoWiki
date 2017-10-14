@@ -52,6 +52,7 @@ Python Development Resources
             + [Codecademy](http://www.codecademy.com/tracks/python)
             + [Coursera](https://www.coursera.org/courses?search=python)
             + [Edx](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA)
+            + [Udemy](https://www.udemy.com/the-python-mega-course/learn/v4/overview)
         + Libraries
             + [Django Jenkins](https://github.com/kmmbvnr/django-jenkins)-Plug and play continuous integration with django and jenkins
             + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
@@ -90,6 +91,7 @@ Python Development Resources
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
     + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
     + [lxml](http://lxml.de/) - XML and HTML with Python
+    + [geopy](https://github.com/geopy/geopy) - geocoding client for web services
     + [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
     + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
     + [IPython](http://ipython.org/ipython-doc/stable/interactive/tutorial.html) - Extended interactive shell
@@ -135,11 +137,11 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
         + [Sympy](http://www.sympy.org) - SymPy is a Python library for symbolic mathematics. It contains the following features:
           + SymPy includes features ranging from basic symbolic arithmetic to calculus, algebra, discrete mathematics and quantum physics.
           + It is capable of formatting the result of the computations as LaTeX code.
-          
           [Here's the list of Projects based on Sympy](https://en.wikipedia.org/wiki/SymPy#Related_projects)
         + [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
     + Data Analysis
         + [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+        + [Bokeh](https://bokeh.pydata.org/en/latest/) - Bokeh is a Python interactive visualization library that targets modern web browsers for presentation. 
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)
@@ -167,4 +169,7 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
     + [Webfaction](https://www.webfaction.com/) - Shared hosting
 + Books
     + [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)    
-    + [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distrubted Computer Programming in Python
+    + [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distributed Computer Programming in Python
+    + [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.co.uk/Black-Hat-Python-Programming-Pentesters/dp/1593275900) - An overview of penetration testing and hacking techniques for the Python programmer
+    + [Hacking Secret Ciphers with Python](https://inventwithpython.com/hackingciphers.pdf) - Cipher breaking using automated Python scripts. Useful for CTF competitions
+    + [Invent Your Own Computer Games with Python](https://inventwithpython.com/inventwithpython_3rd.pdf) - Introduction to making games using the Python Pygame library

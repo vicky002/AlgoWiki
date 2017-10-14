@@ -5,10 +5,11 @@ Machine Learning
 * [AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java](http://wps.aw.com/wps/media/objects/5771/5909832/PDF/Luger_0136070477_1.pdf) - George F. Luger, William A Stubblefield
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
-* [Machine Learning | Standford] (https://see.stanford.edu/Course/CS229) - Andrew Ng *(Notes, lectures and videos)*
+* [Machine Learning | Standford](https://see.stanford.edu/Course/CS229) - Andrew Ng *(Notes, lectures and videos)*
 * [Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf) (PDF)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
+* [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
@@ -39,6 +40,7 @@ Websites
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 * [Reinforcement Learning](http://outlace.com/)
 * [Deep Beat(Lyrics Generating AI)](http://deepbeat.org/)
+* [Interactive Neural Networks](http://fabrik.cloudcv.org/#/?_k=7vro5p)
 
 Libraries
 --------

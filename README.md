@@ -12,9 +12,6 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 [<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
 
 
-
-## [Project Website](http://www.algowiki.in/)
-
 ## Navigation
 
 **Some of the links below contain only Pdfs books. We will add websites and video resources soon!**

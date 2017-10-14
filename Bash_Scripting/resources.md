@@ -18,3 +18,7 @@ A curated list of resources
 * [Advanced Bash-Scripting Guide - An in-depth exploration of the art of shell scripting](http://tldp.org/LDP/abs/html/)
 * [Subshells in Bash Scripts](https://www.lifewire.com/subshells-in-bash-scripts-2200581)
 * [What is a Subshell?](https://bash.cyberciti.biz/guide/What_is_a_Subshell%3F)
+* [Ryans Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+* [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+* [Bash Academy](http://www.bash.academy/)
+* [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)

@@ -20,7 +20,6 @@
 ### Guides
 - [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 - [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
-- [Famous Web Apps Built with Ruby on Rails](https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/)
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
 - [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
 - [Five Practices for Robust Ruby on Rails Applications](https://blog.codeship.com/five-practices-for-robust-ruby-on-rails-applications/)
@@ -43,7 +42,6 @@
 ### Rails Community
 - [Rails for Zombies](http://railsforzombies.org/)
 - [RailsCasts](http://railscasts.com)
-- [GoRails](https://gorails.com)
 - [Drifting Ruby](https://www.driftingruby.com/)
 
 ### Rails Official Documentation

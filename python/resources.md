@@ -78,6 +78,7 @@ Python Development Resources
     + [Pylons (now Pyramid)](http://www.pylonsproject.org/)
     + [CherryPy](http://cherrypy.org/)
     + [Flask](http://flask.pocoo.org/)
+    + [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio (PEP 3156).
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
     + [Web2py](http://web2py.com/)

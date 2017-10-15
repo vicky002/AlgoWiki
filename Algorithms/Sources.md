@@ -82,7 +82,7 @@ We have lots of links to add here...it will be updated soon!
 ### Dynamic Programming
 * Matrix chain multiplication
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Dynamic/chainMatrixMult.htm)
- - [PsuedoCode](http://en.wikipedia.org/wiki/Matrix_chain_multiplication)
+ - [PseudoCode](http://en.wikipedia.org/wiki/Matrix_chain_multiplication)
  - [Video](http://www.youtube.com/watch?feature=player_embedded&v=u6Y055g4mOE)
 * Maximum SubArray Problem
  - [Article](http://cs.slu.edu/~goldwasser/courses/slu/csci314/2012_Fall/lectures/maxsubarray/)

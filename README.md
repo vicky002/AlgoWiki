@@ -39,6 +39,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [Rails](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rails/rails_resources.md)
 * [Ruby](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Ruby/ruby_resources.md)
 * [Linux](https://github.com/vicky002/AlgoWiki/tree/gh-pages/Linux)
+* [Compilers](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Compilers/resources.md)
 * [Open Source Guide](https://opensource.guide/)
 
 How to Contribute
@@ -76,6 +77,7 @@ Topics
 - Artificial Intelligence
 - Android
 - Discrete Mathematics
+- Compilers
 
 There are many topics, you can contribute to – Just create topics and add resources to it!
 

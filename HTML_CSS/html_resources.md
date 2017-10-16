@@ -36,3 +36,11 @@ Methodologies
 * [BEM: About](https://en.bem.info/methodology/)
 * [BEM: Introduction](http://getbem.com/introduction/)
 * [BEM: CSS Tricks Guide](https://css-tricks.com/bem-101)
+
+
+Tools
+--------
+* [CSS Arrow Generator](http://www.cssarrowplease.com/)
+* [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+* [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [Favicon Generator](http://www.favicon.cc/?)

@@ -24,3 +24,9 @@ Resources For Learning Cryptography
 	+ [Number Theory and Cryptography] (https://www.coursera.org/learn/number-theory-cryptography)
 	+ [Cryptography I] (https://www.coursera.org/learn/crypto)
 	+ [Cryptography II] (https://www.coursera.org/learn/crypto2)
++ Diffrent Plateforms For Learning Cryptography.
+	+ [Learn cybersecurity and cryptography](https://www.cybrary.it/)
+	+ [Crypto101 cryptography](https://www.crypto101.io/)
+	+ [Learn encryption and decryption from learncryptography](https://learncryptography.com/)
+	+ [Cryptography-ibm tutorials](https://www.ibm.com/developerworks/tivoli/tutorials/s-crypto/s-crypto.html)
+	+ [Learn cryptography from tutorialspoint](https://www.tutorialspoint.com/cryptography/index.htm)

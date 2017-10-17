@@ -68,17 +68,17 @@ Python:
 
 Algorithms
 ----------
-Kernel Density Estimation and Non-parametric Bayes Classifier
-K-Means
-Kernel Principal Components Analysis
-Linear Regression
-Neighbors (Nearest, Farthest, Range, k, Classification)
-Non-Negative Matrix Factorization
-Support Vector Machines
-Dimensionality Reduction
-Fast Singular Value Decomposition
-Decision Tree
-Bootstapped SVM
+* Kernel Density Estimation and Non-parametric Bayes Classifier
+* K-Means
+* Kernel Principal Components Analysis
+* Linear Regression
+* Neighbors (Nearest, Farthest, Range, k, Classification)
+* Non-Negative Matrix Factorization
+* Support Vector Machines
+* Dimensionality Reduction
+* Fast Singular Value Decomposition
+* Decision Tree
+* Bootstrapped SVM
 
 Popular DataSets
 ---------------
@@ -95,3 +95,8 @@ Relevant Research Papers
 
 
 Will be updated soon! 
+
+Podcasts
+---------------------
+* [Talking Machines](http://www.thetalkingmachines.com/)
+* [Data Skeptic](https://dataskeptic.com/)

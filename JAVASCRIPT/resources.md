@@ -77,6 +77,7 @@ Online
   - https://github.com/bolshchikov/js-must-watch (one-off videos)
   - https://www.youtube.com/watch?v=fju9ii8YsGs
   - https://javascript30.com/
+  - https://www.udacity.com/course/intro-to-javascript--ud803
 - Coding Challenges
   - http://www.codecademy.com/
   - http://www.codewars.com/

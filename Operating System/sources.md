@@ -12,7 +12,7 @@
 - https://www.bottomupcs.com/csbu.pdf
 - http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 - http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
-- http://dinus.ac.id/repository/docs/ajar/Operating_System.pdf
+- http://dinus.ac.id/repository/docs/ajar/Operating_System.pdf 
 
 # Code, Snippets
 

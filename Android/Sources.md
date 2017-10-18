@@ -23,6 +23,10 @@ Android
 ### Tools ###
 * [Android Studio](https://developer.android.com/studio/index.html)
 
+### Testing frameworks ###
+
+* Unit testing framework : [Mockito](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html)
+* UI testing framework : [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html)
 
 ### Community ###
 * [Android Developers](https://developer.android.com/support.html)

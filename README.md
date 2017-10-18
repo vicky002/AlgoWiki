@@ -66,6 +66,7 @@ Topics
 - Machine Learning
 - Artificial Intelligence
 - Discrete Mathematics
+- News and Inspiration
 
 There are many topics, you can contribute to it – create topics add resources to it!
 

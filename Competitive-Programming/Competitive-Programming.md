@@ -31,6 +31,9 @@
 * [List of other resources](http://codeforces.com/blog/entry/23054)
 * [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
 
+### Books
+* [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
+* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 
 ### Code Repository
 

@@ -25,6 +25,7 @@ Machine Learning
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
+* [Naive Bayes Classifier](https://www.youtube.com/watch?v=os-NaA0ldGs&list=PLBv09BD7ez_6CxkuiFTbL3jsn2Qd1IU7B&index=1)
 
 Websites
 -------
@@ -86,6 +87,7 @@ Popular DataSets
 * [Iris Dataset](http://archive.ics.uci.edu/ml/datasets/Iris)
 * [Wine Quality Dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 * [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+* [Car Evaluation Data Set](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 
 
 

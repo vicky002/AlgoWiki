@@ -88,7 +88,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://cs.slu.edu/~goldwasser/courses/slu/csci314/2012_Fall/lectures/maxsubarray/)
  - [Pseudocode](http://en.wikipedia.org/wiki/Maximum_subarray_problem)
  - [Video](http://www.youtube.com/watch?feature=player_embedded&v=MEPv8rP279I)
-### Longest increasing Subsequece
+### Longest increasing subsequence
  - [Article](http://www.lightoj.com/article_show.php?article=1000&language=english&type=pdf)
  - [Article](http://wcipeg.com/wiki/Longest_increasing_subsequence)
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/)
@@ -121,7 +121,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/)
  - [Article](http://www.w3.org/TR/css3-text/)
  - [Code](http://rosettacode.org/wiki/Word_wrap)
-### Approximate String Mateching
+### Approximate String Matching
  - [Article](http://en.wikipedia.org/wiki/Approximate_string_matching)
  - [Article](http://www.chokkan.org/software/simstring/)
  - [Article](https://mohamedfahmed.wordpress.com/2010/04/19/approximate-string-matching-on-gpgpus/)

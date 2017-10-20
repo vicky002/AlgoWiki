@@ -9,6 +9,7 @@
 * [Maths](#maths)
 * [Misc](#misc)
 * [Questions](#questions)
+* [Resume](#resume)
 * [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
@@ -192,6 +193,9 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 [q_ja]: http://blog.codinghorror.com/how-good-an-estimator-are-you/
 [q_piq]: http://maxnoy.com/interviews.html
 [q_ps]: http://prismoskills.appspot.com/freshers.jsp
+
+## Resume
+* [Careercup: Tips on a good resume](https://www.careercup.com/resume)
 
 
 ## Systems Design

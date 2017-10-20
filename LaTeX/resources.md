@@ -1,10 +1,15 @@
 # LaTeX
 ## Installation
  - #### Ubuntu
-   ```$ sudo apt-get install texlive-full```
-   ```$ sudo apt-get install texmaker```
+
+        $ sudo apt-get install texlive-full
+
+        $ sudo apt-get install texmaker
+
  - #### Windows
-    Download  and Install [MikTeX](https://miktex.org/download) and [TeXstudio](http://www.texstudio.org/)
+    Download and install [MikTeX](https://miktex.org/download) and [TeXstudio](http://www.texstudio.org/)
+ - #### macOS
+    Download and install [MacTeX](https://www.tug.org/mactex/) and [TeXworks](https://www.tug.org/texworks/)
 
 ## Tutorials
  - [Creating a LaTeX Document](https://www.youtube.com/watch?v=SoDv0qhyysQ)

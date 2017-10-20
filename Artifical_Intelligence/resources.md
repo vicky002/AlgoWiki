@@ -6,6 +6,17 @@ Contributions most welcome.
 
 ![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
 
+## Index
+- [Online Courses](#online-courses)
+- [Books About Artificial Intelligence](#books-about-artificial-intelligence)
+- [Programming](#programming)
+- [Philosophy of AI](#philosophy-of-ai)
+- [Free Content](#free-content)
+- [Code](#code)
+- [Videos/Talks](#videostalks)
+- [Learning](#learning)
+- [Misc](#misc)
+
 ## Online Courses
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course

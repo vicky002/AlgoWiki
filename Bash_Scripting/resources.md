@@ -22,3 +22,7 @@ A curated list of resources
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 * [Bash Academy](http://www.bash.academy/)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+* [Bash Hacker's Wiki](http://wiki.bash-hackers.org/)
+* [BashGuide](http://mywiki.wooledge.org/BashGuide)
+* [Cyberciti Bash Tutorials](https://bash.cyberciti.biz/guide/Main_Page)
+* [Beginners Bash Guide](http://linuxcourse.rutgers.edu/documents/Bash-Beginners-Guide/)

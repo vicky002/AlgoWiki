@@ -9,6 +9,8 @@
 - https://www.tutorialspoint.com/operating_system/
 - https://www.ops-class.org/courses/buffalo/CSE421_Spring2017/
 - http://www.studytonight.com/operating-system/
+- people.csail.mit.edu/rinard/osnotes/
+- http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004
 
 
 # Books

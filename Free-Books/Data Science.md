@@ -40,7 +40,7 @@
 * [The Wealth of Networks](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler - `Beginner`
 
 #### Statistics
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
+* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veteran`
 * [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
 * [Analyzing Linguistic Data: a practical introduction to statistics](http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 * [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`

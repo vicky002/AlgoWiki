@@ -40,7 +40,7 @@
 * :closed_book: [The Wealth of Networks](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler - `Beginner`
 
 #### Statistics
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veteran`
+* :mortar_board: [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veteran`
 * :closed_book: [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
 * :closed_book: [Analyzing Linguistic Data: a practical introduction to statistics](http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 * :books: [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
@@ -56,10 +56,10 @@
 #### Data Mining
 * :books: [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www2.dcc.ufmg.br/livros/miningalgorithms/files/pdf/dmafca.pdf) - Mohammed J. Zaki and Wagner Meira Jr. - `Intermediate`
 * :closed_book: [Data Mining and Knowledge Discovery in Real Life Applications](http://www.intechopen.com/books/data_mining_and_knowledge_discovery_in_real_life_applications) - Julio Ponce and Adem Karahoca - `Beginner`
-* [Data Mining for Social Network Data](http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
+* :mortar_board: [Data Mining for Social Network Data](http://link.springer.com/book/10.1007%2F978-1-4419-6287-4) - Springer - `Veteran`
 * :books: [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Anand Rajaraman, Jure Leskovec, and Jeffrey D. Ullman - `Intermediate`
 * :books: [Knowledge-Oriented Applications in Data Mining](http://www.intechopen.com/books/knowledge-oriented-applications-in-data-mininge) - Kimito Funatsu - `Intermediate`
-* [New Fundamental Technologies in Data Mining](http://www.intechopen.com/books/new-fundamental-technologies-in-data-mining) - Kimito Funatsu - `Intermediate`
+* :books: [New Fundamental Technologies in Data Mining](http://www.intechopen.com/books/new-fundamental-technologies-in-data-mining) - Kimito Funatsu - `Intermediate`
 * :closed_book: [R and Data Mining: Examples and Case Studies](http://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf) - Yanchang Zhao - `Beginner`
 * :books: [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman - `Intermediate`
 * :books: [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining) - Shigeaki Sakurai - `Intermediate`
@@ -68,8 +68,8 @@
 #### Machine Learning
 * :closed_book: [A Course in Machine Learning](http://ciml.info/) - Hal Daume - `Beginner`
 * :closed_book: [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
-* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
-* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/) - Carl Edward Rasmussen and Christopher K. I. Williams - `Veteran`
+* :mortar_board: [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/031013.pdf) - David Barber - `Veteran`
+* :mortar_board: [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/) - Carl Edward Rasmussen and Christopher K. I. Williams - `Veteran`
 * :books: [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 * :books: [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 * :books: [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`

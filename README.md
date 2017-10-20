@@ -16,7 +16,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 
 **Some of the links below contain only Pdfs books. We will add websites and video resources soon!**
 
-* [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)
+* [All about Competitive-Programming](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Competitive-Programming/Competitive-Programming.md)
 * [Algorithms and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
 * [Free Algorithm Books](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Algorithms-Data_Structures.md)
 * [Free Data Science Book pdfs](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Data%20Science.md)
@@ -29,6 +29,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [All about php](https://github.com/vicky002/AlgoWiki/blob/gh-pages/PHP/php_resources.md)
 * [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
+* [All about R](https://github.com/vicky002/AlgoWiki/blob/gh-pages/R/resources.md)
 * [All about Rust](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rust/rust_resources.md)
 * [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
 * [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)

@@ -127,6 +127,8 @@ We have lots of links to add here...it will be updated soon!
  - [Article](https://mohamedfahmed.wordpress.com/2010/04/19/approximate-string-matching-on-gpgpus/)
  - [Video](http://www.daqwest.com/repo/dq/algorithms/dynamic%20programming/Approximate%20string%20matching/i:video)
 
+[⬆ Back to Top](#index)
+
 ## Graph Algorithms
 
 ### Minimum Spanning Tree
@@ -205,6 +207,8 @@ We have lots of links to add here...it will be updated soon!
  - [Analysis](http://en.wikipedia.org/wiki/Transitive_closure)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=UGiG4PoCC-E)
 
+[⬆ Back to Top](#index)
+
 ## Sort Algorithms
 
 ### Bubble Sort
@@ -235,7 +239,8 @@ We have lots of links to add here...it will be updated soon!
  - [Article](https://en.wikipedia.org/wiki/Quicksort)
  - [Article](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
  - [Video](https://www.youtube.com/watch?v=COk73cpQbFQ)
- 
+
+[⬆ Back to Top](#index) 
 
 ## String and String Pattern Matching
 
@@ -286,6 +291,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://inimino.org/~inimino/tests/js/tree_explorer/wikipedia/Knuth%e2%2580%2593Morris%e2%2580%2593Pratt_algorithm.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=rfisBOOLN9M)
 
+[⬆ Back to Top](#index)
 
 ## Optimization Algorithms
 
@@ -333,6 +339,8 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.csee.umbc.edu/courses/771/papers/dechter_r.html)
  - [Article](http://ktiml.mff.cuni.cz/~bartak/constraints/constrsat.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=UhAmM3z6KS0)
+
+[⬆ Back to Top](#index)
 
 ## Combinatorial Algorithms
 
@@ -404,6 +412,8 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://neohumanism.org/l/la/lagged_fibonacci_generator.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=qdmH6slZ0ac)
 
+[⬆ Back to Top](#index)
+
 ## Trees
 
 ### Andersson Tree
@@ -447,6 +457,8 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/)
  - [Video](https://www.youtube.com/watch?v=H7rvz_WdV3U)
 
+[⬆ Back to Top](#index)
+
 ## Query Processing
 
 ### Fenwick trees
@@ -480,5 +492,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/)
  - [Article](https://prashanthkvs.wordpress.com/2012/03/04/heavy-light-decomposition/)
  - [Video](https://courses.csail.mit.edu/6.851/spring12/lectures/L19.html)
+
+[⬆ Back to Top](#index)
 
 Will be updated soon! 

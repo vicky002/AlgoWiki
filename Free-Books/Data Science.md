@@ -1,16 +1,16 @@
 ### Index
 * [Data Science Introduction](#data-science-introduction)
-* [Data Processing](#big-data-processing)
-* [Data Analysis](#big-data-analysis)
+* [Data Processing](#data-processing)
+* [Data Analysis](#data-analysis)
 	* [Fundamentals](#fundamentals)
 	* [Network Analysis](#network-analysis)
 	* [Statistics](#statistics)
 	* [Data Mining](#data-mining)
 	* [Machine Learning](#machine-learning)
-* [Data Science Application](#big-data-application)
+* [Data Science Application](#data-science-application)
 	* [Data Visualization](#data-visualization)
 * [Uncategorized](#uncategorized)
-* [MOOCs about Data Science](#moocs)	
+* [MOOCs about Data Science](#moocs-about-data-science)	
 
 ### Data Science Introduction
 * [Big Data Now: 2012 Edition](http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ) - O'Reilly Media Inc. - `Beginner`

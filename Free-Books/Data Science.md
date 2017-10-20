@@ -25,9 +25,9 @@
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) - Jimmy Lin and Chris Dyer - `Intermediate`
 
 
-###Data Analysis
+### Data Analysis
 
-####Fundamentals
+#### Fundamentals
 * [Fundamental Numerical Methods and Data Analysis](http://ads.harvard.edu/books/1990fnmd.book/) - George W. Collins - `Beginner`
 * [Introduction to Metadata](http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html) - Murtha Baca - `Beginner`
 * [Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
@@ -40,7 +40,7 @@
 * [The Wealth of Networks](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler - `Beginner`
 
 #### Statistics
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veternan`
+* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Cosma Rohilla Shalizi - `Veteran`
 * [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team - `Beginner`
 * [Analyzing Linguistic Data: a practical introduction to statistics](http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan - `Beginner`
 * [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`

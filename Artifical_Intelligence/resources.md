@@ -7,15 +7,15 @@ Contributions most welcome.
 ![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
 
 ## Index
-- [Online Courses](#online-courses)
-- [Books About Artificial Intelligence](#books-about-artificial-intelligence)
-- [Programming](#programming)
-- [Philosophy of AI](#philosophy-of-ai)
-- [Free Content](#free-content)
-- [Code](#code)
-- [Videos/Talks](#videostalks)
-- [Learning](#learning)
-- [Misc](#misc)
+- [Online Courses](#)
+- [Books About Artificial Intelligence](#)
+- [Programming](#)
+- [Philosophy of AI](#)
+- [Free Content](#)
+- [Code](#)
+- [Videos/Talks](#)
+- [Learning](#)
+- [Misc](#)
 
 ## Online Courses
 
@@ -29,6 +29,8 @@ Contributions most welcome.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 * [Practical Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math and also without dumbing anything down.
 
+[⬆ Back to Top](#index)
+
 ## Books About Artificial Intelligence
 
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
@@ -37,10 +39,14 @@ Contributions most welcome.
 * [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) - In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work
 * [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) - Beginning with elementary reactive agents, Nilsson gradually increases their cognitive horsepower to illustrate the most important and lasting ideas in AI
 
+[⬆ Back to Top](#index)
+
 ## Programming
 
 * [Prolog Programming for Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
+
+[⬆ Back to Top](#index)
 
 ## Philosophy of AI
 
@@ -48,6 +54,8 @@ Contributions most welcome.
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
 * [On Intelligence](http://www.amazon.in/Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins, develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines.
+
+[⬆ Back to Top](#index)
 
 ## Free Content
 
@@ -60,13 +68,19 @@ Contributions most welcome.
 * [Encyclopedia:Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 
+[⬆ Back to Top](#index)
+
 ## Code
 
 * [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
 
+[⬆ Back to Top](#index)
+
 ## Videos/Talks
 
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+
+[⬆ Back to Top](#index)
 
 ## Learning
 
@@ -75,7 +89,11 @@ Contributions most welcome.
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
 
+[⬆ Back to Top](#index)
+
 ## Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AI APIs To Implement](https://developer.ibm.com/api/list)
+
+[⬆ Back to Top](#index)

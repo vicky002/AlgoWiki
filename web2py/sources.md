@@ -20,3 +20,6 @@ Where to discover new Web2py apps and projects.
 
 * [Must Watch Web2py Videos](https://vimeo.com/tag:web2py)
 
+## Forum
+* [Google Group](https://groups.google.com/forum/?fromgroups#!forum/web2py)
+

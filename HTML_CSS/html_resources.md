@@ -2,6 +2,9 @@
 * [Online Books and PDFs](#online-books-and-pdfs)
 * [Websites](#websites)
 * [Frameworks](#frameworks)
+* [Learn through games](#learn-through-games) 
+* [Methodologies](#methodologies) 
+
 
 ## Online Books and PDFs
 --------
@@ -48,7 +51,7 @@
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
 
-Learn through games
+## Learn through games
 --------
 
 * [Flexbox Defense](http://www.flexboxdefense.com/)
@@ -56,7 +59,7 @@ Learn through games
 * [Grid Garden](http://cssgridgarden.com/)
 
 
-Methodologies
+## Methodologies
 --------
 
 * [BEM: About](https://en.bem.info/methodology/)

@@ -7,15 +7,15 @@ Contributions most welcome.
 ![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
 
 ## Index
-- [Online Courses](#)
-- [Books About Artificial Intelligence](#)
-- [Programming](#)
-- [Philosophy of AI](#)
-- [Free Content](#)
-- [Code](#)
-- [Videos/Talks](#)
-- [Learning](#)
-- [Misc](#)
+- [Online Courses](#online-courses)
+- [Books About Artificial Intelligence](#books-about-artificial-intelligence)
+- [Programming](#programming)
+- [Philosophy of AI](#philosophy-of-ai)
+- [Free Content](#free-content)
+- [Code](#code)
+- [Videos/Talks](#videostalks)
+- [Learning](#learning)
+- [Misc](#misc)
 
 ## Online Courses
 

@@ -30,6 +30,7 @@
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
 * [List of other resources](http://codeforces.com/blog/entry/23054)
 * [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
+* Suggested problems tagged with Algorithms- [Foundation](https://www.codechef.com/certification/prepare#foundation) & [Advanced](https://www.codechef.com/certification/prepare#advanced) 
 
 ### Books
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)

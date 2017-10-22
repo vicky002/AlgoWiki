@@ -1,6 +1,12 @@
-AlgoWiki - Building Knowledge Repositories
-============================================
 
+<p align="center">
+	<img src="AlgoWiki_logo.png" align="center" height="250px" width="250px" alt="AlgoWiki"/>
+</p>
+
+
+<h1 align="center">Building Knowledge Repositories</h1>
+
+---
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki.svg' />
 </a>

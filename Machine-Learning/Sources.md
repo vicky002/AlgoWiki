@@ -1,3 +1,12 @@
+# Table of Contents
+* [Machine Learning](#machine-learning)
+* [Websites](#websites)
+* [Libraries](#libraries)
+* [Algorithms](#algorithms)
+* [Popular DataSets](#popular-datasets)
+* [Relevant Research Papers](#relevant-research-papers)
+* [Podcasts](#podcasts)
+
 Machine Learning
 ----------------
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)

@@ -14,7 +14,7 @@
 [![Join the chat at https://gitter.im/AlgoWiki1/Lobby](https://badges.gitter.im/AlgoWiki1/Lobby.svg)](https://gitter.im/AlgoWiki1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow,%20Check%20AlgoWiki%20-%20CS%20all%20resources%20at%20one%20place!%20by%20@vikesh002%20on%20Github:&url=https://github.com/vicky002/AlgoWiki/)| [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  | [![GitHub stars](https://img.shields.io/github/stars/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/issues) | [![GitHub forks](https://img.shields.io/github/forks/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/network) 
 
-### Join Our community Forum for discussions related Project AlgoWiki, Computer Science Resources, Internships and Job etc. [AlgoWiki - Eulercoder Community on Slack](https://publicslack.com/slacks/eulercodercommunity/invites/new)
+**Join Our community Forum for discussions related Project AlgoWiki, Computer Science Resources, Internships and Job etc. [AlgoWiki - Eulercoder Community on Slack](https://publicslack.com/slacks/eulercodercommunity/invites/new)**
 
 ---
 

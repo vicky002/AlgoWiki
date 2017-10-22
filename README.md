@@ -1,6 +1,10 @@
 AlgoWiki - Building Knowledge Repositories
 ============================================
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki.svg' />
+</a>
+
 [![Join the chat at https://gitter.im/AlgoWiki1/Lobby](https://badges.gitter.im/AlgoWiki1/Lobby.svg)](https://gitter.im/AlgoWiki1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow,%20Check%20AlgoWiki%20-%20CS%20all%20resources%20at%20one%20place!%20by%20@vikesh002%20on%20Github:&url=https://github.com/vicky002/AlgoWiki/)| [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  | [![GitHub stars](https://img.shields.io/github/stars/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/issues) | [![GitHub forks](https://img.shields.io/github/forks/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/network) 
 

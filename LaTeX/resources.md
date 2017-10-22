@@ -1,4 +1,14 @@
 # LaTeX
+# Table of Contents
+* [Installation](#installation)
+  * [Ubuntu](#ubuntu)
+  * [Windows](#windows)
+  * [macOS](#macos)
+* [Tutorials](#tutorials)
+* [Templates](#templates)
+* [Online LaTeX Compilers](#online-latex-compilers)
+* [Syntax](#syntax)
+* [Miscellaneous](#miscellaneous)
 ## Installation
  - #### Ubuntu
 

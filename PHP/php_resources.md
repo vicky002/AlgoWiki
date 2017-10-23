@@ -264,6 +264,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Nette Tester](https://tester.nette.org/en/) - Testing library from author of [Nette Framework](https://nette.org/en/).
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*

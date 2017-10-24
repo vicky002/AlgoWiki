@@ -30,7 +30,11 @@
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
 * [List of other resources](http://codeforces.com/blog/entry/23054)
 * [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
+* Suggested problems tagged with Algorithms- [Foundation](https://www.codechef.com/certification/prepare#foundation) & [Advanced](https://www.codechef.com/certification/prepare#advanced) 
 
+### Books
+* [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
+* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 
 ### Code Repository
 
@@ -85,6 +89,7 @@
 ### Problem Sets
 
 * [Anarchy Golf](http://golf.shinh.org/)
+* [A2OJ](https://a2oj.com/)
 * [LightOJ](http://www.lightoj.com/index.php)
 * [Caribbean Online Judge](http://coj.uci.cu/24h/problems.xhtm)
 * [CheckIO](http://www.checkio.org/)

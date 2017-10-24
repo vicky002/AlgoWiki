@@ -16,7 +16,8 @@ Go
 ### Online Resources ###
 * [Go Wiki](https://github.com/golang/go/wiki/Learn)
 * [Todd Mcleod](https://www.youtube.com/user/toddmcleod)
-
+* [GOLANGBOT](https://golangbot.com)
+* [Go by example](https://gobyexample.com)
 
 
 

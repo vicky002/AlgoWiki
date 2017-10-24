@@ -22,6 +22,7 @@
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+*[How to prepare for ACM ICPC?](http://codeforces.com/blog/entry/47688)
 
 ### Competitive Programming
 * [4Clojure](http://www.4clojure.com/)
@@ -94,3 +95,7 @@
 
 ### Quora posts
 * [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
+
+###  Learning Resources
+* [Stanford University ICPC Team Notebook (2015-16)Stanford University ICPC Team Notebook (2015-16)](http://cs.stanford.edu/group/acm/SLPC/notebook.pdf)
+* [Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)

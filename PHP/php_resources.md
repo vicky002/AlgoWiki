@@ -335,6 +335,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PHPStan](https://github.com/phpstan/phpstan) - A tool for static analysis of PHP code.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*

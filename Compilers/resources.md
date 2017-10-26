@@ -8,8 +8,6 @@
 * [Compiler design in C](http://holub.com/goodies/compiler/compilerDesignInC.pdf)
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 * [cs143 - stanford](http://web.stanford.edu/class/cs143/)
-* [Advanced Compiler Design and Implementation](https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204)
-* [Building an Optimizing Compiler](https://www.amazon.com/Building-Optimizing-Compiler-Bob-Morgan/dp/155558179X)
 * [Compiler construction](https://www.cs.cmu.edu/~aplatzer/course/Compilers/waitegoos.pdf)
 
 ## Compilers

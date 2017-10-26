@@ -30,7 +30,7 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
 + PDF Books For Node.js [Downloadable Links]
 	+ [Web Development with Nodejs,MongoDB](http://www.allitebooks.com/web-development-with-mongodb-and-nodejs/)
 	+ [Instant Nodejs](http://www.allitebooks.com/instant-node-js-starter/)
-	+ [Programming Web Applications with Node, Express and Pug](http://www.allitebooks.com/programming-web-applications-with-node-express-and-pug/) 
+	+ [Programming Web Applications with Node, Express and Pug](http://www.allitebooks.com/programming-web-applications-with-node-express-and-pug/)
 	+ [Nodejs Essentials](http://www.allitebooks.com/node-js-essentials/)
 	+ [Buliding APIs with Nodejs](http://www.allitebooks.com/building-apis-with-node-js/)
 	+ [Learning Node](http://www.allitebooks.com/learning-node-2nd-edition/)
@@ -41,7 +41,7 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
   + [thenewBoston](https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
   + [The Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   + [Traversy media](https://www.youtube.com/watch?v=U8XF6AFGqlc)
-  
+
 + Github repos and interactive tutorials for learning Node.js
 
   +[Art of Node](https://github.com/maxogden/art-of-node)

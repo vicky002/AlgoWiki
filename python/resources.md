@@ -77,6 +77,7 @@ Video Playlist on YoutTube
    - [Codecademy](http://www.codecademy.com/tracks/python)
    - [Coursera](https://www.coursera.org/courses?search=python)
    - [Edx](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA)
+   - [CodeSchool: Learn Python](https://www.codeschool.com/learn/python)
  - Libraries
    - [Django Jenkins](https://github.com/kmmbvnr/django-jenkins)-Plug and play continuous integration with django and jenkins
    - [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.

@@ -23,6 +23,8 @@ Learn Ruby through the following online and offline resources.
 - [Ruby Lang: Quick Start](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Ruby for Beginners: Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/print.html)
 - [Ruby Monk](https://rubymonk.com/)
+- [Learn Ruby Programming](https://www.tutorialspoint.com/ruby/)
+- [CodeSchool: Learn Ruby](https://www.codeschool.com/learn/ruby)
 
 ## Ruby Documentation
 - [Ruby-Doc.org](http://ruby-doc.org/)

@@ -1,3 +1,12 @@
+# Table of Contents
+* [Machine Learning](#machine-learning)
+* [Websites](#websites)
+* [Libraries](#libraries)
+* [Algorithms](#algorithms)
+* [Popular DataSets](#popular-datasets)
+* [Relevant Research Papers](#relevant-research-papers)
+* [Podcasts](#podcasts)
+
 Machine Learning
 ----------------
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
@@ -25,6 +34,7 @@ Machine Learning
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
+* [Naive Bayes Classifier](https://www.youtube.com/watch?v=os-NaA0ldGs&list=PLBv09BD7ez_6CxkuiFTbL3jsn2Qd1IU7B&index=1)
 
 Websites
 -------
@@ -37,7 +47,14 @@ Websites
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Machine Learning in Games](http://satirist.org/learn-game/)
 * [Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
-
+* [Reinforcement Learning](http://outlace.com/)
+* [Deep Beat(Lyrics Generating AI)](http://deepbeat.org/)
+* [UCI KDD Archive](http://kdd.ics.uci.edu/)
+* [DELVE datasets](http://www.cs.toronto.edu/~delve/data/datasets.html)
+* [AWS Public datasets](https://aws.amazon.com/datasets/)
+* [Pew Research Center](http://www.pewresearch.org/download-datasets/)
+* [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
+* [Deep Learning Datasets](http://deeplearning.net/datasets/)
 
 Libraries
 --------
@@ -55,26 +72,43 @@ Python:
 * [OpenCV(object detection stuff)](http://opencv.willowgarage.com/documentation/python/index.html)
 * [Machine Learning Python](http://mlpy.sourceforge.net/)
 * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+* [Keras](https://keras.io/)
+* [Lassage (Built over Theano)](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
+* [PyTorch](http://pytorch.org/)
+
 
 Algorithms
 ----------
-Kernel Density Estimation and Non-parametric Bayes Classifier
-K-Means
-Kernel Principal Components Analysis
-Linear Regression
-Neighbors (Nearest, Farthest, Range, k, Classification)
-Non-Negative Matrix Factorization
-Support Vector Machines
-Dimensionality Reduction
-Fast Singular Value Decomposition
-Decision Tree
-Bootstapped SVM
+* Kernel Density Estimation and Non-parametric Bayes Classifier
+* K-Means
+* Affinity Propagation
+* Hierarchical clustering/Agglomerative clustering
+* Kernel Principal Components Analysis
+* Linear Regression
+* Logistic Regression
+* Neighbors (Nearest, Farthest, Range, k, Classification)
+* Non-Negative Matrix Factorization
+* Support Vector Machines
+* Dimensionality Reduction
+* Fast Singular Value Decomposition
+* Decision Tree
+* Random Forest
+* Bootstrapped SVM
+* DBSCAN
+* Principal Component Analysis(PCA)
+* Linear Discriminant Analysis (LDA)
+* Autoencoders
 
 Popular DataSets
 ---------------
-
-
-
+* [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+* [Iris Dataset](http://archive.ics.uci.edu/ml/datasets/Iris)
+* [Wine Quality Dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+* [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+* [Car Evaluation Data Set](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
+* [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/)
+* [Game Of Thrones Dataset](https://www.kaggle.com/mylesoneill/game-of-thrones)
+* [IMDB 5000 Image Movie Dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
 
 Relevant Research Papers
 ---------------------
@@ -82,3 +116,8 @@ Relevant Research Papers
 
 
 Will be updated soon! 
+
+Podcasts
+---------------------
+* [Talking Machines](http://www.thetalkingmachines.com/)
+* [Data Skeptic](https://dataskeptic.com/)

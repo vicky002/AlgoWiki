@@ -15,7 +15,7 @@ Algorithms And Data Structures
 * [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
 * [Foundations of Computer Science- Al Aho and Jeff Ullman](http://infolab.stanford.edu/~ullman/focs.html)
-* [Introduction To Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/8120340078?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=d66ed5a9-fbed-46a0-b679-618c5d61dc6d)
+* [Introduction To Algorithms](http://www.eecs.yorku.ca/~jeff/AIMS/introduction-to-algorithms-3rd-edition.pdf)
 * [Open Data Structures: An Introduction- Pat Morin](http://www.aupress.ca/index.php/books/120226)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) 
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition) University of North Texas (PDF)](http://larc.unt.edu/ian/books/free/lnoa.pdf)

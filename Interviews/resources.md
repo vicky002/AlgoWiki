@@ -9,6 +9,7 @@
 * [Maths](#maths)
 * [Misc](#misc)
 * [Questions](#questions)
+* [Resume](#resume)
 * [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
@@ -96,8 +97,8 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 * [IndiaBix](http://www.indiabix.com)
 * [CrazyForCode](http://www.crazyforcode.com/)
 * [Glassdoor](http://glassdoor.com/)
-* [CodeChef](www.codechef.com)
-* [TopCoder](www.topcoder.com)
+* [CodeChef](https://www.codechef.com)
+* [TopCoder](https://www.topcoder.com)
 * [LeetCode](http://www.leetcode.com)
 * [Hackerrank](http://www.hackerrank.com/)
 * [CodeKata](http://codekata.pragprog.com/2007/01/code_kata_backg.html)
@@ -192,6 +193,9 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 [q_ja]: http://blog.codinghorror.com/how-good-an-estimator-are-you/
 [q_piq]: http://maxnoy.com/interviews.html
 [q_ps]: http://prismoskills.appspot.com/freshers.jsp
+
+## Resume
+* [Careercup: Tips on a good resume](https://www.careercup.com/resume)
 
 
 ## Systems Design

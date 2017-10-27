@@ -1,3 +1,12 @@
+# Table of Contents
+* [Machine Learning](#machine-learning)
+* [Websites](#websites)
+* [Libraries](#libraries)
+* [Algorithms](#algorithms)
+* [Popular DataSets](#popular-datasets)
+* [Relevant Research Papers](#relevant-research-papers)
+* [Podcasts](#podcasts)
+
 Machine Learning
 ----------------
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
@@ -45,6 +54,7 @@ Websites
 * [AWS Public datasets](https://aws.amazon.com/datasets/)
 * [Pew Research Center](http://www.pewresearch.org/download-datasets/)
 * [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
+* [Deep Learning Datasets](http://deeplearning.net/datasets/)
 
 Libraries
 --------
@@ -71,15 +81,23 @@ Algorithms
 ----------
 * Kernel Density Estimation and Non-parametric Bayes Classifier
 * K-Means
+* Affinity Propagation
+* Hierarchical clustering/Agglomerative clustering
 * Kernel Principal Components Analysis
 * Linear Regression
+* Logistic Regression
 * Neighbors (Nearest, Farthest, Range, k, Classification)
 * Non-Negative Matrix Factorization
 * Support Vector Machines
 * Dimensionality Reduction
 * Fast Singular Value Decomposition
 * Decision Tree
+* Random Forest
 * Bootstrapped SVM
+* DBSCAN
+* Principal Component Analysis(PCA)
+* Linear Discriminant Analysis (LDA)
+* Autoencoders
 
 Popular DataSets
 ---------------
@@ -88,8 +106,9 @@ Popular DataSets
 * [Wine Quality Dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 * [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 * [Car Evaluation Data Set](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
-
-
+* [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/)
+* [Game Of Thrones Dataset](https://www.kaggle.com/mylesoneill/game-of-thrones)
+* [IMDB 5000 Image Movie Dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
 
 Relevant Research Papers
 ---------------------

@@ -1,5 +1,6 @@
 # Courses
 - https://www.coursera.org/learn/embedded-operating-system
+- https://in.udacity.com/course/introduction-to-operating-systems--ud923
 
 
 # Links, Guides, Websites
@@ -14,12 +15,13 @@
   - [TutorialsPoint: Operatig System](https://www.tutorialspoint.com/operating_system/)
   - [Codescracker: Operating System](https://codescracker.com/operating-system/)
 
-
 # Books
 - http://www.greenteapress.com/thinkos/thinkos.pdf
 - https://www.bottomupcs.com/csbu.pdf
 - http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 - http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+- https://www.cl.cam.ac.uk/teaching/1011/OpSystems/os1a-slides.pdf
+- https://www.tutorialspoint.com/operating_system/operating_system_tutorial.pdf
+- https://www.cs.utexas.edu/users/witchel/372/lectures/01.OSHistory.pdf
 
 # Code, Snippets
-

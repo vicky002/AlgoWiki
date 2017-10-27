@@ -1,4 +1,14 @@
 # LaTeX
+# Table of Contents
+* [Installation](#installation)
+  * [Ubuntu](#ubuntu)
+  * [Windows](#windows)
+  * [macOS](#macos)
+* [Tutorials](#tutorials)
+* [Templates](#templates)
+* [Online LaTeX Compilers](#online-latex-compilers)
+* [Syntax](#syntax)
+* [Miscellaneous](#miscellaneous)
 ## Installation
  - #### Ubuntu
 
@@ -25,3 +35,9 @@
 ## Online LaTeX Compilers
  - [ShareLaTeX](https://www.sharelatex.com)
  - [Overleaf](https://www.overleaf.com)
+
+## Syntax 
+ - [LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
+ 
+## Miscellaneous 
+ - [Compiling errors and How to tackle them](https://tex.stackexchange.com/questions/125399/how-to-trace-latex-errors-efficiently)

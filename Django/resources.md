@@ -449,9 +449,11 @@ Where to discover new Django apps and projects.
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+* [The Django Book](https://djangobook.com/the-django-book/) (1.8)
 
 ## Websites
 
+* [Django Official documentation](https://docs.djangoproject.com/en/1.11/) - Official documentation for Django.
 * [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
 * [Django Packages](https://www.djangopackages.com/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.

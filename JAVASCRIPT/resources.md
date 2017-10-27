@@ -43,6 +43,12 @@ JQuery
 JQuery API(http://api.jquery.com/)
 
 
+Angular
+------
+* [Angular Main Website](https://angularjs.org/)
+* [Style Guide](https://github.com/johnpapa/angular-styleguide)
+* [Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
+
 Node.js
 -------
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
@@ -64,20 +70,21 @@ Online
 
 **Courses**
 - Video:
-  - https://www.codeschool.com/paths/javascript
-  - https://egghead.io/
-  - http://frontendmasters.com/
-  - https://learnable.com/topics/javascript
-  - http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
-  - http://www.pluralsight.com/tag/javascript
-  - http://nodetuts.com/
-  - http://scotch.io/tutorials
-  - https://www.tagtree.tv/library
-  - http://code.tutsplus.com/categories/javascript/courses
-  - https://github.com/bolshchikov/js-must-watch (one-off videos)
-  - https://www.youtube.com/watch?v=fju9ii8YsGs
-  - https://javascript30.com/
-  - https://www.udacity.com/course/intro-to-javascript--ud803
+  - [CodeSchool: JavaScript Paths]https://www.codeschool.com/paths/javascript
+  - [CodeSchool: Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+  - [Egghead]https://egghead.io/
+  - [frontendmasters]http://frontendmasters.com/
+  - [learnable]https://learnable.com/topics/javascript
+  - [Lynda: NodeJs Essential Training]http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
+  - [Pluralsight: JavaScript]http://www.pluralsight.com/tag/javascript
+  - [NodeTuts]http://nodetuts.com/
+  - [Scotch]http://scotch.io/tutorials
+  - [TagTree]https://www.tagtree.tv/library
+  - [TutsPlus: JavaScript]http://code.tutsplus.com/categories/javascript/courses
+  - [bolshcikov: js must watch]https://github.com/bolshchikov/js-must-watch (one-off videos)
+  - [Derek Banas: JavaScript Tutorial]https://www.youtube.com/watch?v=fju9ii8YsGs
+  - [JavaScript 30 dayscript30.com/
+  - [Udacity: Intro to JavaScript]https://www.udacity.com/course/intro-to-javascript--ud803
 - Coding Challenges
   - http://www.codecademy.com/
   - http://www.codewars.com/
@@ -101,6 +108,11 @@ Online
 - http://thechangelog.com/podcast/
 - http://www.jsclasses.org/blog/category/podcast/
 - http://emberwatch.com/podcasts.html
+
+**Videos**
+- [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
+- [Angular todo app](https://www.youtube.com/watch?v=WuiHuZq_cg4)
+
 
 **Newsletters**
 

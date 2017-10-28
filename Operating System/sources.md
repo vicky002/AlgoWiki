@@ -4,14 +4,16 @@
 
 
 # Links, Guides, Websites
-- http://codex.cs.yale.edu/avi/os-book/OS9/slide-dir/
-- https://littleosbook.github.io/
-- https://www.tutorialspoint.com/operating_system/
-- https://www.ops-class.org/courses/buffalo/CSE421_Spring2017/
-- http://www.studytonight.com/operating-system/
-- people.csail.mit.edu/rinard/osnotes/
-- http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004
 
+* PPT resources
+  - http://codex.cs.yale.edu/avi/os-book/OS9/slide-dir/
+  - http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004
+* Articles
+  - https://littleosbook.github.io/
+  - https://people.csail.mit.edu/rinard/osnotes/
+  - [Studytonight: Operating System](http://www.studytonight.com/operating-system/introduction-operating-systems)
+  - [TutorialsPoint: Operatig System](https://www.tutorialspoint.com/operating_system/)
+  - [Codescracker: Operating System](https://codescracker.com/operating-system/)
 
 # Books
 - http://www.greenteapress.com/thinkos/thinkos.pdf
@@ -23,4 +25,3 @@
 - https://www.cs.utexas.edu/users/witchel/372/lectures/01.OSHistory.pdf
 
 # Code, Snippets
-

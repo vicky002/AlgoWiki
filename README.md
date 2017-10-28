@@ -54,7 +54,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [Linux](Linux)
 * [Compilers](Compilers/resources.md)
 * [Open Source Guide](https://opensource.guide/)
-[Discrete Mathematics](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Discrete%20Mathematics/discrete-math.md)
+* [Discrete Mathematics](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Discrete%20Mathematics/discrete-math.md)
 
 How to Contribute
 ==================

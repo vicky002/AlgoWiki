@@ -23,5 +23,6 @@
 - https://www.cl.cam.ac.uk/teaching/1011/OpSystems/os1a-slides.pdf
 - https://www.tutorialspoint.com/operating_system/operating_system_tutorial.pdf
 - https://www.cs.utexas.edu/users/witchel/372/lectures/01.OSHistory.pdf
+- https://www.dropbox.com/s/v6yyx7zyor4cpzw/Bedtime%20Stories%20on%20Operating%20Systems.pdf?dl=0
 
 # Code, Snippets

@@ -20,6 +20,10 @@
 
 On the Internet, there is a vast ocean of knowledge on different and varied topics. Most of this knowledge is either available online on the web or resides with the people as human knowledge. I want to create this repository as a platform to bind these scattered pieces of knowledge, spread over various websites at one place! 
 
+## Help us in getting a domain name
+
+[<img src="https://opencollective.com/public/images/become_sponsor.svg">](https://opencollective.com/algowiki/events/help-us-in-buying-a-domain-name-9586ev)
+
 ## Donate ($1) - Help me in making AlgoWiki Better
 [<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
 

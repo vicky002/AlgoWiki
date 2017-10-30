@@ -90,9 +90,6 @@
 * [Deep playground](https://github.com/tensorflow/playground)
 * [Synaptic](https://github.com/cazala/synaptic)
 * [ConvNetJS](https://github.com/karpathy/convnetjs)
-mljs (A set of sub-libraries with a variety of functions)
-Neataptic (Neural Networks)
-Webdnn (Deep Learning)
 
 
 ### Algorithms

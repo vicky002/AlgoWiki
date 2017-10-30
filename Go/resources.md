@@ -18,7 +18,7 @@ Go
 * [Todd Mcleod](https://www.youtube.com/user/toddmcleod)
 * [GOLANGBOT](https://golangbot.com)
 * [Go by example](https://gobyexample.com)
-
+* [Let's Learn Algorithms](https://www.calhoun.io/lets-learn-algorithms/)
 
 
 

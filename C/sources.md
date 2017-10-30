@@ -4,6 +4,42 @@ A curated list of C good stuff. This list contains *only* [free software][13] fo
 
 This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.
 
+Table of Contents
+=========
+
+* [Compilers](#compilers)
+* [Crypto](#crypto)
+* [Database](#database)
+* [Documentation Generation](#documentation-generation)
+* [Editors](#editors)
+* [Environments](#environments)
+* [Frameworks](#frameworks)
+* [Game Programming](#game-programming)
+  * [Engines](#engines)
+  * [Resources](#resources)
+* [Generic Programming](#generic-programming)
+* [Graphics](#graphics)
+* [Graphical User Interface](#graphical-user-interface)
+* [JSON](#json)
+* [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
+  * [Online](#online)
+  * [Physical](#physical)
+* [Multimedia](#multimedia)
+* [Networking and Internet](#networking-and-internet)
+* [Numerical](#numerical)
+* [Parallel Programming](#parallel-programming)
+* [Regex](#regex)
+* [Serialization](#serialization)
+* [Source Code Collections](#source-code-collections)
+* [Standard Libraries](#standard-libraries)
+* [String Manipulation](#string-manipulation)
+* [Testing](#testing)
+* [Text Editor Extensions](#text-editor-extensions)
+  * [Emacs](#emacs)
+  * [Vim](#vim)
+* [Utilities](#utilities)
+* [XML](#xml)
+
 Compilers
 =========
 

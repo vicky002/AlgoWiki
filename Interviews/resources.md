@@ -1,4 +1,4 @@
-﻿
+
 ### Contents
 
 * [Articles](#articles)
@@ -9,6 +9,7 @@
 * [Maths](#maths)
 * [Misc](#misc)
 * [Questions](#questions)
+* [Resume](#resume)
 * [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
@@ -96,15 +97,18 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 * [IndiaBix](http://www.indiabix.com)
 * [CrazyForCode](http://www.crazyforcode.com/)
 * [Glassdoor](http://glassdoor.com/)
-* [CodeChef](www.codechef.com)
-* [TopCoder](www.topcoder.com)
+* [CodeChef](https://www.codechef.com)
+* [TopCoder](https://www.topcoder.com)
 * [LeetCode](http://www.leetcode.com)
 * [Hackerrank](http://www.hackerrank.com/)
 * [CodeKata](http://codekata.pragprog.com/2007/01/code_kata_backg.html)
 * [GeeksforGeeks](http://geeksforgeeks.org/forum/forum/interview-questions)
 * [Impact Interview](http://www.impactinterview.com/2009/10/140-google-interview-questions/#software_engineer)
 * [Dynamic Programming](http://hawstein.com/posts/dp-novice-to-advanced.html)
-* [Interviewbit](https://www.interviewbit.com/) 
+* [Interviewbit](https://www.interviewbit.com/)
+* [CodeWars](https://www.codewars.com/)
+* [FireCode](https://www.firecode.io/)
+* [GeeksforGeeks](http://www.geeksforgeeks.org/about/interview-corner/)
 
 [c_tb_app1]: https://github.com/zouzhile/interview
 
@@ -119,7 +123,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
-* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
+* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]]
 * Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
 [g_cc]: http://www.careercup.com/
@@ -190,6 +194,9 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 [q_piq]: http://maxnoy.com/interviews.html
 [q_ps]: http://prismoskills.appspot.com/freshers.jsp
 
+## Resume
+* [Careercup: Tips on a good resume](https://www.careercup.com/resume)
+
 
 ## Systems Design
 
@@ -212,7 +219,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell – **Cracking the Coding Interview** [[Youtube][v_cci]]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
-* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]] 
+* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]]
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
 [v_cci2]: http://youtu.be/aClxtDcdpsQ
@@ -224,6 +231,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 
 ## Similar Github repos
 
+* [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) **(NEW)**
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide) **(NEW)**
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles) **(NEW)**
 * [interview-resources](https://github.com/davidhampgonsalves/interview-resources)
@@ -232,3 +240,5 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [job_interview](https://github.com/ruby-jokes/job_interview)
 * [what-happens-when](https://github.com/alex/what-happens-when)
 * [interview](https://github.com/andreis/interview)
+* [interview](https://github.com/sam17/interview)
+* [interview](https://github.com/mission-peace/interview)

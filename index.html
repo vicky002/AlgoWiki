@@ -1,134 +1,135 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>AlgoWiki - Best Sources at one Place! by vicky002</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AlgoWiki - Building Knowledge Repositories</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="AlgoWiki is a Repository which contains resources on different topics of computer science.">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/buble.css">
+</head>
+<body>
+  <div id="app"></div>
+</body>
+<script src="//unpkg.com/vue/dist/vue.js"></script>
+<script src="//unpkg.com/babel-standalone@6/babel.min.js"></script>
+<script src="//unpkg.com/docsify-demo-box-vue@1.0.4/dist/docsify-demo-box-vue.min.js"></script>
+<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
+<script src="//unpkg.com/element-ui/lib/index.js"></script>
+<script src="//unpkg.com/element-ui/lib/umd/locale/en.js"></script>
+<script src="//unpkg.com/vue-data-tables@2.1.0/dist/data-tables.min.js"></script>
+<script src="//unpkg.com/json2csv@3.9.1/dist/json2csv.js"></script>
+<script>
+    Vue.use(DataTables)
+  Vue.use(DataTables.DataTablesServer)
+  ELEMENT.locale(ELEMENT.lang.en)
+  var data, titles;
+  var id = 0;
+  var define =
+`data = [{
+  "content": "Water flood",
+  "flow_no": "FW201601010001",
+  "flow_type": "Repair",
+  "flow_type_code": "repair",
+  }, {
+  "content": "Lock broken",
+  "flow_no": "FW201601010002",
+  "flow_type": "Repair",
+  "flow_type_code": "repair",
+  }, {
+  "content": "Help to buy some drinks",
+  "flow_no": "FW201601010003",
+  "flow_type": "Help",
+  "flow_type_code": "help"
+}];
+titles = [{
+  prop: "flow_no",
+  label: "NO."
+  }, {
+  prop: "content",
+  label: "Content"
+  }, {
+  prop: "flow_type",
+  label: "Type"
+}]`
+  var es5define = Babel.transform(define, { presets: ['es2015'] }).code
+  eval(es5define)
+  var jsResources = '<scr' + 'ipt src="//unpkg.com/vue/dist/vue.js"></scr' + 'ipt>'
+    + '\n<scr' + `ipt src="//unpkg.com/element-ui/lib/index.js"></scr` + 'ipt>'
+    + '\n<scr' + `ipt src="//unpkg.com/element-ui/lib/umd/locale/en.js"></scr` + 'ipt>'
+    + '\n<scr' + `ipt src="//unpkg.com/vue-data-tables@2.1.0/dist/data-tables.min.js"></scr` + 'ipt>'
+  var cssResources = '@import url("//unpkg.com/element-ui/lib/theme-default/index.css");'
+  var bootCode =
+    'ELEMENT.locale(ELEMENT.lang.en)\n'
+    + 'Vue.use(DataTables)\n'
+    + 'Vue.use(DataTables.DataTablesServer)\n'
+    + 'var data, titles\n\n' + define + '\n\n';
 
-  </head>
-  <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/vicky002/AlgoWiki">View On GitHub</a></li>
-          <li class="downloads"><a href="https://github.com/vicky002/AlgoWiki/zipball/master">ZIP</a></li>
-          <li class="downloads"><a href="https://github.com/vicky002/AlgoWiki/tarball/master">TAR</a></li>
-          <li class="title">DOWNLOADS</li>
-        </nav>
-      </div><!-- end header -->
+  window.$docsify = {
+    coverpage: true,
+    name: 'AlgoWiki',
+    repo: 'https://www.github.com/vicky002/AlgoWiki',
+    subMaxLevel: 4,
+    loadSidebar: false,
+    themeColor: '#3F51B5',
+    ga: 'UA-45497633-7',
+    codesponsor: 'p9HijS4T3i4dif3TiynvGHf1',
+    search: 'auto',
 
-    <div class="wrapper">
+    // search: [
+    //   '/', 
+    //   '/Algorithms',
+    //   '/Android',
+    //   '/C',
+    //   '/C#'
+    // ],
 
-      <section>
-        <div id="title">
-          <h1>AlgoWiki - Best Sources at one Place!</h1>
-          <p>Repository which contains all the links and resources on different topics of Computer Science</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/vicky002">vicky002</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
+    // search: {
+    //   maxAge: 86400000, // Expiration time, the default one day
+    //   paths: [], // or 'auto'
+    //   placeholder: 'Type to search',
 
-        <h1>
-<a id="algowiki" class="anchor" href="#algowiki" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>AlgoWiki</h1>
+    //   // Localization
+    //   placeholder: {
+    //     '/': 'Type to search'
+    //   },
 
-<p>On Internet, There is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! </p>
+    //   noData: 'No Results!',
 
-<h1>
-<a id="navigation" class="anchor" href="#navigation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Navigation</h1>
+    //   // Localization
+    //   noData: {
+    //     '/': 'No Results'
+    //   },
 
-<p><strong>Some of the links below contain only Pdfs books we will add websites and video resources soon!</strong></p>
+    //   // Headline depth, 1 - 6
+    //   depth: 2
+    // },
 
-<ul>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md">All about Competitve-Programming</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md">Algoriths and Their Implement from different sources</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Algorithms-Data_Structures.md">Free Algorithm Books</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Data%20Science.md">Free Data Science Book pdfs</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/Machine-Learning/Sources.md">Machine Learning</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md">C~pdf books and websites</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md">C++</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md">HTML</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/Interviews/resources.md">Interview Preparation</a></li>
-<li><a href="https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md">JavaScript</a></li>
-<li><a href="https://github.com/airbnb/javascript/blob/master/README.md">JavaScript Guide</a></li>
-</ul>
+    plugins: [
+      DemoBoxVue.create(jsResources, cssResources, bootCode),
+      EditOnGithubPlugin.create(
+        'https://github.com/vicky002/AlgoWiki/'
+      ),
+      function (hook) {
+        var footer = [
+          '<hr/>',
+          '<footer>',
+          '<span><a href="https://github.com/vicky002">Vikesh Tiwari</a> &copy;2017.</span>',
+          '<span>Maintained by <a href="http://eulercoder.me" target="_blank">Eulercoder</a>.</span>',
+          '</footer>'
+        ].join('')
+        hook.afterEach(function (html) {
+          return html + footer
+        })
+      }
+    ]
+  }
 
-<h1>
-<a id="how-to-contribute" class="anchor" href="#how-to-contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to Contribute</h1>
 
-<p>We are collecting Websites and resources! Send files,pdfs,printed articles or your bookmark folder @<a href="mailto:tvicky002@gmail.com">tvicky002@gmail.com</a> </p>
-
-<h1>
-<a id="read-our-contribution-page" class="anchor" href="#read-our-contribution-page" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Read Our Contribution Page</h1>
-
-<ul>
-<li><a href="https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution">Contributing to this repository</a></li>
-<li>You can Add links of different sources on different topics</li>
-<li>You can also create topics and add diffrent resources to it.</li>
-<li>Make sure that links that you provide should be related to the topic!</li>
-</ul>
-
-<h1>
-<a id="topics" class="anchor" href="#topics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Topics</h1>
-
-<ul>
-<li>Algorithms</li>
-<li>Operating System</li>
-<li>Competitive Programming</li>
-<li>Web Languages
-
-<ul>
-<li> Html</li>
-<li> Javascipt</li>
-<li> JQuery</li>
-<li> php, etc!</li>
-</ul>
-</li>
-<li>Programming Language 
-
-<ul>
-<li>C</li>
-<li>C++</li>
-<li>Java</li>
-</ul>
-</li>
-<li>Machine Learning</li>
-<li>Artificial Intelligence</li>
-<li>Discrete Mathematics
-
-<ul>
-<li>Number Theory</li>
-<li>Graph Theory</li>
-<li>Combinatorics</li>
-<li>Game Theory etc!</li>
-</ul>
-</li>
-</ul>
-
-<p>There are many topics, you can contribute to it, create topics add resources to it!</p>
-      </section>
-
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-45497633-6");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-  </body>
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
 </html>

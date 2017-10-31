@@ -26,7 +26,16 @@ Android
 
 ## Books
 * [Head First Android](https://www.amazon.com/Head-First-Android-Development-Brain-Friendly/dp/1449362184)
+* [Big Nerd Ranch Android](https://www.amazon.com/Android-Programming-Ranch-Guide-Guides/dp/0134706056/)
+* [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+* [Android's Architecture Components](https://commonsware.com/AndroidArch/)
 
+
+## Blogs
+* [Android Developers Blog](https://android-developers.googleblog.com)
+* [The CommonsBlog](https://commonsware.com/blog/)
+* [Styling Android](https://blog.stylingandroid.com)
+* [Grokking Android](https://www.grokkingandroid.com)
 
 ## Tools
 * [Android Studio](https://developer.android.com/studio/index.html)

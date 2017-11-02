@@ -1,18 +1,7 @@
 # **Shell Script**
-<<<<<<< HEAD
 ## **Resources**
-*[Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/)
-*[Learn shell programming online](http://www.learnshell.org/)
-*[Bash cheat sheet](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
-*[Shell scripting interview questions](https://career.guru99.com/shell-scripting-interview-questions)
-*[Solve Bash Questions](https://www.hackerrank.com/domains/shell)
-=======
-## **Links**
-* [Linux Shell Scripting Tutorial] (http://www.freeos.com/guides/lsst/)
+* [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/)
 * [Learn shell programming online](http://www.learnshell.org/)
 * [Bash cheat sheet](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
 * [Shell scripting interview questions](https://career.guru99.com/shell-scripting-interview-questions)
 * [Solve Bash Questions](https://www.hackerrank.com/domains/shell)
->>>>>>> 0500936da61a68a29f00d20c3611c92c6d8a6c00
-
-

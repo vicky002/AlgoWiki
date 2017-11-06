@@ -11,7 +11,7 @@
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki.svg' />
 </a>
 
-[![Join the chat at https://gitter.im/AlgoWiki1/Lobby](https://badges.gitter.im/AlgoWiki1/Lobby.svg)](https://gitter.im/AlgoWiki1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Backers on Open Collective](https://opencollective.com/AlgoWiki/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/AlgoWiki/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/AlgoWiki1/Lobby](https://badges.gitter.im/AlgoWiki1/Lobby.svg)](https://gitter.im/AlgoWiki1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow,%20Check%20AlgoWiki%20-%20CS%20all%20resources%20at%20one%20place!%20by%20@vikesh002%20on%20Github:&url=https://github.com/vicky002/AlgoWiki/)| [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  | [![GitHub stars](https://img.shields.io/github/stars/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/issues) | [![GitHub forks](https://img.shields.io/github/forks/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/network) 
 
 **Join Our community Forum for discussions related Project AlgoWiki, Computer Science Resources, Internships and Job etc. [AlgoWiki - Eulercoder Community on Slack](https://publicslack.com/slacks/eulercodercommunity/invites/new)**
@@ -103,3 +103,33 @@ There are many topics, you can contribute to – Just create topics and add reso
 Built with :heart: in GitHub! 
 
 LICENCE: [MIT](LICENSE) (c) Vikesh Tiwari, AlgoWiki
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
+<a href="graphs/contributors"><img src="https://opencollective.com/AlgoWiki/contributors.svg?width=890" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/AlgoWiki#backer)]
+
+<a href="https://opencollective.com/AlgoWiki#backers" target="_blank"><img src="https://opencollective.com/AlgoWiki/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/AlgoWiki#sponsor)]
+
+<a href="https://opencollective.com/AlgoWiki/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/1/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/2/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/3/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/4/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/5/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/6/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/7/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/8/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/9/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/9/avatar.svg"></a>
+
+

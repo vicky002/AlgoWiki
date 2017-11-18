@@ -668,7 +668,7 @@ C++ Books
 ----
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
-* [C++ Today – The Beast Is Back](http://www.oreilly.com/programming/free/c++-today.csp)
+* [C++ Today – The Beast Is Back](http://www.oreilly.com/programming/free/files/c++-today.pdf)
 * [Ivor Horton’s Beginning Visual C++ 2013](http://1.droppdf.com/files/g166I/wrox-press-ivor-horton-s-beginning-visual-c-2013-2014.pdf)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*

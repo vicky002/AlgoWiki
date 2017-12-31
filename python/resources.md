@@ -200,3 +200,4 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
  - [podcast.init](https://www.podcastinit.com)
  - [Python testing](http://pythontesting.net/test-podcast/)
  - [Import this](https://www.kennethreitz.org/import-this/)
+ - [Python Bytes](https://pythonbytes.fm/)

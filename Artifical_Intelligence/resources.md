@@ -16,6 +16,7 @@ Contributions most welcome.
 - [Videos/Talks](#videostalks)
 - [Learning](#learning)
 - [Misc](#misc)
+- [Podcasts](#podcasts)
 
 ## Online Courses
 
@@ -95,5 +96,15 @@ Contributions most welcome.
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AI APIs To Implement](https://developer.ibm.com/api/list)
+
+## Podcasts 
+
+* [The AI Podcast](https://player.fm/series/the-ai-podcast)
+* [Artifically Intelligent](https://player.fm/series/artificially-intelligent)
+* [Gigaom AI Minute](https://player.fm/series/gigaom-ai-minute)
+* [Concerning AI | Existential Risk From Artificial Intelligence](https://player.fm/series/concerning-ai-existential-risk-from-artificial-intelligence)
+* [Artificial Intelligence in Industry with Dan Faggella](https://player.fm/series/artificial-intelligence-in-industry-with-dan-faggella)
+* [O'Reilly Bots Podcast - O'Reilly Media Podcast](https://player.fm/series/oreilly-bots-podcast-oreilly-media-podcast)
+
 
 [⬆ Back to Top](#index)

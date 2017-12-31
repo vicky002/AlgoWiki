@@ -136,3 +136,7 @@ Will be updated soon!
 
 * [Talking Machines](http://www.thetalkingmachines.com/)
 * [Data Skeptic](https://dataskeptic.com/)
+* [Linear Digressions](http://lineardigressions.com/)
+* [This Week in Machine Learning & AI](https://twimlai.com/)
+* [Learning Machines 101](http://www.learningmachines101.com/)
+* [Partially Derivative](http://partiallyderivative.com/)

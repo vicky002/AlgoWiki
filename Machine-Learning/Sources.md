@@ -1,3 +1,8 @@
+---
+title: Machine Learning
+category: Libraries
+---
+
 # Machine Learning
 
 ### Table of Contents

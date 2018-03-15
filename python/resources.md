@@ -1,3 +1,8 @@
+---
+title: Python
+category: Languages
+---
+
 Python Development Resources
 ============================
 
@@ -29,7 +34,7 @@ Python Development Resources
  - [Python By Example](http://www.lightbird.net/py-by-example/)
  - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
  - [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
- - [Porting to Python 3 Redux](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/) - 
+ - [Porting to Python 3 Redux](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/) -
 Write code that works on Python 2.6, 2.7 and 3.3
 
 ## Weekly & Daily Resources
@@ -38,11 +43,11 @@ Write code that works on Python 2.6, 2.7 and 3.3
  - [Planet Python](http://planet.python.org/)
 
 ## Patterns
- - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) : 
+ - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) :
      - [Video](http://www.youtube.com/watch?v=GZNUfkVIHAY)
- 
+
 ## [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
-### [Wheezy.web](https://bitbucket.org/akorn/wheezy.web/) 
+### [Wheezy.web](https://bitbucket.org/akorn/wheezy.web/)
  - Lightweight, high performance, high concurrency WSGI web framework
  - [Documentation](http://wheezyweb.readthedocs.org/en/latest/)
 ### [Django](https://www.djangoproject.com/)
@@ -73,7 +78,7 @@ Video Playlist on YoutTube
    - [Think Python](http://www.greenteapress.com/thinkpython/html/)
    - [Learn Python The Hard Way](http://learnpythonthehardway.org/)
    - [A Byte of Python](http://www.swaroopch.com/notes/python/)
-   - [Python 101](http://www.rexx.com/~dkuhlman/python_101/python_101.html) 
+   - [Python 101](http://www.rexx.com/~dkuhlman/python_101/python_101.html)
    - [Codecademy](http://www.codecademy.com/tracks/python)
    - [Coursera](https://www.coursera.org/courses?search=python)
    - [Edx](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA)
@@ -94,7 +99,7 @@ Video Playlist on YoutTube
    - [Cartridge](http://cartridge.jupo.org/) - Shopping cart application
    - [Userena(django-userena)](http://django-userena.org) Accounts for Django made beautifully simple
    - [South - Migrations](http://south.readthedocs.org/en/latest/) - To be [part of Django core in 1.7](https://docs.djangoproject.com/en/dev/releases/1.7/#schema-migrations)
-   - [Django Taggit](http://django-taggit.readthedocs.org/) - Simple tagging for django 
+   - [Django Taggit](http://django-taggit.readthedocs.org/) - Simple tagging for django
  - APIs
    - [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
    - [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
@@ -112,12 +117,12 @@ Video Playlist on YoutTube
    - [Killer Web Development](http://killer-web-development.com/)
 ## Libraries
  - [PEP8](https://pypi.python.org/pypi/pep8) - Python style guide checker
- - [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool. 
+ - [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool.
  - [python-ldap](http://www.python-ldap.org/) provides an object-oriented API to access LDAP directory servers from Python programs.
  - [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
  - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
  - [lxml](http://lxml.de/) - XML and HTML with Python
- - [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
+ - [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit
  - [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
  - [IPython](http://ipython.org/ipython-doc/stable/interactive/tutorial.html) - Extended interactive shell
  - [IPDB](https://pypi.python.org/pypi/ipdb) - IPython support for PDB
@@ -137,7 +142,7 @@ Video Playlist on YoutTube
    - [feedparser](http://pythonhosted.org/feedparser/) - Atom and RSS feeds
    - [biplist](https://bitbucket.org/wooster/biplist) - binary plist
    - [CSV module](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)
-   - [isz-tool](https://github.com/oserres/isz-tool) - isz-tool is a command line utility 
+   - [isz-tool](https://github.com/oserres/isz-tool) - isz-tool is a command line utility
    - [xhtml2pdf](http://www.xhtml2pdf.com) HTML/CSS to PDF
 to manipulate ISZ files (.isz), including .isz to .iso conversion
  - Database
@@ -150,13 +155,13 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
    - [Dumbo](http://klbostee.github.io/dumbo/) - Convenient Python API for writing MapReduce programs.
    - [Hadoopy](http://www.hadoopy.com/en/latest/)
    - [Pydoop](http://pydoop.sourceforge.net/docs/)
- - Science and Mathematics    
-   - [SciPy](https://www.scipy.org/) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering    
-   - [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things:   
-     - a powerful N-dimensional array object  
-     - sophisticated (broadcasting) functions   
-     - tools for integrating C/C++ and Fortran code   
-     - useful linear algebra, Fourier transform, and random number capabilities   
+ - Science and Mathematics
+   - [SciPy](https://www.scipy.org/) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering
+   - [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things:
+     - a powerful N-dimensional array object
+     - sophisticated (broadcasting) functions
+     - tools for integrating C/C++ and Fortran code
+     - useful linear algebra, Fourier transform, and random number capabilities
    - [Sympy](http://www.sympy.org) - SymPy is a Python library for symbolic mathematics. It contains the following features:
      - SymPy includes features ranging from basic symbolic arithmetic to calculus, algebra, discrete mathematics and quantum physics.
      - It is capable of formatting the result of the computations as LaTeX code.
@@ -192,7 +197,7 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
  - [Deis](http://deis.io/) - Private PaaS like Heroku
  - [Webfaction](https://www.webfaction.com/) - Shared hosting
 ## Books
- - [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)    
+ - [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)
  - [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distrubted Computer Programming in Python
 ## Podcasts
  - [Talk python to me](https://talkpython.fm/)

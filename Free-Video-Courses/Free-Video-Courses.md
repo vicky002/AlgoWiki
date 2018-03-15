@@ -1,3 +1,8 @@
+---
+title: Courses
+category: Courses
+---
+
 ### Index
 * [Ada](#ada)
 * [Agda](#agda)
@@ -181,4 +186,4 @@
 ### Ada
 * [Video Tutorials](http://www.adaic.org/learn/materials/)
 
-Will be updated soon! 
+Will be updated soon!

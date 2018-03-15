@@ -1,3 +1,8 @@
+---
+title: Git
+category: Tools
+---
+
 # Git
 
 ### Table of Contents
@@ -29,4 +34,4 @@
 
 ### Helpful Hints
 
-* [Oh Shit Git](http://ohshitgit.com/) 
+* [Oh Shit Git](http://ohshitgit.com/)

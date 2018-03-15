@@ -1,3 +1,8 @@
+---
+title: PHP
+category: Languages
+---
+
 amazingly awesome PHP libraries, resources and shiny things.
 
 ## Table of Contents

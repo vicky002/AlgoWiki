@@ -1,3 +1,8 @@
+---
+title: GATE
+category: Other
+---
+
 # GATE Notes #
 
 ### Here is a list of GATE Notes and practise material

@@ -1,3 +1,9 @@
+---
+title: Rust
+category: Languages
+---
+
+
 # Rust References
 
 ## Index

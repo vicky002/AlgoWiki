@@ -1,3 +1,8 @@
+---
+title: JavaScript
+category: Languages
+---
+
 # JavaScript
 
 ### Table of Contents

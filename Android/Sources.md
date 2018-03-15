@@ -1,3 +1,8 @@
+---
+title: Android
+category: Platforms
+---
+
 Android
 =======
 ## Index

@@ -1,3 +1,9 @@
+---
+title: Ruby
+category: Languages
+---
+
+
 # Ruby
 Learn Ruby through the following online and offline resources.
 # Table of Contents

@@ -1,3 +1,8 @@
+---
+title: R
+category: Languages
+---
+
 # All Things R
 
 ## Table of Contents

@@ -1,6 +1,11 @@
+---
+title: Artificial Intelligence
+category: Libraries
+---
+
 # Artificial Intelligence (AI)
 
-A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
+A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
 Contributions most welcome.
 
@@ -51,7 +56,7 @@ Contributions most welcome.
 
 ## Philosophy of AI
 
-* [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book. 
+* [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
 * [On Intelligence](http://www.amazon.in/Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins, develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines.
@@ -65,7 +70,7 @@ Contributions most welcome.
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 * [Artificial Intelligence and Molecular Biology](http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
-* [Brief Introduction to Educational Implications of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks. 
+* [Brief Introduction to Educational Implications of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia:Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 
@@ -97,7 +102,7 @@ Contributions most welcome.
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AI APIs To Implement](https://developer.ibm.com/api/list)
 
-## Podcasts 
+## Podcasts
 
 * [The AI Podcast](https://player.fm/series/the-ai-podcast)
 * [Artifically Intelligent](https://player.fm/series/artificially-intelligent)

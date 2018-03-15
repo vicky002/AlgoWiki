@@ -1,3 +1,8 @@
+---
+title: C
+category: Languages
+---
+
 # AlgoWiki C
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.
@@ -236,7 +241,7 @@ This is a list of resources for learning C programming in general, or something 
 * [Metaprogramming custom control structures in C][343]
 * [Some dark corners of C][210]
 * [Writing efficient C and C code optimization][33]
- 
+
 ##### Self-study Courses
 
 * [C Programming Language Certified Associate preparation course][211]
@@ -262,7 +267,7 @@ This is a list of resources for learning C programming in general, or something 
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
-* [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) 
+* [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/)
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
@@ -399,7 +404,7 @@ This contains standard C libraries.
 
 * [Bionic][4] - Google's C standard library, developed for Android. [3-clause BSD][6]
 * [dietlibc][9] - A C standard library designed for the smallest possible binaries. [GNU GPL2.1][8].
-* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5]. 
+* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5].
 * [musl][10] - A standard C library, compatible with POSIX 2008 and C11. Designed for static linking. [Expat][11].
 
 

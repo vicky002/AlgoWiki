@@ -1,3 +1,8 @@
+---
+title: Django
+category: Frameworks
+---
+
 Django Python Web Framework
 ---------------------------
 

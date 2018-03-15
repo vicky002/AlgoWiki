@@ -1,3 +1,8 @@
+---
+title: Operating Systems
+category: Platforms
+---
+
 # Courses
 - https://www.coursera.org/learn/embedded-operating-system
 - https://in.udacity.com/course/introduction-to-operating-systems--ud923

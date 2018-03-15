@@ -1,3 +1,8 @@
+---
+title: Shell Scripting
+category: Languages
+---
+
 # Everything about Bash Scripting
 A curated list of resources
 

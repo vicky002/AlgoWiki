@@ -1,3 +1,8 @@
+---
+title: Latex
+category: Languages
+---
+
 # LaTeX
 # Table of Contents
 * [Installation](#installation)
@@ -31,13 +36,13 @@
  - [IEEE LaTeX Templates](https://www.ieee.org/documents/ieee-latex-conference-template.zip)
  - [Letters](https://en.wikibooks.org/wiki/LaTeX/Letters)
  - [Lab/Project](https://www.overleaf.com/gallery/tagged/report)
- 
+
 ## Online LaTeX Compilers
  - [ShareLaTeX](https://www.sharelatex.com)
  - [Overleaf](https://www.overleaf.com)
 
-## Syntax 
+## Syntax
  - [LaTeX cheat sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
- 
-## Miscellaneous 
+
+## Miscellaneous
  - [Compiling errors and How to tackle them](https://tex.stackexchange.com/questions/125399/how-to-trace-latex-errors-efficiently)

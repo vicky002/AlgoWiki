@@ -204,3 +204,4 @@ category: Languages
 - http://www.quora.com/What-are-the-best-resources-to-learn-Node-js
 - http://blog.modulus.io/nodejs-resources
 - https://github.com/bolshchikov/js-must-watch
+- https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8

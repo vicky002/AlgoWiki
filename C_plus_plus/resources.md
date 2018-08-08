@@ -551,6 +551,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) - A list of Debuggers from Wikipedia.
 * [GDB](https://www.gnu.org/software/gdb) - GNU Debugger.
 * [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
+* [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) - (also known as ASan) is a memory error detector for C/C++.
 * [x64_dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
 
 ## Integrated Development Environment

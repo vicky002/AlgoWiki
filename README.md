@@ -97,6 +97,7 @@ Topics
 - Discrete Mathematics
 - Compilers
 - Web2py
+- Compilers
 
 There are many topics, you can contribute to – Just create topics and add resources to it!
 

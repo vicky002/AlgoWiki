@@ -8,9 +8,12 @@ A curated list of resources
 
 - [Bash Scripting]
 	-[Resources](#resources)
+		-[Crash Course](#Course)
 		-[Videos](#videos)
 		-[Websites](#websites)
 
+## Course
+* [Bash Shell Scripting Course](https://www.udemy.com/bash-shell-scripting-crash-course-for-beginners/?couponCode=BASH-SHELL-Q1) - Even beginners can start learning from here !
 ## Videos
 *Shell scripting related videos.*
 * [Learn Shell Scripting in One Video](https://www.youtube.com/watch?v=hwrnmQumtPw&t=877s) - Covers most topics of shell scripting by Derek Banas

@@ -28,7 +28,9 @@ category: Platforms
 - https://www.cl.cam.ac.uk/teaching/1011/OpSystems/os1a-slides.pdf
 - https://www.tutorialspoint.com/operating_system/operating_system_tutorial.pdf
 - https://www.cs.utexas.edu/users/witchel/372/lectures/01.OSHistory.pdf
-- https://www.dropbox.com/s/v6yyx7zyor4cpzw/Bedtime%20Stories%20on%20Operating%20Systems.pdf?dl=0
+- https://www.dropbox.com/s/v6yyx7zyor4cpzw/Bedtime%20Stories%20on%20http://alvand.basu.ac.ir/~dezfoulian/files/OS/Brooks-Cole%20Publishing%20-%20%20Understanding%20Operating%20Systems.pdfOperating%20Systems.pdf?dl=0
 - https://www.dropbox.com/s/4uzmvtmxtli3s8m/OPERATING%20SYSTEM%20NOTES.pdf?dl=0
+* [Understanding Operating Systems](http://alvand.basu.ac.ir/~dezfoulian/files/OS/Brooks-Cole%20Publishing%20-%20%20Understanding%20Operating%20Systems.pdf) - Brooks-Cole Publishing
+* [Operating System Principles](http://alvand.basu.ac.ir/~dezfoulian/files/OS/Prentice%20Hall%20-%20Operating%20System%20Principles.pdf) - Prentice Hall
 
 # Code, Snippets

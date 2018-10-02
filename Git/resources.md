@@ -30,8 +30,12 @@ category: Tools
 * [Try Git](https://try.github.io/) - Github and Code School
 * [Learn Git](https://www.codecademy.com/learn/learn-git) - Codecademy Git Tutorial
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - Getting Git Right
+* [Git Guide](http://rogerdudler.github.io/git-guide/)
+* [Fork Syncing](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
+
 
 
 ### Helpful Hints
 
 * [Oh Shit Git](http://ohshitgit.com/)
+* [Git Tips](https://opensource.com/article/18/4/git-tips)

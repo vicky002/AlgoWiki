@@ -8,7 +8,7 @@ A curated list of resources
 
 - [Bash Scripting]
 	-[Resources](#resources)
-		-[Crash Course](#Course)
+		-[Course](#Course)
 		-[Videos](#videos)
 		-[Websites](#websites)
 
@@ -27,6 +27,7 @@ A curated list of resources
 * [Subshells in Bash Scripts](https://www.lifewire.com/subshells-in-bash-scripts-2200581)
 * [What is a Subshell?](https://bash.cyberciti.biz/guide/What_is_a_Subshell%3F)
 * [Ryans Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+* [Bash Pocket Reference](https://www.amazon.in/Bash-Pocket-Reference-Arnold-Robbins/dp/1491941596?tag=googinhydr18418-21), Arnold Robbins, Once you are advanced, this little Reference book will let you have all the important information about shell scripting accessible to you in one place. (of course not for learning from scratch)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 * [Bash Academy](http://www.bash.academy/)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)

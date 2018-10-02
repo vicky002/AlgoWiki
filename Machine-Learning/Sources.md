@@ -39,7 +39,8 @@ category: Libraries
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
-
+* [Machine Learning and it's applications](https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Machine%20learning/Machine%20Learning%20And%20Its%20Applications%20-%20Georgios%20Paliouras.pdf) - Georgious Paliouras
+* [Machine Learning, Neural And Statistical Classification](https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Machine%20learning/Machine%20Learning%2C%20Neural%20And%20Statistical%20Classification%20-%20Michie%20%2C%20Spiegelhalter%20%2C%20Taylor.pdf) - Michie Spiegelhalter Taylor
 
 ### Websites
 

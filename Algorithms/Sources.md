@@ -5,7 +5,7 @@ category: Libraries
 
 Suggest us Algorithms to add, just give us names [Here](https://docs.google.com/forms/d/16zan_258T14UBttNgXmgfAcgMU0nTRdE61l23F29EI4/viewform?usp=send_form)!
 -------------------------------------------------------------
-We have lots of links to add here...it will be updated soon!
+We have a lots and lots of links to add here...it will be updated soon! :)
 # Index
 - [Dynamic Programming](#dynamic-programming)
   - [Matrix chain multiplication](#matrix-chain-multiplication)

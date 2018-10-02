@@ -136,3 +136,4 @@ category: Languages
 * [Awesome-Competitive-Programming](https://github.com/lnishan/awesome-competitive-programming)
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 * [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
+* [OI Wiki](https://github.com/24OI/OI-wiki/)

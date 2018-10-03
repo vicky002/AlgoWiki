@@ -126,6 +126,9 @@ Video Playlist on YoutTube
  - [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
  - [IPython](http://ipython.org/ipython-doc/stable/interactive/tutorial.html) - Extended interactive shell
  - [IPDB](https://pypi.python.org/pypi/ipdb) - IPython support for PDB
+ - [asyncio](https://docs.python.org/3/library/asyncio.html) - Asynchronous I/O
+    - [asyncio Tricks](https://www.skcript.com/svr/this-trick-will-make-you-perform-async-operation-in-python-like-a-pro/)
+    - [Asynchronous python Parralel](https://romain.dorgueil.net/blog/en/tips/2016/09/05/asynchronous-python-parralel.html)
  - [Splinter](https://pypi.python.org/pypi/splinter) - Automate browser actions, such as visiting URLs and interacting with their items.
  - [Requests](https://pypi.python.org/pypi/requests) - Non-GMO HTTP library for Python
  - [Templating in Python](https://wiki.python.org/moin/Templating)

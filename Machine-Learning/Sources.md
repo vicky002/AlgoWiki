@@ -60,6 +60,7 @@ category: Libraries
 * [Pew Research Center](http://www.pewresearch.org/download-datasets/)
 * [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
+* [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 
 
 ### Libraries

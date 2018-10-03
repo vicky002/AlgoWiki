@@ -23,7 +23,6 @@ category: Languages
 
 ## Online Learning
 
-* [Try R - CodeSchool](http://tryr.codeschool.com/)
 * [R Programming - Coursera](https://www.coursera.org/learn/r-programming)
 * [The R Programming Environment - Coursera](https://www.coursera.org/learn/r-programming-environment)
 * [Advanced R Programming - Coursera](https://www.coursera.org/learn/advanced-r)

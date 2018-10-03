@@ -28,7 +28,7 @@ category: Languages
 * [Getting Started with Competitve Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [TopCoder Algorithms Tutorial](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
 * [eMAXX](http://e-maxx.ru/algo) [Translate this website using Chrome]
-* [CP-Algorithms](https://cp-algorithms.com/) [Ongoing effort to translate above page to English]
+* [CP-Algorithms](https://cp-algorithms.com/) [Ongoing effort to translate eMAXX site to English]
 * [ACM Solve](http://www.acmsolver.org/)
 * [vexorian's blog ](http://www.vexorian.com/)
 * [Fushar’s Blog](http://fusharblog.com/)

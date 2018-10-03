@@ -6,13 +6,15 @@ category: Languages
 
 ### Index
 * [Article & Blogs](#articles)
+* [Books](#books)
 * [Code Repositories](#code-repository)
-* [Coding Calendar](#cdoing-calendar)
+* [Coding Calendar](#coding-calendar)
 * [Competitive Programming](#competitive-programming)
 * [Competitive Programming Problem Recommender](#competitive-programming-problem-recommender)
-* [Motivational](#motivation)
+* [Motivational](#motivational)
+* [Notebooks - ACM](#notebooks)
 * [Problem Sets](#problem-sets)
-* [Quora posts](#Quora-posts)
+* [Quora posts](#quora-posts)
 * [Syllabus](#syllabus)
 * [Toolkit](#toolkit)
 
@@ -85,12 +87,8 @@ category: Languages
 
 ### Motivational
 
-* [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)
-* [Target in six steps](http://community.topcoder.com/tc?module=Static&d1=features&d2=070805)– Petr Mitrichev
-* Nikhil Garg’s blog posts
- - [2010 ICPC Regionals Victory](http://blog.nikhilgarg.me/2010/12/and-we-did-it.html)
- - [2011 ICPC Regionals Victory](http://blog.nikhilgarg.me/2011/12/we-came-we-saw-we-conquered.html)
- - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
+* [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/) - Gennady Korotkevich (tourist)
+* [Target in six steps](http://community.topcoder.com/tc?module=Static&d1=features&d2=070805) – Petr Mitrichev
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
 
@@ -125,7 +123,7 @@ category: Languages
 * [URI Online Judge](https://www.urionlinejudge.com.br)
 
 
-### Quora posts
+### Quora Posts
 
 * [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
 

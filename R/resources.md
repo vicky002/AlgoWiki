@@ -38,7 +38,6 @@ category: Languages
 * [Essential Math for Machine Learning: R Edition - edX](https://www.edx.org/course/essential-math-machine-learning-r-1)
 * [Principles of Machine Learning: R Edition - edX](https://www.edx.org/course/principles-machine-learning-r-edition-1)
 * [Introduction to R - DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
-* [Try R - CodeSchool](http://tryr.codeschool.com/)
 
 ## Reference Books
 

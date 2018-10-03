@@ -43,7 +43,7 @@ category: Languages
 
 ### Books
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
-* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* [Competitive Programming (3rd ed.)](https://drive.google.com/open?id=1Ld1Z7y0di4DTWgF-sqlJd-5AMAdtxXaW)
 
 ### Code Repository
 
@@ -93,6 +93,12 @@ category: Languages
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+
+
+### Notebooks
+
+* [University of Tokyo](https://drive.google.com/open?id=1gBEl3F6sMGt_FNJXlrdSrgLUTKcMXFsG)
+* [Algorithm Anthology](https://drive.google.com/open?id=1RcFYAPKz4iHIh7S1OiKBlx5f9lA8nVPM)
 
 
 ### Problem Sets

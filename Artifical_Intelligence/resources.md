@@ -86,6 +86,7 @@ Contributions most welcome.
 ## Videos/Talks
 
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+* [Stanford University School of Engineering: Convolutional Neural Networks for visual recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Youtube playlist that elaborately discusses about the fundamentals of building a convolutional neural network model and also the functionality of different types of neural networks.
 
 [⬆ Back to Top](#index)
 
@@ -95,7 +96,6 @@ Contributions most welcome.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
-* [Lecture collection about Convolutional Neural Networks for visual recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - a youtube playlist that elaborately discusses about the fundamentals of building a neural network model and also the functionality of different types of neural networks.
 
 [⬆ Back to Top](#index)
 

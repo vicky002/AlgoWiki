@@ -86,6 +86,7 @@ Contributions most welcome.
 ## Videos/Talks
 
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+* [Stanford University School of Engineering: Convolutional Neural Networks for visual recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Youtube playlist that elaborately discusses about the fundamentals of building a convolutional neural network model and also the functionality of different types of neural networks.
 
 [⬆ Back to Top](#index)
 

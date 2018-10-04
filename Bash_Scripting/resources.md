@@ -14,7 +14,7 @@ A curated list of resources
 ## Videos
 *Shell scripting related videos.*
 * [Learn Shell Scripting in One Video](https://www.youtube.com/watch?v=hwrnmQumtPw&t=877s) - Covers most topics of shell scripting by Derek Banas
-
+* [Crash Course](https://www.youtube.com/watch?v=v-F3YLd6oMw)
 ## Websites
 *Tutorials and helpful links.*
 

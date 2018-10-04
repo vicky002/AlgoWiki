@@ -131,6 +131,8 @@ category: Libraries
 * [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/)
 * [Game Of Thrones Dataset](https://www.kaggle.com/mylesoneill/game-of-thrones)
 * [IMDB 5000 Image Movie Dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
+* [Enron Dataset for ham/spam classification](http://www2.aueb.gr/users/ion/data/enron-spam/)
+* [20 Newsgroups Dataset](https://www.kaggle.com/crawford/20-newsgroups)
 
 
 ### Relevant Research Papers

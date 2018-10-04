@@ -142,3 +142,4 @@ category: Languages
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 * [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [OI Wiki](https://github.com/24OI/OI-wiki/)
+* [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms)

@@ -1,6 +1,12 @@
-#Rust References
+---
+title: Rust
+category: Languages
+---
 
-##Index
+
+# Rust References
+
+## Index
 
 - [Documentation](#documentation)
 - [Courses](#courses)
@@ -52,7 +58,7 @@
 - News: [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/)
 
 
-##Playground
+## Playground
 
 - [Rust Playground](https://play.rust-lang.org)
 - [Alternative Playground](http://play.integer32.com/)
@@ -62,6 +68,8 @@
 
 - [New Rustacean](http://www.newrustacean.com)
 - [Rusty radio](http://rustyrad.io/)
+- [Request for Explanation](https://request-for-explanation.github.io/podcast/)
+- [Rusty Spike](https://rusty-spike.blubrry.net/)
 
 
 ## Books

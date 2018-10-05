@@ -1,11 +1,51 @@
-# AlgoWiki C #
+---
+title: C
+category: Languages
+---
+
+# AlgoWiki C
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.
 
 This is released under the GNU Free Documentation License - its text is provided in the LICENSE file.
 
-Compilers
-=========
+### Table of Contents
+
+* [Compilers](#compilers)
+* [Crypto](#crypto)
+* [Database](#database)
+* [Documentation Generation](#documentation-generation)
+* [Editors](#editors)
+* [Environments](#environments)
+* [Frameworks](#frameworks)
+* [Game Programming](#game-programming)
+  * [Engines](#engines)
+  * [Resources](#resources)
+* [Generic Programming](#generic-programming)
+* [Graphics](#graphics)
+* [Graphical User Interface](#graphical-user-interface)
+* [JSON](#json)
+* [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
+  * [Online](#online)
+  * [Physical](#physical)
+* [Multimedia](#multimedia)
+* [Networking and Internet](#networking-and-internet)
+* [Numerical](#numerical)
+* [Parallel Programming](#parallel-programming)
+* [Regex](#regex)
+* [Serialization](#serialization)
+* [Source Code Collections](#source-code-collections)
+* [Standard Libraries](#standard-libraries)
+* [String Manipulation](#string-manipulation)
+* [Testing](#testing)
+* [Text Editor Extensions](#text-editor-extensions)
+  * [Emacs](#emacs)
+  * [Vim](#vim)
+* [Utilities](#utilities)
+* [XML](#xml)
+
+
+### Compilers
 
 * [Clang][38] - A C compiler for LLVM. Supports C11. [NCSA][39].
 * [CompCert][269] - A fully-verified C compiler. Supports almost all of C89. [GNU GPL2.1][8].
@@ -13,8 +53,8 @@ Compilers
 * [PCC][74] - A venerable C compiler. Supports C99. [Various licenses][75], all free.
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [GNU GPL2.1][8].
 
-Crypto
-======
+
+### Crypto
 
 * [GnuTLS][112] - A secure communication library, implementing SSL, TLS and DTLS. [GNU LGPL2.1][15].
 * [libgcrypt][142] - A general-purpose cryptography library, with a range of available ciphers. [GNU GPL2.1][8] and [GNU LGPL2.1][15].
@@ -24,8 +64,8 @@ Crypto
 * [libtomcrypt][299] - A fairly comprehensive, modular and portable cryptographic toolkit. Public domain.
 * [mbed TLS][291] - Another crypto implementation for C. [GNU GPL2.1][8].
 
-Database
-========
+
+### Database
 
 This lists databases and data stores with C APIs.
 
@@ -39,8 +79,8 @@ This lists databases and data stores with C APIs.
 * [SQLite][22] - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. Public domain.
 * [UnQLite][23] - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD][24].
 
-Documentation Generation
-========================
+
+### Documentation Generation
 
 * [Cxref][317] - Generates documentation of C programs in either LaTeX, HTML, RTF or SGML. [GNU GPL2.1][8].
 * [DocOnce][322] - A modestly-tagged markup language that can be used to generate a range of formats. [3-clause BSD][6].
@@ -48,8 +88,8 @@ Documentation Generation
 * [Doxygen][318] - The de-facto standard tool for generating C documentation from annotated sources. Can generate a large range of formats. [GNU GPL2.1][8].
 * [GTK-Doc][319] - A tool for generating C documentation from annotated sources. Has support for Autotools. [GNU LGPL2.1][15].
 
-Editors
-=======
+
+### Editors
 
 These are specifically fancier, IDE-type editors. If you want a programmer's text editor, and yours *doesn't* support C, I'd be quite surprised.
 
@@ -61,16 +101,16 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [KDevelop][44] - The KDE IDE. [GNU GPL2.1][8].
 * [NetBeans][260] - Another IDE written in Java. [GNU GPL2.1][8] or [CDDL][261].
 
-Environments
-============
+
+### Environments
 
 This is a list of technologies designed to bring Windows into the 21st century with respect to support for C.
 
 * [Cygwin][253] - Designed to emulate a POSIX-compatible environment extensively under Windows. [Various licenses, all free][254].
 * [MinGW-w64][287] - A minimalist environment for C development on Windows with 64 bit support. [Various licenses, all free][252].
 
-Frameworks
-==========
+
+### Frameworks
 
 This section has big libraries that provide data structures and other stuff you expect of a 'modern' standard library.
 
@@ -87,10 +127,10 @@ This section has big libraries that provide data structures and other stuff you 
 * [qlibc][277] - A simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [qLib license][278] (similar to [FreeBSD][24]).
 * [stb][114] - A range of single-file libraries for C. Public domain.
 
-Game Programming
-================
 
-## Engines ##
+### Game Programming
+
+#### Engines
 
 These are provided as examples of C game programming code.
 
@@ -99,7 +139,7 @@ These are provided as examples of C game programming code.
 * [Quake][225] - The Quake engine. [GNU GPL2.1][8].
 * [Quake2][221] - The Quake2 engine. [GNU GPL2.1][8].
 
-## Resources ##
+#### Resources
 
 These are libraries of all sorts that are useful for game programming.
 
@@ -113,14 +153,14 @@ These are libraries of all sorts that are useful for game programming.
 * [SDL][50] - A cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. [zlib][49].
 * [SDL2][301]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
 
-Generic Programming
-===================
+
+### Generic Programming
 
 * [klib][76] - Small and lightweight implementations of common algorithms and data structures. [Expat][11].
 * [SGLIB][30] - Simple Generic Library; an implementation of a range of generic programming structures and idioms in C. [GNU GPL3][41].
 
-Graphics
-========
+
+### Graphics
 
 * [Cogl][127] - A GPU graphics and utilities API. [GNU LGPL2.1][15].
 * [Clutter][126] - A UI library based on OpenGL. [GNU LGPL2.1][15].
@@ -133,8 +173,7 @@ Graphics
 * [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [Various licenses][148].
 
 
-Graphical User Interface
-========================
+### Graphical User Interface
 
 These are specifically [widget toolkits][12].
 
@@ -144,8 +183,8 @@ These are specifically [widget toolkits][12].
 * [Tk][19] - A basic widget toolkit. Part of Tcl/Tk. [Tcl/Tk License][20].
 * [XForms Toolkit][21] - A widget toolkit designed for the XWindow system. [GNU LGPL2.1][15].
 
-JSON
-=======
+
+### JSON
 
 * [Jansson][53] - A C library for encoding, decoding and manipulating JSON. [Expat][11].
 * [jsmn][120] - A minimalistic JSON parser. [Expat][11].
@@ -154,15 +193,13 @@ JSON
 * [YAJL][60] - A fast C JSON streaming parser library. [ISC][61]
 
 
-Learning, Reference and Tutorials
-=================================
+### Learning, Reference and Tutorials
 
 This is a list of resources for learning C programming in general, or something useful relating to C programming.
 
-## Online ##
+#### Online
 
-Reference
----------
+##### Reference
 
 * [CERT C Coding Standard][266]
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
@@ -171,8 +208,7 @@ Reference
 * [GNU C Reference Manual][329]
 * [Robert Pike's notes on programming in C][273]
 
-Beginner
---------
+##### Beginner
 
 * [A tutorial on pointers][213]
 * [Building C Projects][208]
@@ -182,8 +218,7 @@ Beginner
 * [The GNU C Programming Tutorial][212] (online PDF)
 * [Templating in C][267]
 
-Intermediate
-------------
+##### Intermediate
 
 * [8 gdb tricks you should know][206]
 * [10 C99 tricks][257]
@@ -196,8 +231,7 @@ Intermediate
 * [What a C programmer should know about memory][271]
 * [What every C programmer should know about undefined behaviour][275]
 
-Advanced
---------
+##### Advanced
 
 * [A quick tutorial on implementing and debugging malloc, free, calloc, and realloc][204]
 * [Bit twiddling hacks][73]
@@ -207,19 +241,21 @@ Advanced
 * [Metaprogramming custom control structures in C][343]
 * [Some dark corners of C][210]
 * [Writing efficient C and C code optimization][33]
- 
-Self-study courses
-----------
+
+##### Self-study Courses
 
 * [C Programming Language Certified Associate preparation course][211]
 
-## Physical ##
+#### Physical
 
-Reference
----------
+##### Reference
 
-Books
------
+* [C: A Reference Manual 5E][181] - A full reference book for C99.
+* [C Pocket Reference][182] - A concise reference book for C99.
+* [The C Programming Language 2E][7] - The original book on C, by its creators.
+
+##### Books
+
 * [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
@@ -231,45 +267,37 @@ Books
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
-* [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) 
+* [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/)
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 
-
-* [C: A Reference Manual 5E][181] - A full reference book for C99.
-* [C Pocket Reference][182] - A concise reference book for C99.
-* [The C Programming Language 2E][7] - The original book on C, by its creators.
-
-Beginner
---------
+##### Beginner
 
 * [C Primer Plus 6E][184] - A complete tutorial on programming in C11.
 * [C Programming: A Modern Approach][64] - An excellent book to learn the basics from C from.
 * [Head First C][102] - A 'head-first' style book for learning C.
 
-Intermediate
-------------
+##### Intermediate
 
 * [21st Century C][35] - A very good *second* programming book on C.
 * [Understanding and Using C Pointers][36] - An in-depth resource on pointers in C.
 * [ZeroMQ][183] - A book for using ZeroMQ with C.
 
-Advanced
---------
+##### Advanced
 
 * [Expert C Programming: Deep C Secrets][55] - An interesting, in-depth and *entertaining* look at the innards of C.
 
-Multimedia
-==========
+
+### Multimedia
 
 * [FFMPEG][63] - A complete, cross-platform solution to record, convert and stream audio and video. [GNU LGPL2.1][15], with some parts under [GNU GPL2.1][8].
 * [GStreamer][123] - A framework for audio and visual media. [GNU LGPL2.1][15].
 * [lodepng][69] - A simple PNG image decoder and encoder, requiring no other dependencies. [3-clause BSD][6].
 
-Networking and Internet
-=======================
+
+### Networking and Internet
 
 * [asnlc][138] - A compiler of ASN.1 specifications into C source code. [FreeBSD][24].
 * [czmq][226] - A high-level binding for ZeroMQ. [MPL2.0][227]
@@ -302,8 +330,8 @@ Networking and Internet
 * [twitc][237] - A mini C library for interacting with the Twitter OAuth API. [GNU GPL3][41].
 * [ZeroMQ][52] - High-performance message passing networking library. Implemented in C++, but has a C interface. [GNU LGPL3][5].
 
-Numerical
-=========
+
+### Numerical
 
 * [apophenia][188] - A library for statistical and scientific computing. [GNU GPL2.1][8] with some [exceptions][189].
 * [ATLAS][137] - Automatically Tuned Linear Algebra Software. [3-clause BSD][6].
@@ -326,8 +354,7 @@ Numerical
 * [Yeppp!][72] - Very fast, SIMD-optimized mathematical library. [3-clause BSD][6].
 
 
-Parallel Programming
-====================
+### Parallel Programming
 
 * [cchan][243] - A small library for channel constructs for inter-thread communication. Public domain.
 * [ck][242] - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [FreeBSD][24].
@@ -340,8 +367,8 @@ Parallel Programming
 * [SLEPc][283] - A software library for the solution of large, sparse eigenvalue problems on parallel computers. [GNU LGPL3][5].
 * [TinyCThread][115] - A portable, small implementation of the C11 threads API. [zlib][49].
 
-Regex
-=====
+
+### Regex
 
 > "Some people, when confronted with a problem, think 'I know, I'll use regular expressions'. Now they have two problems." - Jamie Zawinski.
 
@@ -350,8 +377,8 @@ Regex
 * [TRE][82] - A POSIX-compliant, feature-full regex library. [FreeBSD][24].
 * [T-Rex][81] - Another tiny regex library. [zlib][49].
 
-Serialization
-=============
+
+### Serialization
 
 * [c-capnproto][130] - An implementation of the Cap'n Proto serialization protocol. [Expat][11].
 * [libavro][140] - A C implementation of the Avro data serialization system. [Apache2.0][32].
@@ -359,8 +386,8 @@ Serialization
 * [protobuf-c][129] - An implementation of Google Protocol Buffer in C. [FreeBSD][24].
 * [xdr][131] - External Data Representation; a standard for data serialization. Standard (no license applicable).
 
-Source Code Collections
-=======================
+
+### Source Code Collections
 
 This contains collections of small source code. If you want something big and integrated, check the Frameworks section.
 
@@ -370,18 +397,18 @@ This contains collections of small source code. If you want something big and in
 * [libdjb][292] - A collection of libraries doing various things. (Apparently) public domain.
 * [ulib][154] - Another collection of source code. [Expat][11].
 
-Standard Libraries
-==================
+
+### Standard Libraries
 
 This contains standard C libraries.
 
 * [Bionic][4] - Google's C standard library, developed for Android. [3-clause BSD][6]
 * [dietlibc][9] - A C standard library designed for the smallest possible binaries. [GNU GPL2.1][8].
-* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5]. 
+* [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5].
 * [musl][10] - A standard C library, compatible with POSIX 2008 and C11. Designed for static linking. [Expat][11].
 
-String Manipulation
-===================
+
+### String Manipulation
 
 * [bstrlib][116] - The Better String Library. [3-clause BSD][6] or [GNU GPL2.1][8].
 * [ICU][67] - International Components for Unicode; a library for Unicode support. [ICU license][68].
@@ -389,8 +416,8 @@ String Manipulation
 * [libgiconv][163] - A text conversion library. [GNU LGPL2.1][8].
 * [SDS][29] - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib][26]. [FreeBSD][24].
 
-Testing
-=======
+
+### Testing
 
 * [CHEAT][84] - A very simple unit testing framework. [FreeBSD][24].
 * [Check][59] - A unit testing framework for C. [GNU LGPL2.1][15].
@@ -401,24 +428,24 @@ Testing
 * [minunit][92] - Minimal unit testing framework for C. [Expat][11].
 * [Unity][296] - A simple unit testing framework for C. [Expat][11].
 
-Text Editor Extensions
-======================
+
+### Text Editor Extensions
 
 While practically any decent programmer's text editor supports C, there are some extensions that make it more pleasant. This is categorized by editor.
 
-## Emacs ##
+#### Emacs
 
 * [CEDET][250] - Collection of Emacs Development Environment Tools; designed to provide IDE-like features to Emacs. Built-in. [GNU GPL2.1][8].
 * [Flycheck][149] - Modern syntax checking. For C, it can use either GCC or Clang as a back-end. [GNU GPL3][41].
 * [Yasnippet][150] - A template system, with C templates for common code snippets. [GNU GPL3][41].
 
-## Vim ##
+#### Vim
 
 * [Syntastic][186] - Syntax checking and linting. [Do What The Fuck You Want To license][187].
 * [YouCompleteMe][151] - A code completion engine for Vim. [GNU GPL3][41].
 
-Tools
-=====
+
+### Tools
 
 This is a list of useful programs to help you write and debug C code which are *not* editors, libraries or compilers.
 
@@ -455,8 +482,8 @@ This is a list of useful programs to help you write and debug C code which are *
 * [unifdef][290] - Removes #ifdef and #if directives with their delimited text without touching any other part of the file. [3-clause BSD][6] and [FreeBSD][24].
 * [Valgrind][85] - A range of dynamic analysis tools, including a leak checker. [GNU GPL2.1][8].
 
-Utilities
-=========
+
+### Utilities
 
 This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 
@@ -501,8 +528,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Viola][241] - A simplification of libCello. [Expat][11].
 * [zlib][230] - A massively-spiffy yet delicately-unobtrusive compression library. [3-clause BSD][6].
 
-XML
-===
+
+### XML
 
 > "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
 

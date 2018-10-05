@@ -1,3 +1,9 @@
+---
+title: Competitive Programming
+category: Other
+---
+
+
 ### Index
 * [Syllabus](#syllabus)
 * [Motivational](#motivation)
@@ -13,7 +19,7 @@
 * [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
 * [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 
-### Motivational 
+### Motivational
 * [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)
 * [Target in six steps](http://community.topcoder.com/tc?module=Static&d1=features&d2=070805)– Petr Mitrichev
 * Nikhil Garg’s blog posts
@@ -22,6 +28,7 @@
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+*[How to prepare for ACM ICPC?](http://codeforces.com/blog/entry/47688)
 
 ### Competitive Programming
 * [4Clojure](http://www.4clojure.com/)
@@ -64,7 +71,7 @@
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
 * [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
-* [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html) 
+* [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html)
 * [Segment Trees](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html?m=1)
 * [Data structure and Algorithm](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Algorithms For Interviews And Competitive Programming](http://turjachaudhuri.wordpress.com)
@@ -94,3 +101,7 @@
 
 ### Quora posts
 * [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
+
+###  Learning Resources
+* [Stanford University ICPC Team Notebook (2015-16)Stanford University ICPC Team Notebook (2015-16)](http://cs.stanford.edu/group/acm/SLPC/notebook.pdf)
+* [Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)

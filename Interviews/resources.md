@@ -1,3 +1,7 @@
+---
+title: Interviews
+category: Other
+---
 
 ### Contents
 
@@ -9,6 +13,7 @@
 * [Maths](#maths)
 * [Misc](#misc)
 * [Questions](#questions)
+* [Resume](#resume)
 * [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
@@ -96,8 +101,8 @@ Highly Recommended: **zouzhile's Repository** [[web][c_tb]] [[Github][c_tb_app1]
 * [IndiaBix](http://www.indiabix.com)
 * [CrazyForCode](http://www.crazyforcode.com/)
 * [Glassdoor](http://glassdoor.com/)
-* [CodeChef](www.codechef.com)
-* [TopCoder](www.topcoder.com)
+* [CodeChef](https://www.codechef.com)
+* [TopCoder](https://www.topcoder.com)
 * [LeetCode](http://www.leetcode.com)
 * [Hackerrank](http://www.hackerrank.com/)
 * [CodeKata](http://codekata.pragprog.com/2007/01/code_kata_backg.html)
@@ -193,6 +198,9 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 [q_piq]: http://maxnoy.com/interviews.html
 [q_ps]: http://prismoskills.appspot.com/freshers.jsp
 
+## Resume
+* [Careercup: Tips on a good resume](https://www.careercup.com/resume)
+
 
 ## Systems Design
 
@@ -227,6 +235,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 
 ## Similar Github repos
 
+* [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) **(NEW)**
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide) **(NEW)**
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles) **(NEW)**
 * [interview-resources](https://github.com/davidhampgonsalves/interview-resources)

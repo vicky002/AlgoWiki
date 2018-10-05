@@ -95,8 +95,12 @@ Topics
 - Artificial Intelligence
 - Android
 - Discrete Mathematics
+<<<<<<< HEAD
 - Compilers
 - Web2py
+=======
+- News and Inspiration
+>>>>>>> c8462bd05cb989d73e5c877a7dbd6c84b09ab420
 
 There are many topics, you can contribute to – Just create topics and add resources to it!
 

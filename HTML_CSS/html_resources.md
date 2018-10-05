@@ -71,6 +71,7 @@ category: Languages
 * [BEM: About](https://en.bem.info/methodology/)
 * [BEM: Introduction](http://getbem.com/introduction/)
 * [BEM: CSS Tricks Guide](https://css-tricks.com/bem-101)
+<<<<<<< HEAD
 * [Bootstrap](http://getbootstrap.com/)
 * [Foundation](https://foundation.zurb.com/)
 * [Semantic UI](https://semantic-ui.com/)
@@ -84,3 +85,13 @@ category: Languages
 
 
 
+=======
+
+
+Tools
+--------
+* [CSS Arrow Generator](http://www.cssarrowplease.com/)
+* [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+* [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [Favicon Generator](http://www.favicon.cc/?)
+>>>>>>> c8462bd05cb989d73e5c877a7dbd6c84b09ab420

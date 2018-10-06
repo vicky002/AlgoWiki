@@ -75,6 +75,8 @@ Contributions most welcome.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on AI and ML, including neural networks, deep learning, and NLP.
 
+* [Text Completion Using Deep Learning](http://bamos.github.io/2016/08/09/deep-completion/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - An implementation of Text Completetion using Deep Learning.
+
 [⬆ Back to Top](#index)
 
 ## Code
@@ -103,7 +105,7 @@ Contributions most welcome.
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AI APIs To Implement](https://developer.ibm.com/api/list)
-* [Deep Learning Camp](http://jeju.dlcamp.org/2018/)
+
 
 ## Podcasts
 

@@ -31,3 +31,4 @@ category: Languages
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [R Programming for Data Science](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)
+* [PDFs for Beginners](https://www.dropbox.com/sh/vawqdv9bp32v4yg/AABhmF_zWAh1vM7e-HmfXZfKa?dl=0)

@@ -25,6 +25,7 @@ category: Languages
 * [Segment Trees](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html?m=1)
 * [Data structure and Algorithm](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Algorithms For Interviews And Competitive Programming](http://turjachaudhuri.wordpress.com)
+* [Code Accepted](https://codeaccepted.wordpress.com/)
 * [Getting Started with Competitve Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [TopCoder Algorithms Tutorial](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
 * [eMAXX](http://e-maxx.ru/algo) [Translate this website using Chrome]
@@ -51,11 +52,23 @@ category: Languages
 * [Igor’s Code Repository](http://shygypsy.com/tools/)
 * [Indy's Code Library](https://sites.google.com/site/indy256/)
 
+## YouTube
+
+* [Petr Mitrichev's Channel](https://www.youtube.com/user/petrmitrichev)
+* [Errichto's Channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Endagorion's Channel](https://www.youtube.com/user/Endagorion)
+* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Algorithms with Rachit Jain](https://www.youtube.com/c/RachitJain)
+* [Codechef's Indian Programming Camp 2016 Playlist](https://www.youtube.com/watch?v=VGq6w9TlJBY&list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)
+* [Codechef's Indian Programming Camp 2017 Playlist](https://www.youtube.com/watch?v=KNe9XRCZkVU&list=PLi0ZM-RCX5nvImim3_ilsdLOtDDkOWt-X)
+
 
 ### Coding Calendar
 
 * [Hackerrank Calendar](https://www.hackerrank.com/calendar)
 * [Chrome Extension for active and upcoming challenges](https://chrome.google.com/webstore/detail/challenge-hunt/cgbnhngdlmhjbmgkekedepoapmoingjj)
+* [Contest List](https://clist.by/)
 
 
 ### Competitive Programming

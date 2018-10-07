@@ -39,7 +39,7 @@ category: Libraries
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
-
+* [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
 
 ### Websites
 
@@ -83,6 +83,7 @@ category: Libraries
 * [Keras](https://keras.io/)
 * [Lassage (Built over Theano)](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
 * [PyTorch](http://pytorch.org/)
+* [Turicreate (by Apple)](https://apple.github.io/turicreate/docs/api/index.html)
 
 #### Java
 
@@ -96,6 +97,11 @@ category: Libraries
 * [Deep playground](https://github.com/tensorflow/playground)
 * [Synaptic](https://github.com/cazala/synaptic)
 * [ConvNetJS](https://github.com/karpathy/convnetjs)
+* [TensorFlow.js](https://js.tensorflow.org)
+
+#### Lua
+
+* [Torch](http://torch.ch)
 
 
 ### Algorithms
@@ -119,6 +125,7 @@ category: Libraries
 * Principal Component Analysis(PCA)
 * Linear Discriminant Analysis (LDA)
 * Autoencoders
+* Bagging and boosting
 
 
 ### Popular Datasets
@@ -133,6 +140,8 @@ category: Libraries
 * [IMDB 5000 Image Movie Dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
 * [Enron Dataset for ham/spam classification](http://www2.aueb.gr/users/ion/data/enron-spam/)
 * [20 Newsgroups Dataset](https://www.kaggle.com/crawford/20-newsgroups)
+* [Kodak Image Dataset](http://r0k.us/graphics/kodak/)
+* [Image Net Dataset](http://image-net.org)
 
 
 ### Relevant Research Papers

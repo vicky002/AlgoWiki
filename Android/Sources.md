@@ -50,6 +50,11 @@ Android
 - [Mockito](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html)
 ### UI testing framework
 - [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html)
+- [Appium](http://appium.io/)
+- [Robotium](https://github.com/RobotiumTech/robotium)
+- [Calabash](http://calaba.sh/)
+- [UI Automator](https://developer.android.com/training/testing/ui-automator)
+- [The Monkey](https://developer.android.com/studio/test/monkey)
 
 ## Community
 * [Android Developers](https://developer.android.com/support.html)

@@ -45,6 +45,16 @@ Android
 ## Tools
 * [Android Studio](https://developer.android.com/studio/index.html)
 
+
+## Networking Libraries
+
+* [Retrofit](http://square.github.io/retrofit/)
+* [Volley](https://developer.android.com/training/volley/)
+* [OkHttp](https://square.github.io/okhttp/)
+* [Ion](https://github.com/koush/ion)
+* [Android Asynchronous Http](http://loopj.com/android-async-http/)
+* [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+
 ## Testing frameworks
 ### Unit testing framework
 - [Mockito](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html)

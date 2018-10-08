@@ -16,6 +16,7 @@ Android
 - [Testing frameworks](#testing-frameworks)
   - [Unit testing framework](#unit-testing-framework)
   - [UI testing framework](#ui-testing-framework)
+- [Debugging Tools and Libraries](#debugging-tools-and-libraries)
 - [Community](#community)
 
 ## Reference
@@ -97,6 +98,17 @@ Android
 - [Calabash](http://calaba.sh/)
 - [UI Automator](https://developer.android.com/training/testing/ui-automator)
 - [The Monkey](https://developer.android.com/studio/test/monkey)
+
+
+## Debugging Tools and Libraries
+
+* [AnUitor](http://anuitor.scurab.com/)
+* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+* [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample)
+* [Chuck](https://github.com/jgilfelt/chuck)
+* [RxJava2Debug](https://github.com/akaita/RxJava2Debug)
+* [Stetho](http://facebook.github.io/stetho/)
+
 
 ## Community
 * [Android Developers](https://developer.android.com/support.html)

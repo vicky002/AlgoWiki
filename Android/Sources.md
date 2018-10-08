@@ -10,6 +10,7 @@ Android
 - [Online Training](#online-training)
 - [Books](#books)
 - [Tools](#tools)
+- [Good to Have Libraries](#good-to-have-libraries)
 - [Testing frameworks](#testing-frameworks)
   - [Unit testing framework](#unit-testing-framework)
   - [UI testing framework](#ui-testing-framework)
@@ -44,6 +45,20 @@ Android
 
 ## Tools
 * [Android Studio](https://developer.android.com/studio/index.html)
+
+
+## Good to Have Libraries
+
+* [Dagger 2](https://google.github.io/dagger/)
+* [ButterKnife](https://github.com/JakeWharton/butterknife)
+* [Parceler](http://parceler.org/)
+* [Icepick](https://github.com/frankiesardo/icepick)
+* [Leak Canary](https://github.com/square/leakcanary)
+* [Event Bus](http://greenrobot.org/eventbus)
+* [Android Annotations](https://github.com/androidannotations/androidannotations)
+* [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+* [Android View Animations](https://github.com/daimajia/AndroidViewAnimations)
+* [Logging Interceptor](https://github.com/ihsanbal/LoggingInterceptor)
 
 
 ## Networking Libraries

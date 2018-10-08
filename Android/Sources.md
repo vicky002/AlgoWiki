@@ -11,6 +11,8 @@ Android
 - [Books](#books)
 - [Tools](#tools)
 - [Good to Have Libraries](#good-to-have-libraries)
+- [Networking Libraries](#networking-libraries)
+- [Image Processing Libraries](#image-processing-libraries)
 - [Testing frameworks](#testing-frameworks)
   - [Unit testing framework](#unit-testing-framework)
   - [UI testing framework](#ui-testing-framework)
@@ -69,6 +71,21 @@ Android
 * [Ion](https://github.com/koush/ion)
 * [Android Asynchronous Http](http://loopj.com/android-async-http/)
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+
+
+## Image Processing Libraries
+
+* [Picasso](http://square.github.io/picasso/)
+* [Glide](https://github.com/bumptech/glide)
+* [Fresco](https://frescolib.org/)
+* [Android Photo Filters](https://github.com/zomato/androidphotofilters)
+* [Android GPU Image](https://github.com/CyberAgent/android-gpuimage)
+* [Android Image Filter](https://github.com/ragnraok/android-image-filter)
+* [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)
+* [Glide Transformations](https://github.com/wasabeef/glide-transformations)
+* [Image Effect Filter](https://github.com/mnafian/ImageEffectFilter)
+* [VidEffects](https://github.com/krazykira/VidEffects)
+
 
 ## Testing frameworks
 ### Unit testing framework

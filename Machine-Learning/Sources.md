@@ -60,6 +60,7 @@ category: Libraries
 * [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
+* [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
 
 
 ### Libraries
@@ -83,6 +84,7 @@ category: Libraries
 * [Lassage (Built over Theano)](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
 * [PyTorch](http://pytorch.org/)
 * [Turicreate (by Apple)](https://apple.github.io/turicreate/docs/api/index.html)
+* [MLxtend](http://rasbt.github.io/mlxtend/)
 
 #### Java
 
@@ -125,6 +127,7 @@ category: Libraries
 * Linear Discriminant Analysis (LDA)
 * Autoencoders
 * Bagging and boosting
+* Apriori
 
 
 ### Popular Datasets
@@ -141,6 +144,7 @@ category: Libraries
 * [20 Newsgroups Dataset](https://www.kaggle.com/crawford/20-newsgroups)
 * [Kodak Image Dataset](http://r0k.us/graphics/kodak/)
 * [Image Net Dataset](http://image-net.org)
+* [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 
 ### Relevant Research Papers

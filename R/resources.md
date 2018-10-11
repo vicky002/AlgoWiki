@@ -37,6 +37,9 @@ category: Languages
 * [Essential Math for Machine Learning: R Edition - edX](https://www.edx.org/course/essential-math-machine-learning-r-1)
 * [Principles of Machine Learning: R Edition - edX](https://www.edx.org/course/principles-machine-learning-r-edition-1)
 * [Introduction to R - DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Introduction to the Tidyverse - DataCamp](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
+* [Introduction to Data - DataCamp](https://www.datacamp.com/courses/introduction-to-data)
+* [Introduction to R for Finance - DataCamp](https://www.datacamp.com/courses/introduction-to-r-for-finance)
 
 ## Reference Books
 

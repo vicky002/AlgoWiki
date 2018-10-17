@@ -661,6 +661,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 * [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
+* [E-maxx] (http://cp-algorithms.com) - Realization of some algorithms on C++.
 
 ## Weblogs
 *Useful C/C++ related weblogs.*

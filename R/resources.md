@@ -40,9 +40,17 @@ category: Languages
 * [Introduction to the Tidyverse - DataCamp](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
 * [Introduction to Data - DataCamp](https://www.datacamp.com/courses/introduction-to-data)
 * [Introduction to R for Finance - DataCamp](https://www.datacamp.com/courses/introduction-to-r-for-finance)
+* [R training tutorials - Lynda](https://www.lynda.com/R-training-tutorials/1570-0.html)
+* [Introduction to R - Google Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+* [LearnR - YouTube](https://www.youtube.com/user/TheLearnR/featured)
+* [R Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P)
+* [The R Manuals - CRAN](https://cran.r-project.org/manuals.html)
+
 
 ## Reference Books
 
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [R Programming for Data Science](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)
+* [R for Data Science](http://r4ds.had.co.nz/)
+* [Advanced R](http://adv-r.had.co.nz/)

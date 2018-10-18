@@ -54,3 +54,4 @@ category: Languages
 * [R Programming for Data Science](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Advanced R](http://adv-r.had.co.nz/)
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/

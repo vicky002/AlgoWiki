@@ -34,6 +34,7 @@ Contributions most welcome.
 * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 * [Practical Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math and also without dumbing anything down.
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
 [⬆ Back to Top](#index)
 

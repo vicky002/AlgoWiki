@@ -40,6 +40,8 @@ category: Libraries
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Websites
 
 * [Kaggle: The Home of Data Science](https://www.kaggle.com/)
@@ -62,8 +64,12 @@ category: Libraries
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
 
+[⬆ Back to Top](#table-of-contents)
+
 
 ### Libraries
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Python
 
@@ -86,11 +92,15 @@ category: Libraries
 * [Turicreate (by Apple)](https://apple.github.io/turicreate/docs/api/index.html)
 * [MLxtend](http://rasbt.github.io/mlxtend/)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Java
 
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
 * [MOA (Massive Online Analysis)](https://moa.cms.waikato.ac.nz/)
 * [Deep Learning for Java](https://github.com/deeplearning4j/deeplearning4j)
+
+[⬆ Back to Top](#table-of-contents)
 
 #### JavaScript
 
@@ -100,10 +110,13 @@ category: Libraries
 * [ConvNetJS](https://github.com/karpathy/convnetjs)
 * [TensorFlow.js](https://js.tensorflow.org)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Lua
 
 * [Torch](http://torch.ch)
 
+[⬆ Back to Top](#table-of-contents)
 
 ### Algorithms
 
@@ -129,6 +142,8 @@ category: Libraries
 * Bagging and boosting
 * Apriori
 
+[⬆ Back to Top](#table-of-contents)
+
 
 ### Popular Datasets
 
@@ -146,10 +161,14 @@ category: Libraries
 * [Image Net Dataset](http://image-net.org)
 * [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 
+[⬆ Back to Top](#table-of-contents)
+
 
 ### Relevant Research Papers
 
 Will be updated soon!
+
+[⬆ Back to Top](#table-of-contents)
 
 
 ### Podcasts

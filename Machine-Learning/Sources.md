@@ -160,3 +160,5 @@ Will be updated soon!
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 * [Learning Machines 101](http://www.learningmachines101.com/)
 * [Partially Derivative](http://partiallyderivative.com/)
+
+[⬆ Back to Top](#table-of-contents)

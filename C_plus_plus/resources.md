@@ -270,6 +270,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 * [Open Graphics Library (OpenGL)](https://www.opengl.org/) :zap: - Cross-platform application programming interface (API) for rendering 2D and 3D vector graphics [SGI][link](http://www.sgi.com/tech/opengl/?/license.html)
+* [Anti-Grain Geometry](http://www.antigrain.com/) - A platform independent engine for rendering anti-aliased images from vectorial data. [GPL]
 
 ## Image Processing
 

@@ -673,6 +673,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 
 C++ Books
 ----
+* [A Tour of C++](https://isocpp.org/tour) - Bjarne Stroustrup (PDF, Online)
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [C++ Today – The Beast Is Back](http://www.oreilly.com/programming/free/files/c++-today.pdf)
@@ -695,5 +696,9 @@ C++ Books
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * [Programming: Principles and Practices Using C++](https://www.amazon.com/gp/product/0321992784/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - Bjarne Stroustrup (Creator of C++)
+* [Effective C++](http://www.amazon.com/gp/product/0321334876?ie=UTF8&tag=aristeia.com-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321334876) - Scott Meyers
+* [More Effective C++](https://www.amazon.com/gp/product/020163371X?ie=UTF8tag=aristeia.com-20linkCode=as2camp=1789creative=9325creativeASIN=020163371X) - Scott Meyers
+* [Effective STL](http://www.amazon.com/gp/product/0201749629?ie=UTF8tag=aristeia.com-20linkCode=as2camp=1789creative=9325creativeASIN=0201749629) - Scott Meyers
+* [Effective Modern C++](http://shop.oreilly.com/product/0636920033707.do) - Scott Meyers
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 

@@ -1,6 +1,6 @@
 # Index
 * [Online Books and PDFs](#online-books-and-pdfs)
-* [White Paper](#White Paper)
+* [White Paper](#White-Paper)
 * [Websites](#websites)
 * [Podcasts](#Podcasts)
 

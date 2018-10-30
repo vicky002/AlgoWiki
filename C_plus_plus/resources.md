@@ -695,5 +695,6 @@ C++ Books
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * [Programming: Principles and Practices Using C++](https://www.amazon.com/gp/product/0321992784/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - Bjarne Stroustrup (Creator of C++)
+* [A Tour of C++](https://isocpp.org/tour) - Bjarne Stroustrup (PDF, Online)
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 

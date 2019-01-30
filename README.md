@@ -77,7 +77,7 @@ Topics
 - Operating System
 - Competitive Programming
 - Web Languages:
- -  Html
+ -  HTML
  -  Javascipt
  -  JQuery
  -  PHP 

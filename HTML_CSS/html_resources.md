@@ -29,6 +29,7 @@ category: Languages
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
+* [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground) - Paul McFedries
 
 ## Websites
 --------

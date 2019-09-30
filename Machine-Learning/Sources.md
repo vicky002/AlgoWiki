@@ -63,6 +63,8 @@ category: Libraries
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
+* [Edureka: Machine Learning tutorial](https://www.edureka.co/blog/machine-learning-tutorial/)
+
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -179,5 +181,12 @@ Will be updated soon!
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 * [Learning Machines 101](http://www.learningmachines101.com/)
 * [Partially Derivative](http://partiallyderivative.com/)
+
+[⬆ Back to Top](#table-of-contents)
+
+
+### Videos
+
+* [Machine Learning Full Course: 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
 
 [⬆ Back to Top](#table-of-contents)

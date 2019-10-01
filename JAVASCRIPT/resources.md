@@ -34,6 +34,8 @@ category: Languages
 - [jQuery API](https://api.jquery.com/)
 - [ReactJS](https://reactjs.org/docs/hello-world.html)
 - [AngularJS](https://angular.io/docs)
+- [VueJS](https://vuejs.org/v2/guide/)
+- [Svelte](https://svelte.dev/docs)
 - [ECMAScript® 2017 Language Specification ](https://www.ecma-international.org/ecma-262/8.0/index.html)
 - [NodeJS](https://nodejs.org/en/docs/)
 - [JavaScript I/O](https://iojs.org/api/)
@@ -59,6 +61,7 @@ category: Languages
 - Coding Challenges
   - [Codecademy](http://www.codecademy.com/)
   - [Codewars](http://www.codewars.com/)
+  - [Codesignal](https://codesignal.com/)
   - [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
   - [NodeSchool](http://nodeschool.io/)
   - [freeCodeCamp](https://www.freecodecamp.org/)

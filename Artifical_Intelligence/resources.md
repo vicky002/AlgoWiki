@@ -35,7 +35,8 @@ Contributions most welcome.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 * [Practical Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math and also without dumbing anything down.
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
-
+* [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
+* [Machine Learning with TensorFlow on Google Cloud Platform Specialization ](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)There are 5 Courses in this Specialization which includes: How Google does Machine Learning , Launching into Machine Learning , Intro to TensorFlow , Feature Engineering and Art and Science of Machine Learning .
 [⬆ Back to Top](#index)
 
 ## Books About Artificial Intelligence

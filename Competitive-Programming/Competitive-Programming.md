@@ -106,6 +106,7 @@ category: Languages
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+* [Abdullah Aslam's journey to google through competitive programming](https://blog.usejournal.com/my-competitive-programming-journey-to-google-5f51c211c715)
 
 
 ### Problem Sets

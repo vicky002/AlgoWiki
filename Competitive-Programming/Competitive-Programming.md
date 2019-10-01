@@ -119,6 +119,8 @@ category: Languages
 * [Coding Bat](http://codingbat.com/java)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org/)
+* [InterviewBit](https://www.interviewbit.com)
+* [Leetcode](https://www.leetcode.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [Kattis](https://open.kattis.com/problems)
 * [PKU Online Judge](http://poj.org/)

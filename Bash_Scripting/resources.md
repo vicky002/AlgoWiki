@@ -10,7 +10,8 @@ A curated list of resources
 	-[Resources](#resources)
 		-[Videos](#videos)
 		-[Websites](#websites)
-
+		-[Books](#books)
+		
 ## Videos
 *Shell scripting related videos.*
 * [Learn Shell Scripting in One Video](https://www.youtube.com/watch?v=hwrnmQumtPw&t=877s) - Covers most topics of shell scripting by Derek Banas
@@ -32,3 +33,7 @@ A curated list of resources
 * [BashGuide](http://mywiki.wooledge.org/BashGuide)
 * [Cyberciti Bash Tutorials](https://bash.cyberciti.biz/guide/Main_Page)
 * [Beginners Bash Guide](http://linuxcourse.rutgers.edu/documents/Bash-Beginners-Guide/)
+## Books
+*Shell scripting related books.*
+
+* [Bash Notes for Professionals](https://goalkicker.com/BashBook/) - Bash notes book by Goal Kicker

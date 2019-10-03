@@ -111,6 +111,7 @@ category: Languages
 - http://www.joezimjs.com/
 - http://blog.ponyfoo.com/
 - http://rmurphey.com/
+- https://flaviocopes.com/
 
 #### Blogs - Multiple Authors
 

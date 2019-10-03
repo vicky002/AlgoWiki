@@ -25,6 +25,8 @@ category: Platforms
   - [Studytonight: Operating System](http://www.studytonight.com/operating-system/introduction-operating-systems)
   - [TutorialsPoint: Operatig System](https://www.tutorialspoint.com/operating_system/)
   - [Codescracker: Operating System](https://codescracker.com/operating-system/)
+  - [Geeksforgeeks: Operating System](https://www.geeksforgeeks.org/operating-systems/)
+  - [javatpoint: Operating System](https://www.javatpoint.com/os-tutorial)
 
 [⬆ Back to top](#table-of-contents)
 

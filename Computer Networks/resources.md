@@ -21,7 +21,7 @@ category: Platforms
   - http://lecturesppt.blogspot.com/2012/09/data-communications-and-networking.html
   
 * Articles
-  - [Studytonight: Computer Networks](https://www.studytonight.com/computer-networks/)
+  - [Studytonight: Computer Networking](https://www.studytonight.com/computer-networks/)
   - [TutorialsPoint: Computer Networking](https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm)
   
 * Videos

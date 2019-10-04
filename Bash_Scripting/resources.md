@@ -32,3 +32,4 @@ A curated list of resources
 * [BashGuide](http://mywiki.wooledge.org/BashGuide)
 * [Cyberciti Bash Tutorials](https://bash.cyberciti.biz/guide/Main_Page)
 * [Beginners Bash Guide](http://linuxcourse.rutgers.edu/documents/Bash-Beginners-Guide/)
+* [Bash scripting cheatsheet](https://devhints.io/bash)

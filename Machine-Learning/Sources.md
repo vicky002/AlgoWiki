@@ -39,7 +39,7 @@ category: Libraries
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
-
+* [Hands on Machine learning with scikit-learn and tensorflow](http://93.174.95.29/_ads/701B3790512F6104CD265E9088FDADEE)-Aurelien Geron
 [⬆ Back to Top](#table-of-contents)
 
 ### Websites

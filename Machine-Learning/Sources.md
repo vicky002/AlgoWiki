@@ -63,6 +63,7 @@ category: Libraries
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
+* [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 
 [⬆ Back to Top](#table-of-contents)
 

@@ -174,6 +174,8 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
    - [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
  - Data Analysis
    - [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+ - Spatial Data Analysis
+   - [`pysal`](http://pysal.org) - PySAL (Python Spatial Analysis Library) is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python.
 ## Conference
  - [PyCon](http://pycon.org/)
  - [djangocon](http://www.djangocon.us/)

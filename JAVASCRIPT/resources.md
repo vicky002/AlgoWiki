@@ -56,6 +56,7 @@ category: Languages
   - [Derek Banas: JavaScript Tutorial](https://www.youtube.com/watch?v=fju9ii8YsGs)
   - [JavaScript 30](https://javascript30.com/)
   - [Udacity: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+  - [React and Redux: TheNetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - Coding Challenges
   - [Codecademy](http://www.codecademy.com/)
   - [Codewars](http://www.codewars.com/)
@@ -150,6 +151,9 @@ category: Languages
 - [Mixu's Node Book](http://book.mixu.net/node/)
 - [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 - [The Node Beginner Book](http://nodebeginner.org/) - Manuel Kiessling
+- [Learning React: Functional Web Development with React and Redux](http://www.r-5.org/files/books/computers/languages/escss/w-tkt/react/Alex_Banks_and_Eve_Porcello-Learning_React-EN.pdf) - Alex Banks and Eve Porcello
+- [React: Up & Running: Building Web Applications](http://www.phpied.com/files/react/book/reactbook1-4.pdf) - Stoyan Stefanov
+- [The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX) - Robin Wieruch 
 
 #### Lists of Books
 

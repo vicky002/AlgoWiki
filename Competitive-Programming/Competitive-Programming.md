@@ -19,6 +19,7 @@ category: Languages
 
 ### Articles
 
+* [Algorithm Gym :: Data Structures](https://codeforces.com/blog/entry/15729)
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
 * [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
 * [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html)

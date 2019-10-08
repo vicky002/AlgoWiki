@@ -65,6 +65,7 @@ category: Libraries
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
 * [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
+* [mlcourse.ai](https://mlcourse.ai)
 
 [⬆ Back to Top](#table-of-contents)
 

@@ -1,0 +1,148 @@
+Given two binary strings that represent value of two integers, find the product of two strings. For example, if the first bit string is “1100” and second bit string is “1010”, output should be 120.
+For simplicity, let the length of two strings be same and be n.
+
+A Naive Approach is to follow the process we study in school. One by one take all bits of second number and multiply it with all bits of first number. Finally add all multiplications. This algorithm takes O(n^2) time.
+
+Using Divide and Conquer, we can multiply two integers in less time complexity. We divide the given numbers in two halves. Let the given numbers be X and Y.
+
+For simplicity let us assume that n is even
+
+X =  Xl*2n/2 + Xr    [Xl and Xr contain leftmost and rightmost n/2 bits of X]
+Y =  Yl*2n/2 + Yr    [Yl and Yr contain leftmost and rightmost n/2 bits of Y]
+The product XY can be written as following.
+
+XY = (Xl*2n/2 + Xr)(Yl*2n/2 + Yr)
+   = 2n XlYl + 2n/2(XlYr + XrYl) + XrYr
+If we take a look at the above formula, there are four multiplications of size n/2, so we basically divided the problem of size n into four sub-problems of size n/2. But that doesn’t help because solution of recurrence T(n) = 4T(n/2) + O(n) is O(n^2). The tricky part of this algorithm is to change the middle two terms to some other form so that only one extra multiplication would be sufficient. The following is tricky expression for middle two terms.
+
+XlYr + XrYl = (Xl + Xr)(Yl + Yr) - XlYl- XrYr
+So the final value of XY becomes
+
+XY = 2n XlYl + 2n/2 * [(Xl + Xr)(Yl + Yr) - XlYl - XrYr] + XrYr
+With above trick, the recurrence becomes T(n) = 3T(n/2) + O(n) and solution of this recurrence is O(n1.59).
+
+What if the lengths of input strings are different and are not even? To handle the different length case, we append 0’s in the beginning. To handle odd length, we put floor(n/2) bits in left half and ceil(n/2) bits in right half. So the expression for XY changes to following.
+
+XY = 22ceil(n/2) XlYl + 2ceil(n/2) * [(Xl + Xr)(Yl + Yr) - XlYl - XrYr] + XrYr
+The above algorithm is called Karatsuba algorithm and it can be used for any base.
+
+Following is C++ implementation of above algorithm.
+
+ C++ implementation of Karatsuba algorithm for bit string multiplication. 
+#include<iostream> 
+#include<stdio.h> 
+  
+using namespace std; 
+  
+// FOLLOWING TWO FUNCTIONS ARE COPIED FROM http://goo.gl/q0OhZ 
+// Helper method: given two unequal sized bit strings, converts them to 
+// same length by adding leading 0s in the smaller string. Returns the 
+// the new length 
+int makeEqualLength(string &str1, string &str2) 
+{ 
+    int len1 = str1.size(); 
+    int len2 = str2.size(); 
+    if (len1 < len2) 
+    { 
+        for (int i = 0 ; i < len2 - len1 ; i++) 
+            str1 = '0' + str1; 
+        return len2; 
+    } 
+    else if (len1 > len2) 
+    { 
+        for (int i = 0 ; i < len1 - len2 ; i++) 
+            str2 = '0' + str2; 
+    } 
+    return len1; // If len1 >= len2 
+} 
+  
+// The main function that adds two bit sequences and returns the addition 
+string addBitStrings( string first, string second ) 
+{ 
+    string result;  // To store the sum bits 
+  
+    // make the lengths same before adding 
+    int length = makeEqualLength(first, second); 
+    int carry = 0;  // Initialize carry 
+  
+    // Add all bits one by one 
+    for (int i = length-1 ; i >= 0 ; i--) 
+    { 
+        int firstBit = first.at(i) - '0'; 
+        int secondBit = second.at(i) - '0'; 
+  
+        // boolean expression for sum of 3 bits 
+        int sum = (firstBit ^ secondBit ^ carry)+'0'; 
+  
+        result = (char)sum + result; 
+  
+        // boolean expression for 3-bit addition 
+        carry = (firstBit&secondBit) | (secondBit&carry) | (firstBit&carry); 
+    } 
+  
+    // if overflow, then add a leading 1 
+    if (carry)  result = '1' + result; 
+  
+    return result; 
+} 
+  
+// A utility function to multiply single bits of strings a and b 
+int multiplyiSingleBit(string a, string b) 
+{  return (a[0] - '0')*(b[0] - '0');  } 
+  
+// The main function that multiplies two bit strings X and Y and returns 
+// result as long integer 
+long int multiply(string X, string Y) 
+{ 
+    // Find the maximum of lengths of x and Y and make length 
+    // of smaller string same as that of larger string 
+    int n = makeEqualLength(X, Y); 
+  
+    // Base cases 
+    if (n == 0) return 0; 
+    if (n == 1) return multiplyiSingleBit(X, Y); 
+  
+    int fh = n/2;   // First half of string, floor(n/2) 
+    int sh = (n-fh); // Second half of string, ceil(n/2) 
+  
+    // Find the first half and second half of first string. 
+    // Refer http://goo.gl/lLmgn for substr method 
+    string Xl = X.substr(0, fh); 
+    string Xr = X.substr(fh, sh); 
+  
+    // Find the first half and second half of second string 
+    string Yl = Y.substr(0, fh); 
+    string Yr = Y.substr(fh, sh); 
+  
+    // Recursively calculate the three products of inputs of size n/2 
+    long int P1 = multiply(Xl, Yl); 
+    long int P2 = multiply(Xr, Yr); 
+    long int P3 = multiply(addBitStrings(Xl, Xr), addBitStrings(Yl, Yr)); 
+  
+    // Combine the three products to get the final result. 
+    return P1*(1<<(2*sh)) + (P3 - P1 - P2)*(1<<sh) + P2; 
+} 
+  
+// Driver program to test above functions 
+int main() 
+{ 
+    printf ("%ld\n", multiply("1100", "1010")); 
+    printf ("%ld\n", multiply("110", "1010")); 
+    printf ("%ld\n", multiply("11", "1010")); 
+    printf ("%ld\n", multiply("1", "1010")); 
+    printf ("%ld\n", multiply("0", "1010")); 
+    printf ("%ld\n", multiply("111", "111")); 
+    printf ("%ld\n", multiply("11", "11")); 
+} 
+Output:
+
+120
+60
+30
+10
+0
+49
+9
+Time Complexity: Time complexity of the above solution is O(nlog23) = O(n1.59).
+
+Time complexity of multiplication can be further improved using another Divide and Conquer algorithm, fast

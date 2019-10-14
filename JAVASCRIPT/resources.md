@@ -70,6 +70,7 @@ category: Languages
 - [JavaScript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Douglas Crockford's JavaScript](https://www.crockford.com/javascript/)
+- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 #### Podcasts
 

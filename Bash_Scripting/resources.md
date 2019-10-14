@@ -20,10 +20,12 @@ A curated list of resources
 *Tutorials and helpful links.*
 
 * [Scripting Tutorial](https://www.shellscript.sh/) - Shell scripting tutorial for beginners
+* [Bash Cheat Sheet!](https://devhints.io/bash) - A website containing many small bash conventions useful on day to day use
 * [A Quick Introduction to Unix/Shells and subshells](https://en.wikibooks.org/wiki/A_Quick_Introduction_to_Unix/Shells_and_subshells)
 * [Bash Programming Introduction](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Advanced Bash-Scripting Guide - An in-depth exploration of the art of shell scripting](http://tldp.org/LDP/abs/html/)
 * [Subshells in Bash Scripts](https://www.lifewire.com/subshells-in-bash-scripts-2200581)
+* [Catching Signals in Bash](https://linux.die.net/Bash-Beginners-Guide/chap_12.html)
 * [What is a Subshell?](https://bash.cyberciti.biz/guide/What_is_a_Subshell%3F)
 * [Ryans Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)

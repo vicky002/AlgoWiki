@@ -14,6 +14,7 @@ category: Platform
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 * [cs143 - stanford](http://web.stanford.edu/class/cs143/)
 * [Compiler construction](https://www.cs.cmu.edu/~aplatzer/course/Compilers/waitegoos.pdf)
+* [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 
 ## Compilers
 *A list of compilers*

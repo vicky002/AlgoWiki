@@ -35,12 +35,14 @@ category: Libraries
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
 * [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) -  Edward Loper, Ewan Klein, and Steven Bird (PDF)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Shai Shalev-Shwartz, Shai Ben-David (PDF)
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)(WebBook)
+
 [⬆ Back to Top](#table-of-contents)
 
 ### Websites

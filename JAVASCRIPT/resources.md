@@ -44,8 +44,6 @@ category: Languages
 #### Courses
 
 - Video:
-  - [CodeSchool: JavaScript Paths](https://www.codeschool.com/paths/javascript)
-  - [CodeSchool: Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
   - [Egghead](https://egghead.io/)
   - [Frontend Masters](http://frontendmasters.com/)
   - [Lynda: NodeJS Essential Training](http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html)
@@ -63,22 +61,22 @@ category: Languages
   - [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
   - [NodeSchool](http://nodeschool.io/)
   - [freeCodeCamp](https://www.freecodecamp.org/)
+  - [WebSchool.io: Javascript](https://www.youtube.com/watch?v=KHystvLmVeA&list=PL77JVjKTJT2ieRNlfVYqzd95ultVcR1q2)
+  - [WebSchool.io: Vue.js](https://www.youtube.com/watch?v=xfZsoEZpit4&list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
 
 #### Short Guides
 
-- [JavaScript 101 - jQuery](http://learn.jquery.com/javascript-101/)
 - [JavaScript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Douglas Crockford's JavaScript](https://www.crockford.com/javascript/)
+- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 #### Podcasts
 
-- http://five-js.envylabs.com/
 - http://javascriptjabber.com/
-- http://nodeup.com/
 - http://thechangelog.com/podcast/
 - http://www.jsclasses.org/blog/category/podcast/
-- http://emberwatch.com/podcasts.html
+- https://hipsters.tech/
 
 #### Videos
 - [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
@@ -86,8 +84,7 @@ category: Languages
 
 #### Newsletters
 
-- http://dailyjs.com/
-- http://designpepper.com/a-drip-of-javascript/
+- https://medium.com/dailyjs
 - http://www.echojs.com/
 - http://javascriptweekly.com/
 - http://nodeweekly.com/
@@ -96,14 +93,12 @@ category: Languages
 
 #### Lists of Blogs
 
-- http://javascriptweblog.wordpress.com/2010/04/02/my-top-10-javascript-blogs/
 - http://www.quora.com/What-are-some-good-JavaScript-blogs-aggregators-to-follow
-- http://stackoverflow.com/questions/409056/top-rated-javascript-blogs
 - https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
 
 #### Blogs - Single Author
 
-- http://www.2ality.com/
+- https://2ality.com/
 - http://addyosmani.com/blog/
 - http://badassjs.com/
 - http://ejohn.org/
@@ -112,6 +107,7 @@ category: Languages
 - http://www.joezimjs.com/
 - http://blog.ponyfoo.com/
 - http://rmurphey.com/
+- https://www.valentinog.com/blog/redux/
 
 #### Blogs - Multiple Authors
 
@@ -144,19 +140,18 @@ category: Languages
 - [JavaScript the Right Way](http://jstherightway.org/)
 - [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
 - [Master Space and Time With JavaScript](http://www.noelrappin.com/mstwjs) - Noel Rappin
-- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) - Eric Elliott
+- [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do) - Eric Elliott
 - [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
 - [The JavaScript Tutorial](http://javascript.info/)
-- [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) - Nicholas C. Zakas (PDF)
+- [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) - Nicholas C. Zakas (PDF)
 - [Mixu's Node Book](http://book.mixu.net/node/)
-- [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
+- [Node: Up and Running](http://shop.oreilly.com/product/0636920015956.do) - Tom Hughes-Croucher
 - [The Node Beginner Book](http://nodebeginner.org/) - Manuel Kiessling
 
 #### Lists of Books
 
 - [Best JavaScript Books](http://www.goodreads.com/list/show/10757.Best_JavaScript_Books)
-- [Developer Reading List: The Must-Have Books for JavaScript](http://www.drdobbs.com/article/print?articleId=240148421)
-- [Manning Catalog by Subject](http://manning.com/catalog/by/subject/)
+- [Manning Catalog by Subject](https://www.manning.com/catalog/sort/sort-by-subject)
 - [JavaScript Development and Resources (Oreilly)](http://oreilly.com/javascript/)
 - [JavaScript (Oreilly)](http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1)
 
@@ -175,26 +170,22 @@ category: Languages
 - http://campjs.com/
 - http://cascadiajs.com/
 - http://connect-js.com/
-- http://empirejs.org/
+- https://twitter.com/empirejs
 - http://fluentconf.com/
-- http://forwardjs.com/
+- http://forwardjs.com/ (certificate currently expired, proceed at own risk)
 - http://futurejs.org/
-- http://html5devconf.com/
 - http://js.la/
 - http://jsconf.com/
-- http://jsfest.com/
+- https://jsfest.com.ua/indexe.html
 - http://nationjs.com/
 - http://ng-conf.org/
 - http://ngeurope.org/
 - http://nodeconf.com/
-- http://nodeconfeu.com/
 - http://nodesummit.com/
 
 
 ### Jobs
 
-- http://jobs.jsninja.com/a/jbb/find-jobs
-- http://jobs.nodejs.org/a/jobs/list/
 - http://careers.stackoverflow.com/jobs/tag/nodejs
 
 
@@ -203,6 +194,5 @@ category: Languages
 - http://superherojs.com/
 - http://www.nodecloud.org/
 - http://www.quora.com/What-are-the-best-resources-to-learn-Node-js
-- http://blog.modulus.io/nodejs-resources
 - https://github.com/bolshchikov/js-must-watch
 - https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8

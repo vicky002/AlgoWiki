@@ -80,7 +80,9 @@ category: Languages
 * [Fabric](https://developer.microsoft.com/en-us/fabric)
 * [Sass](http://sass-lang.com/)
 * [Bootsrap-from basic](https://www.w3schools.com/bootstrap/default.asp)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
 
+## Tools
+--------
 
-
-
+* [Ratiobuddy](https://ratiobuddy.com/)

@@ -39,6 +39,7 @@ category: Libraries
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Shai Shalev-Shwartz, Shai Ben-David (PDF)
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -63,6 +64,8 @@ category: Libraries
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
+* [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
+* [mlcourse.ai](https://mlcourse.ai)
 
 [⬆ Back to Top](#table-of-contents)
 

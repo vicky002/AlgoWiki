@@ -19,6 +19,7 @@ category: Languages
 
 ### Articles
 
+* [Algorithm Gym :: Data Structures](https://codeforces.com/blog/entry/15729)
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
 * [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
 * [Binary Indexed Trees(Range Updtaes and Range Queries)](http://zobayer.blogspot.in/2013/11/various-usage-of-bit.html)
@@ -89,6 +90,8 @@ category: Languages
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
+* [CSAcademy](https://csacademy.com)
+* [Atcoder](https://atcoder.jp)
 
 
 ### Competitive Programming Problem Recommender
@@ -106,6 +109,7 @@ category: Languages
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+* [Abdullah Aslam's journey to google through competitive programming](https://blog.usejournal.com/my-competitive-programming-journey-to-google-5f51c211c715)
 
 
 ### Problem Sets
@@ -119,6 +123,8 @@ category: Languages
 * [Coding Bat](http://codingbat.com/java)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org/)
+* [InterviewBit](https://www.interviewbit.com)
+* [Leetcode](https://www.leetcode.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [Kattis](https://open.kattis.com/problems)
 * [PKU Online Judge](http://poj.org/)

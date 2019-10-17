@@ -39,6 +39,7 @@ category: Languages
 - [JavaScript I/O](https://iojs.org/api/)
 - [Dev Docs](https://devdocs.io/)
 - [Code Translation Project - JavaScript](http://ctp.mkprog.com/en/javascript/)
+- [TogetherJS](https://togetherjs.com/docs/)
 
 #### Courses
 
@@ -62,6 +63,8 @@ category: Languages
   - [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
   - [NodeSchool](http://nodeschool.io/)
   - [freeCodeCamp](https://www.freecodecamp.org/)
+  - [WebSchool.io: Javascript](https://www.youtube.com/watch?v=KHystvLmVeA&list=PL77JVjKTJT2ieRNlfVYqzd95ultVcR1q2)
+  - [WebSchool.io: Vue.js](https://www.youtube.com/watch?v=xfZsoEZpit4&list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
 
 #### Short Guides
 
@@ -69,6 +72,7 @@ category: Languages
 - [JavaScript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Douglas Crockford's JavaScript](https://www.crockford.com/javascript/)
+- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 #### Podcasts
 
@@ -78,6 +82,7 @@ category: Languages
 - http://thechangelog.com/podcast/
 - http://www.jsclasses.org/blog/category/podcast/
 - http://emberwatch.com/podcasts.html
+- https://hipsters.tech/
 
 #### Videos
 - [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
@@ -111,6 +116,7 @@ category: Languages
 - http://www.joezimjs.com/
 - http://blog.ponyfoo.com/
 - http://rmurphey.com/
+- https://www.valentinog.com/blog/redux/
 
 #### Blogs - Multiple Authors
 

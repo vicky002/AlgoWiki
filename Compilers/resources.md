@@ -1,3 +1,8 @@
+---
+title: Compilers
+category: Platform
+---
+
 # Everything about Compilers
 
 ## Resources
@@ -8,6 +13,9 @@
 * [Compiler design in C](http://holub.com/goodies/compiler/compilerDesignInC.pdf)
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 * [cs143 - stanford](http://web.stanford.edu/class/cs143/)
+* [Compiler construction](https://www.cs.cmu.edu/~aplatzer/course/Compilers/waitegoos.pdf)
+* [Compiler Design - Basic to Advanced](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
+* [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 
 ## Compilers
 *A list of compilers*
@@ -22,3 +30,4 @@
 	- [YACC Manual](http://dinosaur.compilertools.net/yacc/)
 	- [Lex](http://dinosaur.compilertools.net/lex/index.html) - A Lexical Analyzer Generator
 	- [Bison](http://dinosaur.compilertools.net/bison/) - The YACC-compatible Parser Generator
+* [PLY (Python Lex-Yacc)](http://www.dabeaz.com/ply/) - PLY is an implementation of lex and yacc parsing tools for Python.

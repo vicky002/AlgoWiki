@@ -1,9 +1,15 @@
+---
+title: HTML CSS
+category: Languages
+---
+
+
 # Index
 * [Online Books and PDFs](#online-books-and-pdfs)
 * [Websites](#websites)
 * [Frameworks](#frameworks)
-* [Learn through games](#learn-through-games) 
-* [Methodologies](#methodologies) 
+* [Learn through games](#learn-through-games)
+* [Methodologies](#methodologies)
 
 
 ## Online Books and PDFs
@@ -74,7 +80,9 @@
 * [Fabric](https://developer.microsoft.com/en-us/fabric)
 * [Sass](http://sass-lang.com/)
 * [Bootsrap-from basic](https://www.w3schools.com/bootstrap/default.asp)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
 
+## Tools
+--------
 
-
-
+* [Ratiobuddy](https://ratiobuddy.com/)

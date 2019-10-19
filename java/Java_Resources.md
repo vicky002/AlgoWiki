@@ -1,54 +1,59 @@
-All about Java frameworks, libraries and software.
-----------------------------------------------------------------------------------
+---
+title: Java
+category: Languages
+---
 
-- [Java](#java)
-    - [Build Tool](#build-tool)
-    - [Bytecode Manipulation](#bytecode-manipulation)
-    - [Cluster Management](#cluster-management)
-    - [Code Analysis](#code-analysis)
-    - [Compiler-compiler](#compiler-compiler)
-    - [Configuration](#configuration)
-    - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
-    - [Continuous Integration](#continuous-integration)
-    - [CSV](#csv)
-    - [Database](#database)
-    - [Data structures](#data-structures)
-    - [Date and Time](#date-and-time)
-    - [Dependency Injection](#dependency-injection)
-    - [Development](#development)
-    - [Distributed Applications](#distributed-applications)
-    - [Distributed Databases](#distributed-databases)
-    - [Distribution](#distribution)
-    - [Document Processing](#document-processing)
-    - [Functional Programming](#functional-programming)
-    - [Game Development](#game-development)
-    - [GUI](#gui)
-    - [High Performance](#high-performance)
-    - [IDE](#ide)
-    - [Imagery](#imagery)
-    - [JSON](#json)
-    - [JVM and JDK](#jvm-and-jdk)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Messaging](#messaging)
-    - [Miscellaneous](#miscellaneous)
-    - [Monitoring](#monitoring)
-    - [Native](#native)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Networking](#networking)
-    - [ORM](#orm)
-    - [PDF](#pdf)
-    - [REST Frameworks](#rest-frameworks)
-    - [Science](#science)
-    - [Search](#search)
-    - [Security](#security)
-    - [Serialization](#serialization)
-    - [Server](#server)
-    - [Template Engine](#template-engine)
-    - [Testing](#testing)
-    - [Utility](#utility)
-    - [Web Crawling](#web-crawling)
-    - [Web Frameworks](#web-frameworks)
+# Java
+
+### Table of Contents
+
+- [Build Tool](#build-tool)
+- [Bytecode Manipulation](#bytecode-manipulation)
+- [Cluster Management](#cluster-management)
+- [Code Analysis](#code-analysis)
+- [Compiler-compiler](#compiler-compiler)
+- [Configuration](#configuration)
+- [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
+- [Continuous Integration](#continuous-integration)
+- [CSV](#csv)
+- [Database](#database)
+- [Data structures](#data-structures)
+- [Date and Time](#date-and-time)
+- [Dependency Injection](#dependency-injection)
+- [Development](#development)
+- [Distributed Applications](#distributed-applications)
+- [Distributed Databases](#distributed-databases)
+- [Distribution](#distribution)
+- [Document Processing](#document-processing)
+- [Functional Programming](#functional-programming)
+- [Game Development](#game-development)
+- [GUI](#gui)
+- [High Performance](#high-performance)
+- [IDE](#ide)
+- [Imagery](#imagery)
+- [JSON](#json)
+- [JVM and JDK](#jvm-and-jdk)
+- [Logging](#logging)
+- [Machine Learning](#machine-learning)
+- [Messaging](#messaging)
+- [Miscellaneous](#miscellaneous)
+- [Monitoring](#monitoring)
+- [Native](#native)
+- [Natural Language Processing](#natural-language-processing)
+- [Networking](#networking)
+- [ORM](#orm)
+- [PDF](#pdf)
+- [REST Frameworks](#rest-frameworks)
+- [Science](#science)
+- [Search](#search)
+- [Security](#security)
+- [Serialization](#serialization)
+- [Server](#server)
+- [Template Engine](#template-engine)
+- [Testing](#testing)
+- [Utility](#utility)
+- [Web Crawling](#web-crawling)
+- [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
     - [Communities](#communities)
     - [Influential Books](#influential-books)
@@ -57,14 +62,16 @@ All about Java frameworks, libraries and software.
     - [Websites](#websites)
 - [Contributing](#contributing)
 
-## Build Tool
+
+### Build Tool
 
 *Tools which handle the buildcycle of an application.*
 
 * [Apache Maven](http://maven.apache.org/) - Declarative build and dependency management which favors convention over configuration. It's preferable to Apache Ant which uses a rather procedural approach and can be difficult to maintain.
 * [Gradle](http://www.gradle.org/) - Incremental builds which are programmed via Groovy instead of declaring XML. Works well with Maven's dependency management and treats Ant scripts as first-class citizens.
 
-## Bytecode Manipulation
+
+### Bytecode Manipulation
 
 *Libraries to manipulate Java bytecode programmatically.*
 
@@ -72,14 +79,16 @@ All about Java frameworks, libraries and software.
 * [Byte Buddy](http://bytebuddy.net/) - Further simplifies bytecode generation with a fluent API.
 * [Javassist](http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/javassist/) - Tries to simplify the editing of bytecode.
 
-## Cluster Management
+
+### Cluster Management
 
 *Frameworks which can dynamically manage applications inside of a cluster.*
 
 * [Apache Aurora](http://aurora.apache.org/) - Apache Aurora is a Mesos framework for long-running services and cron jobs.
 * [Singularity](http://getsingularity.com/) - Singularity is a Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 
-## Code Analysis
+
+### Code Analysis
 
 *Tools that provide metrics and quality measurements.*
 
@@ -89,20 +98,23 @@ All about Java frameworks, libraries and software.
 * [PMD](http://pmd.sourceforge.net/) - Source code analysis of bad coding practices.
 * [SonarQube](http://www.sonarqube.org/) - Integrates other analysis components via plugins and provides an overview of the metrics over time.
 
-## Compiler-compiler
+
+### Compiler-compiler
 
 *Frameworks that help to create parsers, interpreters or compilers.*
 
 * [ANTLR](http://www.antlr.org/) - Complex full-featured framework for top-down parsing.
 * [JavaCC](https://javacc.java.net/) - More specific and slightly easier to learn. Has syntactic lookahead.
 
-## Configuration
+
+### Configuration
 
 *Libraries that provide external configuration.*
 
 * [config](https://github.com/typesafehub/config) - Configuration library for JVM languages.
 
-## Constraint Satisfaction Problem Solver
+
+### Constraint Satisfaction Problem Solver
 
 *Libraries that help on implementing optimization and satisfiability problems.*
 
@@ -111,7 +123,8 @@ All about Java frameworks, libraries and software.
 * [OptaPlanner](http://www.optaplanner.org/) - A business planning and resource scheduling optimization solver.
 * [Sat4J](http://www.sat4j.org/) - A state-of-the-art SAT solver for boolean and optimization problems in Java.
 
-## Continuous Integration
+
+### Continuous Integration
 
 *Tools which support continuously building, testing and releasing applications.*
 
@@ -123,13 +136,15 @@ All about Java frameworks, libraries and software.
 * [TeamCity](http://www.jetbrains.com/teamcity/) - JetBrain's CI solution with a free version.
 * [Travis](https://travis-ci.org) - Hosted service often used for open source projects.
 
-## CSV
+
+### CSV
 
 *Frameworks and libraries that simplify reading/writing CSV data.*
- 
+
 * [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers) - One of the fastest and most feature-complete CSV parsers for Java. Also comes with parsers for TSV and fixed width records.
 
-## Database
+
+### Database
 
 *Everything which simplifies interactions with the database.*
 
@@ -143,18 +158,21 @@ All about Java frameworks, libraries and software.
 * [Presto](https://github.com/facebook/presto) - Distributed SQL query engine for big data.
 * [Querydsl](http://www.querydsl.com/) - Typesafe unified queries for Java.
 
-## Data structures
+
+### Data structures
 
 * [Apache Parquet](https://parquet.incubator.apache.org/) - A columnar storage format based on assembly algorithms from the Dremel paper by Google.
 
-## Date and Time
+
+### Date and Time
 
 *Libraries related to handling date and time.*
 
 * [Joda-Time](http://www.joda.org/joda-time/) - De facto standard date/time-library before Java 8.
 * [Time4J](https://github.com/MenoData/Time4J) - Advanced date and time library for Java.
 
-## Dependency Injection
+
+### Dependency Injection
 
 *Libraries that help to realize the [Inversion of Control](http://en.wikipedia.org/wiki/Inversion_of_control) paradigm.*
 
@@ -162,7 +180,8 @@ All about Java frameworks, libraries and software.
 * [Guice](https://github.com/google/guice) - Lightweight but powerful framework that completes Dagger.
 * [HK2](https://hk2.java.net) - A light-weight and dynamic dependency injection framework.
 
-## Development
+
+### Development
 
 *Augmentation of the development process at a fundamental level.*
 
@@ -178,7 +197,8 @@ All about Java frameworks, libraries and software.
 * [Spring Loaded](https://github.com/spring-projects/spring-loaded) - Another class reloading agent for the JVM.
 * [vert.x](http://vertx.io/) - Polyglot event-driven application framework for the JVM.
 
-## Distributed Applications
+
+### Distributed Applications
 
 *Libraries and frameworks for writing distributed and fault-tolerant applications.*
 
@@ -191,7 +211,8 @@ All about Java frameworks, libraries and software.
 * [Orbit](http://orbit.bioware.com/) - Virtual Actors, adding another level of abstraction to traditional Actors.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 
-## Distributed Databases
+
+### Distributed Databases
 
 *Databases in a distributed system that appear to applications as a single data source.*
 
@@ -199,7 +220,8 @@ All about Java frameworks, libraries and software.
 * [Apache HBase](http://hbase.apache.org) - Apache HBase is the Hadoop database, a distributed, scalable, big data store.
 * [Infinispan](http://infinispan.org/) -  Distributed and highly concurrent key/value datastore used for caching.
 
-## Distribution
+
+### Distribution
 
 *Tools which handle the distribution of Java applications in native formats.*
 
@@ -211,7 +233,8 @@ All about Java frameworks, libraries and software.
 * [Nexus](http://www.sonatype.com/nexus) - Binary management with proxy and caching capabilities.
 * [packr](https://github.com/libgdx/packr/) - Packs your JAR, assets and JVM for native distribution on Windows, Linux and Mac OS X.
 
-## Document Processing
+
+### Document Processing
 
 *Libraries that assist with processing office document formats.*
 
@@ -219,7 +242,8 @@ All about Java frameworks, libraries and software.
 * [jOpenDocument](http://www.jopendocument.org/) - Processes the OpenDocument format.
 * [documents4j](http://documents4j.com) - Java API for document format conversion using third-party converters such as MS Word.
 
-## Functional Programming
+
+### Functional Programming
 
 *Libraries that facilitate functional programming in Java.*
 
@@ -227,7 +251,8 @@ All about Java frameworks, libraries and software.
 * [Javaslang](http://javaslang.com) - Functional component library built for Java 8+ that provides persistent data types and functional control structures.
 * [jOOλ](https://github.com/jOOQ/jOOL) - An extension to Java 8 which aims to fix gaps in lambda, providing numerous missing types and a rich set of sequential Stream API additions.
 
-## Game Development
+
+### Game Development
 
 *Frameworks that support the development of games.*
 
@@ -235,14 +260,16 @@ All about Java frameworks, libraries and software.
 * [libGDX](http://libgdx.badlogicgames.com/) - All-round cross-platform, high-level framework.
 * [LWJGL](http://lwjgl.org/) - Robust framework that abstracts libraries like OpenGL/CL/AL.
 
-## GUI
+
+### GUI
 
 *Libraries to create modern graphical user interfaces.*
 
 * [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - The successor of Swing.
 * [Scene Builder](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-info-2157684.html) - Visual layout tool for JavaFX applications.
 
-## High Performance
+
+### High Performance
 
 *Everything about high performance computation, from collections to specific libraries.*
 
@@ -255,7 +282,8 @@ All about Java frameworks, libraries and software.
 * [Reactor](http://projectreactor.io/) - Library for building reactive fast-data applications.
 * [Trove](http://trove.starlight-systems.com/) - Primitive collections.
 
-## IDE
+
+### IDE
 
 *Integrated development environments that try to simplify several aspects of development.*
 
@@ -263,7 +291,8 @@ All about Java frameworks, libraries and software.
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - Supports a lot of JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 * [NetBeans](https://netbeans.org/) - Provides integration for several  Java SE and EE features starting with database access and servers to HTML5 and AngularJS.
 
-## Imagery
+
+### Imagery
 
 *Libraries that assist with the creation, evaluation or manipulation of graphical images.*
 
@@ -272,7 +301,8 @@ All about Java frameworks, libraries and software.
 * [Thumbnailator](https://code.google.com/p/thumbnailator) - Thumbnailator is a high-quality thumbnail generation library for Java.
 * [ZXing](https://github.com/zxing/zxing) - Multi-format 1D/2D barcode image processing library.
 
-## JSON
+
+### JSON
 
 *Libraries that simplify JSON processing.*
 
@@ -281,14 +311,16 @@ All about Java frameworks, libraries and software.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - Similar to GSON but has performance gains if you need to instantiate the library more often.
 * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - JSON parsing and serializing library based on Jackson's streaming API. Outpeforms GSON & Jackson's library.
 
-## JVM and JDK
+
+### JVM and JDK
 
 *Current implementations of the JVM/JDK.*
 
 * [JDK 9](https://jdk9.java.net/) - Early access releases of JDK 9.
 * [OpenJDK](http://openjdk.java.net/) - Open source implementation.
 
-## Logging
+
+### Logging
 
 *Libraries that log the behavior of an application.*
 
@@ -298,7 +330,8 @@ All about Java frameworks, libraries and software.
 * [logstash](http://logstash.net/) - Tool for managing log files.
 * [SLF4J](http://www.slf4j.org/) - Abstraction layer which is to be used with an implementation.
 
-## Machine Learning
+
+### Machine Learning
 
 *Tools that provide specific statistical algorithms which allow to learn from data.*
 
@@ -309,7 +342,8 @@ All about Java frameworks, libraries and software.
 * [H2O](http://0xdata.com/) - Analytics engine for statistics over big data.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
 
-## Messaging
+
+### Messaging
 
 *Tools that help on sending messages between clients to ensure protocol independency.*
 
@@ -321,7 +355,8 @@ All about Java frameworks, libraries and software.
 * [JeroMQ](https://github.com/zeromq/jeromq) - Pure Java implementation of ZeroMQ.
 * [Smack](https://github.com/igniterealtime/Smack/) - A cross-platform [XMPP](http://en.wikipedia.org/wiki/XMPP) client library for Java and Android.
 
-## Miscellaneous
+
+### Miscellaneous
 
 *Everything else.*
 
@@ -334,7 +369,8 @@ All about Java frameworks, libraries and software.
 * [OpenRefine](http://openrefine.org/) -  Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 * [RoboVM](http://www.robovm.org/) - Commercial framework with a free trial to write native iOS apps in Java.
 
-## Monitoring
+
+### Monitoring
 
 *Tools that monitor applications in production.*
 
@@ -343,12 +379,14 @@ All about Java frameworks, libraries and software.
 * [Takipi](https://www.takipi.com/) - Commercial in-production error monitoring and debugging.
 * [JavaMelody](https://github.com/javamelody/javamelody) - Open-source performance monitoring and profiling.
 
-## Native
+
+### Native
 *For working with platform-specific native libraries.*
 
 * [JNA](https://github.com/twall/jna) - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
 
-## Natural Language Processing
+
+### Natural Language Processing
 
 *Libraries that specialize on processing text.*
 
@@ -357,7 +395,8 @@ All about Java frameworks, libraries and software.
 * [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for a variety of tasks ranging from POS tagging to sentiment analysis.
 * [Mallet](http://mallet.cs.umass.edu/) - Statistical natural language processing, document classification, clustering, topic modeling and more.
 
-## Networking
+
+### Networking
 
 *Libraries for network programming.*
 
@@ -367,7 +406,8 @@ All about Java frameworks, libraries and software.
 * [OkHttp](http://square.github.io/okhttp/) - An HTTP+SPDY client for Android and Java applications.
 * [Undertow](http://undertow.io/) - Web server providing both blocking and non-blocking API’s based on NIO. Used as a network layer in WildFly.
 
-## ORM
+
+### ORM
 
 *APIs which handle the persistence of objects.*
 
@@ -377,7 +417,8 @@ All about Java frameworks, libraries and software.
 * [MyBatis](http://mybatis.github.io/mybatis-3/) - Persistence framework that couples objects with stored procedures or SQL statements.
 * [OrmLite](http://ormlite.com/) - Lightweight ORM package avoiding the complexity and overhead of other ORM products.
 
-## PDF
+
+### PDF
 
 *Everything that helps with the creation of PDF files.*
 
@@ -388,7 +429,8 @@ All about Java frameworks, libraries and software.
 * [JasperReports](http://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine.
 * [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer in pure Java.
 
-## Performance analysis
+
+### Performance analysis
 
 *Tools for performance optimization and dynamic program analysis.*
 
@@ -396,7 +438,8 @@ All about Java frameworks, libraries and software.
 * [YourKit Java Profiler](https://www.yourkit.com/features/) - Commercial Java profiler.
 * [VisualVM](http://visualvm.java.net/) - Visual interface for detailed information about running applications.
 
-## REST Frameworks
+
+### REST Frameworks
 
 *Frameworks specifically for creating RESTful services.*
 
@@ -409,20 +452,24 @@ All about Java frameworks, libraries and software.
 * [Spark](http://www.sparkjava.com/) - A Sinatra inspired framework for java.
 * [Swagger](https://helloreverb.com/developers/swagger) - Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services.
 
-## Science
+
+### Science
 
 *Libraries for scientific computing and analysis.*
 
 * [SCaVis](http://jwork.org/scavis/) - Environment for scientific computation, data analysis and data visualization.
 
-## Search
+
+### Search
 
 *Engines which index documents for search and analysis.*
 
 * [Apache Solr](http://lucene.apache.org/solr/) - Full enterprise search engine optimized for high volume traffic.
 * [Elasticsearch](http://www.elasticsearch.org/) - Distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents.
+* [Terrier](http://www.terrier.org/) -  Highly flexible, efficient, and effective open source search engine, readily deployable on large-scale collections of documents. Terrier implements state-of-the-art indexing and retrieval functionalities, and provides an ideal platform for the rapid development and evaluation of large-scale retrieval applications.
 
-## Security
+
+### Security
 
 *Libraries that handle security, authentication, authorization or session management.*
 
@@ -433,7 +480,8 @@ All about Java frameworks, libraries and software.
 * [PicketLink](http://picketlink.org/) - PicketLink is an umbrella project for security and identity management for Java applications.
 * [Spring Security](http://projects.spring.io/spring-security/) - Focuses on authentication/authorization and protects against several attack vectors.
 
-## Serialization
+
+### Serialization
 
 *Libraries that handle serialization with high efficiency.*
 
@@ -441,7 +489,8 @@ All about Java frameworks, libraries and software.
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Fast and efficient object graph serialization framework.
 * [MessagePack](https://github.com/msgpack/msgpack-java) - Efficient binary serialization format.
 
-## Server
+
+### Server
 
 *Servers which are specifically used to deploy applications.*
 
@@ -452,7 +501,8 @@ All about Java frameworks, libraries and software.
 * [WebSphere Liberty](https://developer.ibm.com/wasdev/) - Lightweight, modular server developed by IBM
 * [WildFly](http://www.wildfly.org/) - Formerly known as JBoss and developed by Red Hat with extensive Java EE support.
 
-## Template Engine
+
+### Template Engine
 
 *Tools which substitute expressions in a template.*
 
@@ -462,7 +512,8 @@ All about Java frameworks, libraries and software.
 * [JavaServer Pages](https://jsp.java.net/) - Common templating for websites with custom tag libraries.
 * [Thymeleaf](http://www.thymeleaf.org/) - Aims to be a substitute for JSP and works for XML files in general.
 
-## Testing
+
+### Testing
 
 *Tools that test from object to interface level including performance and other benchmarks.*
 
@@ -485,7 +536,8 @@ All about Java frameworks, libraries and software.
 * [Unitils](http://www.unitils.org/) - Testing library divided into modules for unit and integration testing.
 * [WireMock](http://wiremock.org/) - Testing library for stubbing and mocking web services.
 
-## Utility
+
+### Utility
 
 *Libraries which provide general utility functions.*
 
@@ -499,7 +551,8 @@ All about Java frameworks, libraries and software.
 * [JScience](http://jscience.org/) - Provides a set of classes to work with scientific measurements and units.
 * [Protégé](http://protege.stanford.edu/) - Provides an ontology editor and a framework to build knowledge-based systems.
 
-## Web Crawling
+
+### Web Crawling
 
 *Libraries that analyze the content of websites.*
 
@@ -507,7 +560,8 @@ All about Java frameworks, libraries and software.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple lightweight alternative.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
 
-## Web Frameworks
+
+### Web Frameworks
 
 *Frameworks that handle the communication between the layers of an web application.*
 
@@ -517,16 +571,17 @@ All about Java frameworks, libraries and software.
 * [Grails](https://grails.org/) - Groovy framework with the aim to provide a highly productive environment by favoring convention over configuration, no XML and support for mixins.
 * [Ninja](http://www.ninjaframework.org/) - Full stack web framework for Java. Rock solid, fast and super productive.
 * [Play](http://www.playframework.com/) - Uses convention over configuration, hot code reloading and display of errors in the browser.
-* [Pippo](http://www.pippo.ro/) - A small, highly modularized Sinatra-like framework. 
+* [Pippo](http://www.pippo.ro/) - A small, highly modularized Sinatra-like framework.
 * [PrimeFaces](http://primefaces.org/) - JSF framework which has a free and a commercial version with support. Provides several frontend components.
 * [Ratpack](http://www.ratpack.io/) - A set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications.
 * [Spring Boot](http://projects.spring.io/spring-boot/) - Microframework which simplifies the development of new Spring applications.
 * [Spring](http://projects.spring.io/spring-framework/) - Aims to simplify the development with Java EE and provides packages for dependency injection and aspect-oriented programming.
 * [Vaadin](https://vaadin.com/) - Event-driven framework build on top of GWT. Uses server-side architecture with Ajax on the client-side.
 
-# Resources
 
-## Communities
+### Resources
+
+#### Communities
 
 *Active discussions.*
 
@@ -534,7 +589,7 @@ All about Java frameworks, libraries and software.
 * [stackoverflow](http://stackoverflow.com/questions/tagged/java) - Question/answer platform.
 * [vJUG](http://virtualjug.com/) - Online Java user group.
 
-## Influential Books
+#### Influential Books
 
 *Books about Java that had a high impact and are still worth reading.*
 
@@ -543,14 +598,14 @@ All about Java frameworks, libraries and software.
 * [Java 8 in Action](http://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/)
 * [Thinking in Java](http://www.amazon.com/Thinking-Java-Edition-Bruce-Eckel/dp/0131872486)
 
-## Podcasts
+#### Podcasts
 
 *Something to listen to while programming.*
 
 * [The Java Posse](http://www.javaposse.com/) (discontinued as of 02/2015)
 * [The Java Council](http://virtualjug.com/podcast/)
 
-## Twitter
+#### Twitter
 
 *Active accounts to follow.*
 
@@ -580,7 +635,7 @@ All about Java frameworks, libraries and software.
 * [Tim Boudreau](https://twitter.com/kablosna) - Author and NetBeans guru.
 * [Trisha Gee](https://twitter.com/trisha_gee) - Java Champion and speaker.
 
-## Websites
+#### Websites
 
 *Sites to read.*
 
@@ -602,5 +657,3 @@ All about Java frameworks, libraries and software.
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
-
-

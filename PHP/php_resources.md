@@ -1,3 +1,8 @@
+---
+title: PHP
+category: Languages
+---
+
 amazingly awesome PHP libraries, resources and shiny things.
 
 ## Table of Contents
@@ -99,7 +104,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 5](http://laravel.com/) - Another PHP framework.
+* [Laravel 6](http://laravel.com/) - Another PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
@@ -264,6 +269,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Nette Tester](https://tester.nette.org/en/) - Testing library from author of [Nette Framework](https://nette.org/en/).
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
@@ -284,6 +290,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [apidocjs](http://apidocjs.com/) - A documentation generator based on PHP Anntotations
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -334,6 +341,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PHPStan](https://github.com/phpstan/phpstan) - A tool for static analysis of PHP code.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
@@ -775,6 +783,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
+* [Online PHP interpreter](http://sandbox.onlinephpfunctions.com/) - Test your code snippet on various PHP versions.
 
 ## PHP Books
 *Fantastic PHP-related books.*

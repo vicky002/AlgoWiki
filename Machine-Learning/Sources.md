@@ -41,6 +41,9 @@ category: Libraries
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Shai Shalev-Shwartz, Shai Ben-David (PDF)
+* [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (HTML)
+* [Machine Learning Yearning](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf) - Andrew Ng, Draft Version (PDF)
+
 
 
 [⬆ Back to Top](#table-of-contents)

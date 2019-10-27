@@ -7,10 +7,14 @@
 * [Code Repositories](#code-repository)
 * [Coding Calendar](#cdoing-calendar)
 * [Toolkit](#toolkit)
+ 
+ [Back To Top](#Index)
 
 ### Syllabus
 * [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
 * [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
+
+[Back To Top](#Index)
 
 ### Motivational 
 * [Teen mathletes do battle at algorithm olympics](http://www.wired.com/2010/11/mf_algorithmolympics/all/)-Gennady Korotkevich(tourist)
@@ -20,6 +24,8 @@
  - [2011 ICPC Regionals Victory](http://blog.nikhilgarg.me/2011/12/we-came-we-saw-we-conquered.html)
  - [How to be a good programmer](http://blog.nikhilgarg.me/2011/02/how-to-be-good-programmer.html)
 * [Interview with Rudradev Basak](http://kungfuant.blogspot.in/2012/05/know-indian-coder-rudradev-basak.html)
+
+[Back To Top](#Index)
 
 ### Competitive Programming
 * [4Clojure](http://www.4clojure.com/)
@@ -39,6 +45,7 @@
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
 
+[Back To Top](#Index)
 
 ### Problem Sets
 * [Anarchy Golf](http://golf.shinh.org/)
@@ -60,6 +67,8 @@
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
 
+[Back To Top](#Index)
+
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)
 * [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
@@ -77,15 +86,23 @@
 * [Codechef Editorials](http://www.codechef.com/wiki/editorials-codechef-contest-problems)
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
 
+[Back To Top](#Index)
+
 ### Code Repository
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)
 * [Igor’s Code Repository](http://shygypsy.com/tools/)
 * [Indy's Code Library](https://sites.google.com/site/indy256/)
 
+[Back To Top](#Index)
+
 ### Coding Calendar
 * [Hackerrank Calendar](https://www.hackerrank.com/calendar)
 * [Chrome Extension for active and upcoming challenges](https://chrome.google.com/webstore/detail/challenge-hunt/cgbnhngdlmhjbmgkekedepoapmoingjj)
 
+[Back To Top](#Index)
+
 ### Toolkit
 * [SPOJ Toolkit](http://spojtoolkit.com/)
 * [UVA Toolkit](http://uvatoolkit.com/problemssolve.php)
+
+[Back To Top](#Index)

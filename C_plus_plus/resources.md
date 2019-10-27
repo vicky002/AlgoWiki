@@ -1,3 +1,8 @@
+---
+title: C#
+category: Languages
+---
+
 # Everything about C++
 A curated list of C++ frameworks, libraries, resources, and shiny things.
 
@@ -133,7 +138,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
  * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
-	
+
 ## Compression
 *Compression and Archiving Libraries*
 
@@ -174,7 +179,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 ## Cryptography
 *Cryptography and Encryption Libraries*
 
-* [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. 
+* [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors.
 * [BeeCrypt]()
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes. [Boost]
@@ -238,7 +243,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 ## GUI
 *Graphic User Interface*
 
-* [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library. 
+* [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPL2]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
@@ -265,6 +270,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 * [Open Graphics Library (OpenGL)](https://www.opengl.org/) :zap: - Cross-platform application programming interface (API) for rendering 2D and 3D vector graphics [SGI][link](http://www.sgi.com/tech/opengl/?/license.html)
+* [Anti-Grain Geometry](http://www.antigrain.com/) - A platform independent engine for rendering anti-aliased images from vectorial data. [GPL]
 
 ## Image Processing
 
@@ -285,7 +291,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 
 ## Internationalization
 
-* [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'. [GPL2]
+* [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext`. [GPL2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 
@@ -359,6 +365,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
+* [exprtk](http://www.partow.net/programming/exprtk/) - C++ Mathematical Expression Library
 
 ## Multimedia
 
@@ -545,6 +552,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) - A list of Debuggers from Wikipedia.
 * [GDB](https://www.gnu.org/software/gdb) - GNU Debugger.
 * [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
+* [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) - (also known as ASan) is a memory error detector for C/C++.
 * [x64_dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
 
 ## Integrated Development Environment
@@ -639,12 +647,14 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of TheNewBoston's C programming tutorials are right here.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
+* [Derek Banas C++ in One Video](https://www.youtube.com/watch?v=Rub-JsjMhWY&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY) - Gives a good overview/review of the functionality of C++
 
 ## Websites
 *Useful C/C++ related websites.*
 
 * [Standard C++](http://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
 * [CppCon](http://cppcon.org/) - The C++ Conference.
+* [C++ basic reference](http://ctp.mkprog.com/en/c%2B%2B/) - C++, Visual C++ .NET reference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [C FAQ](http://c-faq.com/) - C frequently asked questions.
@@ -665,6 +675,8 @@ C++ Books
 ----
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
+* [C++ Today – The Beast Is Back](http://www.oreilly.com/programming/free/files/c++-today.pdf)
+* [Ivor Horton’s Beginning Visual C++ 2013](http://1.droppdf.com/files/g166I/wrox-press-ivor-horton-s-beginning-visual-c-2013-2014.pdf)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
@@ -682,5 +694,8 @@ C++ Books
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
+* [Programming: Principles and Practices Using C++](https://www.amazon.com/gp/product/0321992784/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - Bjarne Stroustrup (Creator of C++)
+* [A Tour of C++](https://isocpp.org/tour) - Bjarne Stroustrup (PDF, Online)
+* [Let us C++  by Yashwant P Kanetkar](https://www.amazon.in/Let-Us-Yashavant-P-Kanetkar/dp/8176561061) - Amazon Link
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 

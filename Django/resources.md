@@ -1,3 +1,8 @@
+---
+title: Django
+category: Frameworks
+---
+
 Django Python Web Framework
 ---------------------------
 
@@ -439,7 +444,7 @@ Where to discover new Django apps and projects.
 
 ## Books
 
-* [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) - A best practice book for making Python and Django as fun as ice cream.
 * [High Performance Django](https://highperformancedjango.com/) (1.7) - Deploying fast, scalable Django sites.
 * [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do) (1.7) - Using REST, WebSockets, and Backbone with Django
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
@@ -449,9 +454,11 @@ Where to discover new Django apps and projects.
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+* [The Django Book](https://djangobook.com/the-django-book/) (1.8)
 
 ## Websites
 
+* [Django Official documentation](https://docs.djangoproject.com/en/1.11/) - Official documentation for Django.
 * [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
 * [Django Packages](https://www.djangopackages.com/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
@@ -472,7 +479,7 @@ as the NEW DJANGO BOOK.
 
 ## Videos
 
-* [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
+* [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
 * [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
 
 # Utilities

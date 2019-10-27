@@ -30,6 +30,8 @@ category: Languages
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
+[⬆ Back to Top](#Index)
+
 ## Websites
 --------
 * [Codecademy](https://www.codecademy.com/learn/web)
@@ -51,11 +53,14 @@ category: Languages
 * [Basic+advance](https://learn.shayhowe.com/)
 * [HTMLDOG](http://www.htmldog.com/)
 
+[⬆ Back to Top](#Index)
+
 ## Frameworks
 --------
 
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
+[⬆ Back to Top](#Index)
 
 ## Learn through games
 --------
@@ -64,6 +69,7 @@ category: Languages
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 
+[⬆ Back to Top](#Index)
 
 ## Methodologies
 --------
@@ -82,7 +88,11 @@ category: Languages
 * [Bootsrap-from basic](https://www.w3schools.com/bootstrap/default.asp)
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 
+[⬆ Back to Top](#Index)
+
 ## Tools
 --------
 
 * [Ratiobuddy](https://ratiobuddy.com/)
+
+[⬆ Back to Top](#Index)

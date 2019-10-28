@@ -51,7 +51,7 @@ category: Languages
  
 ### Books
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
-* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) | [(Associated Code)](https://github.com/stevenhalim/cpbook-code)
 
  [Back To Top](#Index)
  
@@ -90,6 +90,7 @@ category: Languages
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
+* [USACO](https://usaco.org/) - Intended for high school students, but open to everyone. A good introductory contest.
 * [CSAcademy](https://csacademy.com)
 * [Atcoder](https://atcoder.jp)
 

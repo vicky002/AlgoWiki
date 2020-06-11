@@ -67,6 +67,7 @@ category: Other
 * [Timus Online Judge](http://acm.timus.ru/)
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
+* [The Huxley](https://www.thehuxley.com)
 
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)

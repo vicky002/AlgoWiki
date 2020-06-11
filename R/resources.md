@@ -44,6 +44,7 @@ category: Languages
 * [LearnR - YouTube](https://www.youtube.com/user/TheLearnR/featured)
 * [R Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P)
 * [The R Manuals - CRAN](https://cran.r-project.org/manuals.html)
+* [Swirl - Learn R, in R](https://swirlstats.com/students.html)
 
 
 ## Reference Books

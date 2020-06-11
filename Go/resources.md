@@ -30,3 +30,9 @@ category: Languages
 * [GOLANGBOT](https://golangbot.com)
 * [Go by example](https://gobyexample.com)
 * [Let's Learn Algorithms](https://www.calhoun.io/lets-learn-algorithms/)
+
+### Web Frameworks
+* [net/http](https://golang.org/pkg/net/http/?)
+* [revel](http://revel.github.io/)
+* [gin](https://gin-gonic.github.io/gin/)
+* [gorilla](http://www.gorillatoolkit.org/)

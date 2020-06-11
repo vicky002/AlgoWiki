@@ -77,7 +77,7 @@ Topics
 - Operating System
 - Competitive Programming
 - Web Languages:
- -  Html
+ -  HTML
  -  Javascipt
  -  JQuery
  -  PHP 
@@ -97,6 +97,7 @@ Topics
 - Discrete Mathematics
 - Compilers
 - Web2py
+
 
 There are many topics, you can contribute to – Just create topics and add resources to it!
 

@@ -126,6 +126,9 @@ Video Playlist on YoutTube
  - [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
  - [IPython](http://ipython.org/ipython-doc/stable/interactive/tutorial.html) - Extended interactive shell
  - [IPDB](https://pypi.python.org/pypi/ipdb) - IPython support for PDB
+ - [asyncio](https://docs.python.org/3/library/asyncio.html) - Asynchronous I/O
+    - [asyncio Tricks](https://www.skcript.com/svr/this-trick-will-make-you-perform-async-operation-in-python-like-a-pro/)
+    - [Asynchronous python Parralel](https://romain.dorgueil.net/blog/en/tips/2016/09/05/asynchronous-python-parralel.html)
  - [Splinter](https://pypi.python.org/pypi/splinter) - Automate browser actions, such as visiting URLs and interacting with their items.
  - [Requests](https://pypi.python.org/pypi/requests) - Non-GMO HTTP library for Python
  - [Templating in Python](https://wiki.python.org/moin/Templating)
@@ -171,10 +174,14 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
    - [MatPlotLib](http://matplotlib.org/) - matplotlib is a python 2D plotting library which produces publication quality figures
  - Data Analysis
    - [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+ - Spatial Data Analysis
+   - [`pysal`](http://pysal.org) - PySAL (Python Spatial Analysis Library) is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python.
 ## Conference
- - [PyCon](http://pycon.org/)
- - [djangocon](http://www.djangocon.us/)
+ - [DjangoCon](http://www.djangocon.us/)
+ - [GeoPython](http://www.geopython.net)
  - [GotoConferences](http://gotocon.com/)
+ - [PyCon](http://pycon.org/)
+ - [SciPy](http://conference.scipy.org)
  - Videos
    - [PyCon US Videos - 2009, 2010, 2011](http://blip.tv/pycon-us-videos-2009-2010-2011)
    - [EuroPython Conference - 2013](https://www.youtube.com/user/PythonItalia)

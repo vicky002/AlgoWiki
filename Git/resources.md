@@ -22,6 +22,8 @@ category: Tools
 * [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/) - Scott Chacon (PDF)
 * [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) - Tobias Günther
+* [Git - Reference - Git SCM](https://git-scm.com/docs) - Official Docs
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/book.html) - Ben Lynn
 
 
 ### Tutorials
@@ -30,8 +32,14 @@ category: Tools
 * [Try Git](https://try.github.io/) - Github and Code School
 * [Learn Git](https://www.codecademy.com/learn/learn-git) - Codecademy Git Tutorial
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - Getting Git Right
+* [Git Guide](http://rogerdudler.github.io/git-guide/)
+* [Fork Syncing](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
+* [Learn Git Branching](https://learngitbranching.js.org/) - Interactive and Graphic
+* [Git Immersion](http://gitimmersion.com/) - A guided tour that walks through the fundamentals of Git
+
 
 
 ### Helpful Hints
 
 * [Oh Shit Git](http://ohshitgit.com/)
+* [Git Tips](https://opensource.com/article/18/4/git-tips)

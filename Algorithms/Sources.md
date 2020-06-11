@@ -58,7 +58,7 @@ We have lots of links to add here...it will be updated soon!
   - [Double Metaphone Algorithm](#double-metaphone-algorithm)
   - [Floyd Cycle Detection Algorithm](#floyd-cycle-detection-algorithm)
   - [Fibonacci Search Algorithm](#fibonacci-search-algorithm)
-  - [Fisher–Yates shuffle Algorithm ](#fisheraeur-yates-shuffle-algorithm)
+  - [Fisher–Yates shuffle Algorithm ](#fisheryates-shuffle-algorithm)
   - [General Problem Solver](#general-problem-solver)
   - [Jump Point Search ](#jump-point-search)
   - [Kadane's Algorithm](#kadanes-algorithm)

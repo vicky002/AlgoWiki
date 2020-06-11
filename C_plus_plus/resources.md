@@ -270,6 +270,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 * [Open Graphics Library (OpenGL)](https://www.opengl.org/) :zap: - Cross-platform application programming interface (API) for rendering 2D and 3D vector graphics [SGI][link](http://www.sgi.com/tech/opengl/?/license.html)
+* [Anti-Grain Geometry](http://www.antigrain.com/) - A platform independent engine for rendering anti-aliased images from vectorial data. [GPL]
 
 ## Image Processing
 
@@ -290,7 +291,7 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 
 ## Internationalization
 
-* [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'. [GPL2]
+* [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext`. [GPL2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 
@@ -694,5 +695,7 @@ C++ Books
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * [Programming: Principles and Practices Using C++](https://www.amazon.com/gp/product/0321992784/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - Bjarne Stroustrup (Creator of C++)
+* [A Tour of C++](https://isocpp.org/tour) - Bjarne Stroustrup (PDF, Online)
+* [Let us C++  by Yashwant P Kanetkar](https://www.amazon.in/Let-Us-Yashavant-P-Kanetkar/dp/8176561061) - Amazon Link
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 

@@ -16,7 +16,7 @@ category: Other
 * [Quora posts](#Quora-posts)
 
 ### Syllabus
-* [IOI Syallbus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
+* [IOI Syllabus](http://www.ioinformatics.org/a_d_m/isc/iscdocuments/ioi-syllabus.pdf)
 * [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 
 ### Motivational
@@ -67,6 +67,7 @@ category: Other
 * [Timus Online Judge](http://acm.timus.ru/)
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
+* [The Huxley](https://www.thehuxley.com)
 
 ### Articles
 * [Petr Mitrichev's Blog](http://petr-mitrichev.blogspot.in/2013/11/this-week-in-competitive-programming.html)

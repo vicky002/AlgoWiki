@@ -35,11 +35,18 @@ category: Libraries
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
 * [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) -  Edward Loper, Ewan Klein, and Steven Bird (PDF)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575) - Roberto Battiti, Mauro Brunato
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
+* [Hands on Machine learning with scikit-learn and tensorflow](http://93.174.95.29/_ads/701B3790512F6104CD265E9088FDADEE)-Aurelien Geron
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Shai Shalev-Shwartz, Shai Ben-David (PDF)
+* [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville (HTML)
+* [Machine Learning Yearning](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf) - Andrew Ng, Draft Version (PDF)
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Websites
 
@@ -60,9 +67,17 @@ category: Libraries
 * [Pew Research Center](http://www.pewresearch.org/download-datasets/)
 * [Image Databases](http://www.imageprocessingplace.com/root_files_V3/image_databases.htm)
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
+* [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
+* [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
+* [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
+* [mlcourse.ai](https://mlcourse.ai)
+
+[⬆ Back to Top](#table-of-contents)
 
 
 ### Libraries
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Python
 
@@ -82,6 +97,10 @@ category: Libraries
 * [Keras](https://keras.io/)
 * [Lassage (Built over Theano)](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
 * [PyTorch](http://pytorch.org/)
+* [Turicreate (by Apple)](https://apple.github.io/turicreate/docs/api/index.html)
+* [MLxtend](http://rasbt.github.io/mlxtend/)
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Java
 
@@ -89,13 +108,23 @@ category: Libraries
 * [MOA (Massive Online Analysis)](https://moa.cms.waikato.ac.nz/)
 * [Deep Learning for Java](https://github.com/deeplearning4j/deeplearning4j)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### JavaScript
 
 * [brain.js](https://github.com/BrainJS/brain.js)
 * [Deep playground](https://github.com/tensorflow/playground)
 * [Synaptic](https://github.com/cazala/synaptic)
 * [ConvNetJS](https://github.com/karpathy/convnetjs)
+* [TensorFlow.js](https://js.tensorflow.org)
 
+[⬆ Back to Top](#table-of-contents)
+
+#### Lua
+
+* [Torch](http://torch.ch)
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Algorithms
 
@@ -118,6 +147,10 @@ category: Libraries
 * Principal Component Analysis(PCA)
 * Linear Discriminant Analysis (LDA)
 * Autoencoders
+* Bagging and boosting
+* Apriori
+
+[⬆ Back to Top](#table-of-contents)
 
 
 ### Popular Datasets
@@ -130,11 +163,20 @@ category: Libraries
 * [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/)
 * [Game Of Thrones Dataset](https://www.kaggle.com/mylesoneill/game-of-thrones)
 * [IMDB 5000 Image Movie Dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
+* [Enron Dataset for ham/spam classification](http://www2.aueb.gr/users/ion/data/enron-spam/)
+* [20 Newsgroups Dataset](https://www.kaggle.com/crawford/20-newsgroups)
+* [Kodak Image Dataset](http://r0k.us/graphics/kodak/)
+* [Image Net Dataset](http://image-net.org)
+* [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+[⬆ Back to Top](#table-of-contents)
 
 
 ### Relevant Research Papers
 
 Will be updated soon!
+
+[⬆ Back to Top](#table-of-contents)
 
 
 ### Podcasts
@@ -145,3 +187,5 @@ Will be updated soon!
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 * [Learning Machines 101](http://www.learningmachines101.com/)
 * [Partially Derivative](http://partiallyderivative.com/)
+
+[⬆ Back to Top](#table-of-contents)

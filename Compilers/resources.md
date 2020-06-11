@@ -8,12 +8,11 @@ category: Platform
 ## Resources
 * [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
 	- AKA *Dragon book*
-	- [Online Chapters](http://wps.aw.com/aw_aho_compilers_2/0,11227,2663889-,00.html) - Sample chapters from the second edition.
 * [Basics of Compiler Design](http://www.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
 * [Compiler design in C](http://holub.com/goodies/compiler/compilerDesignInC.pdf)
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
-* [cs143 - stanford](http://web.stanford.edu/class/cs143/)
 * [Compiler construction](https://www.cs.cmu.edu/~aplatzer/course/Compilers/waitegoos.pdf)
+* [Compiler Design - Basic to Advanced](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 
 ## Compilers

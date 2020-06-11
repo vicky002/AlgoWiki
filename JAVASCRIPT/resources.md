@@ -55,6 +55,10 @@ category: Languages
   - [Derek Banas: JavaScript Tutorial](https://www.youtube.com/watch?v=fju9ii8YsGs)
   - [JavaScript 30](https://javascript30.com/)
   - [Udacity: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+  - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
+  - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
+  - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
+  - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
 - Coding Challenges
   - [Codecademy](http://www.codecademy.com/)
   - [Codewars](http://www.codewars.com/)

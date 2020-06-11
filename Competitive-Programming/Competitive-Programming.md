@@ -6,6 +6,7 @@ category: Languages
 
 ### Index
 * [Article & Blogs](#articles)
+* [Books](#Books)
 * [Code Repositories](#code-repository)
 * [Coding Calendar](#cdoing-calendar)
 * [Competitive Programming](#competitive-programming)
@@ -15,7 +16,10 @@ category: Languages
 * [Quora posts](#Quora-posts)
 * [Syllabus](#syllabus)
 * [Toolkit](#toolkit)
-
+* [Similar Repositories](#similar-repositories)
+* [YouTube](#youtube)
+ 
+ [Back To Top](#Index)
 
 ### Articles
 
@@ -42,35 +46,31 @@ category: Languages
 * [List of other resources](http://codeforces.com/blog/entry/23054)
 * [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
 * Suggested problems tagged with Algorithms- [Foundation](https://www.codechef.com/certification/prepare#foundation) & [Advanced](https://www.codechef.com/certification/prepare#advanced)
-
+ 
+ [Back To Top](#Index)
+ 
 ### Books
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
-* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) | [(Associated Code)](https://github.com/stevenhalim/cpbook-code)
 
+ [Back To Top](#Index)
+ 
 ### Code Repository
 
 * [Zobayer’s Code Repository](http://zobayer2009.wordpress.com/code/)
 * [Igor’s Code Repository](http://shygypsy.com/tools/)
 * [Indy's Code Library](https://sites.google.com/site/indy256/)
 
-## YouTube
-
-* [Petr Mitrichev's Channel](https://www.youtube.com/user/petrmitrichev)
-* [Errichto's Channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
-* [Endagorion's Channel](https://www.youtube.com/user/Endagorion)
-* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
-* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-* [Algorithms with Rachit Jain](https://www.youtube.com/c/RachitJain)
-* [Codechef's Indian Programming Camp 2016 Playlist](https://www.youtube.com/watch?v=VGq6w9TlJBY&list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)
-* [Codechef's Indian Programming Camp 2017 Playlist](https://www.youtube.com/watch?v=KNe9XRCZkVU&list=PLi0ZM-RCX5nvImim3_ilsdLOtDDkOWt-X)
-
-
+ [Back To Top](#Index)
+  
 ### Coding Calendar
 
 * [Hackerrank Calendar](https://www.hackerrank.com/calendar)
 * [Chrome Extension for active and upcoming challenges](https://chrome.google.com/webstore/detail/challenge-hunt/cgbnhngdlmhjbmgkekedepoapmoingjj)
 * [Contest List](https://clist.by/)
 
+
+[Back To Top](#Index)
 
 ### Competitive Programming
 
@@ -90,14 +90,17 @@ category: Languages
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
+* [USACO](https://usaco.org/) - Intended for high school students, but open to everyone. A good introductory contest.
 * [CSAcademy](https://csacademy.com)
 * [Atcoder](https://atcoder.jp)
 
+[Back To Top](#Index)
 
 ### Competitive Programming Problem Recommender
 
 * [Code-Drills](https://code-drills.com/)
 
+[Back To Top](#Index)
 
 ### Motivational
 
@@ -111,6 +114,7 @@ category: Languages
 * [Anudeep Nekkantis strategy](https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
 * [Abdullah Aslam's journey to google through competitive programming](https://blog.usejournal.com/my-competitive-programming-journey-to-google-5f51c211c715)
 
+[Back To Top](#Index)
 
 ### Problem Sets
 
@@ -137,11 +141,13 @@ category: Languages
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
 
+[Back To Top](#Index)
 
 ### Quora posts
 
 * [Competitive programming topic link on Quora](https://www.quora.com/topic/Competitive-Programming)
 
+[Back To Top](#Index)
 
 ### Syllabus
 
@@ -149,10 +155,14 @@ category: Languages
 * [ACM-ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 
 
+[Back To Top](#Index)
+
 ### Toolkit
 
 * [SPOJ Toolkit](http://spojtoolkit.com/)
 * [UVA Toolkit](http://uvatoolkit.com/problemssolve.php)
+
+[Back To Top](#Index)
 
 
 ### Similar Repositories
@@ -162,3 +172,19 @@ category: Languages
 * [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [OI Wiki](https://github.com/24OI/OI-wiki/)
 * [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms)
+
+
+[Back To Top](#Index)
+
+## YouTube
+
+* [Petr Mitrichev's Channel](https://www.youtube.com/user/petrmitrichev)
+* [Errichto's Channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Endagorion's Channel](https://www.youtube.com/user/Endagorion)
+* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Algorithms with Rachit Jain](https://www.youtube.com/c/RachitJain)
+* [Codechef's Indian Programming Camp 2016 Playlist](https://www.youtube.com/watch?v=VGq6w9TlJBY&list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)
+* [Codechef's Indian Programming Camp 2017 Playlist](https://www.youtube.com/watch?v=KNe9XRCZkVU&list=PLi0ZM-RCX5nvImim3_ilsdLOtDDkOWt-X)
+
+[Back To Top](#Index)

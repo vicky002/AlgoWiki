@@ -104,7 +104,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 5](http://laravel.com/) - Another PHP framework.
+* [Laravel 6](http://laravel.com/) - Another PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
@@ -783,6 +783,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
+* [Online PHP interpreter](http://sandbox.onlinephpfunctions.com/) - Test your code snippet on various PHP versions.
 
 ## PHP Books
 *Fantastic PHP-related books.*

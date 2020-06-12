@@ -1,48 +1,74 @@
-AlgoWiki - Builidng Knowledge Repositories
-============================================
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vicky002/AlgoWiki/gh-pages/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow Check AlgoWiki on @gitHub by @vikesh002 : https://github.com/vicky002/AlgoWiki &url=%5Bobject%20Object%5D)
+
+<p align="center">
+	<img src="AlgoWiki_logo.png" align="center" height="250px" width="250px" alt="AlgoWiki"/>
+</p>
 
 
-On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
+<h1 align="center">Building Knowledge Repositories</h1>
 
-## [Project Website](http://www.algowiki.in/)
+---
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/p9HijS4T3i4dif3TiynvGHf1/vicky002/AlgoWiki.svg' />
+</a>
+
+[![Backers on Open Collective](https://opencollective.com/AlgoWiki/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/AlgoWiki/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/AlgoWiki1/Lobby](https://badges.gitter.im/AlgoWiki1/Lobby.svg)](https://gitter.im/AlgoWiki1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow,%20Check%20AlgoWiki%20-%20CS%20all%20resources%20at%20one%20place!%20by%20@vikesh002%20on%20Github:&url=https://github.com/vicky002/AlgoWiki/)| [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  | [![GitHub stars](https://img.shields.io/github/stars/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/issues) | [![GitHub forks](https://img.shields.io/github/forks/vicky002/AlgoWiki.svg)](https://github.com/vicky002/AlgoWiki/network) 
+
+**Join Our community Forum for discussions related Project AlgoWiki, Computer Science Resources, Internships and Job etc. [AlgoWiki - Eulercoder Community on Slack](https://publicslack.com/slacks/eulercodercommunity/invites/new)**
+
+---
+
+On the Internet, there is a vast ocean of knowledge on different and varied topics. Most of this knowledge is either available online on the web or resides with the people as human knowledge. I want to create this repository as a platform to bind these scattered pieces of knowledge, spread over various websites at one place! 
+
+## Help us in getting a domain name
+
+[<img src="https://opencollective.com/public/images/become_sponsor.svg">](https://opencollective.com/algowiki/events/help-us-in-buying-a-domain-name-9586ev)
+
+## Donate ($1) - Help me in making AlgoWiki Better
+[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
+
 
 ## Navigation
 
 **Some of the links below contain only Pdfs books. We will add websites and video resources soon!**
 
-* [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)
-* [Algorithms and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
-* [Free Algorithm Books](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Algorithms-Data_Structures.md)
-* [Free Data Science Book pdfs](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Data%20Science.md)
-* [Machine Learning](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Machine-Learning/Sources.md)
-* [Artificial Intelligence](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Artifical_Intelligence/resources.md)
-* [All about C](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C/sources.md)
-* [All about C++](https://github.com/vicky002/AlgoWiki/blob/gh-pages/C_plus_plus/resources.md)
-* [All about Java](https://github.com/vicky002/AlgoWiki/blob/gh-pages/java/Java_Resources.md)
-* [All about Python](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
-* [All about php](https://github.com/vicky002/AlgoWiki/blob/gh-pages/PHP/php_resources.md)
-* [All about MySql](https://github.com/vicky002/AlgoWiki/blob/gh-pages/MySql/mysql_resources.md)
-* [HTML](https://github.com/vicky002/AlgoWiki/blob/gh-pages/HTML_CSS/html_resources.md)
-* [Django](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
-* [Flask](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
-* [Interview Preparation](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Interviews/resources.md)
-* [JavaScript](https://github.com/vicky002/AlgoWiki/blob/gh-pages/JAVASCRIPT/resources.md)
+* [All about Competitive-Programming](Competitive-Programming/Competitive-Programming.md)
+* [Algorithms and Their Implement from different sources](Algorithms/Sources.md)
+* [Free Algorithm Books](Free-Books/Algorithms-Data_Structures.md)
+* [Free Data Science Book pdfs](Free-Books/Data%20Science.md)
+* [Machine Learning](Machine-Learning/Sources.md)
+* [Artificial Intelligence](Artifical_Intelligence/resources.md)
+* [All about C](C/sources.md)
+* [All about C++](C_plus_plus/resources.md)
+* [All about Java](java/Java_Resources.md)
+* [All about Objective-C](Objective_C/sources.md)
+* [All about Python](python/resources.md)
+* [All about php](PHP/php_resources.md)
+* [All about MySql](MySql/mysql_resources.md)
+* [All about R](R/resources.md)
+* [All about Rust](Rust/rust_resources.md)
+* [HTML](HTML_CSS/html_resources.md)
+* [Django](Django/resources.md)
+* [Flask](Flask/flask_resources.md)
+* [Interview Preparation](Interviews/resources.md)
+* [JavaScript](JAVASCRIPT/resources.md)
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
-* [Rails](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Rails/rails_resources.md)
-* [Ruby](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Ruby/ruby_resources.md)
-
+* [Rails](Rails/rails_resources.md)
+* [Ruby](Ruby/ruby_resources.md)
+* [Linux](Linux)
+* [Compilers](Compilers/resources.md)
+* [Open Source Guide](https://opensource.guide/)
+* [Discrete Mathematics](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Discrete%20Mathematics/discrete-math.md)
 
 How to Contribute
 ==================
-We are collecting websites and resources! Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
+We are collecting links to websites and resources. Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
 
 Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)
 1. You can add links of different sources on different topics.
-2. You can also create topics and add diffrent resources to it.
+2. You can also create topics and add different resources to it.
 3. Make sure that links that you provide are related to the topic!
 
 Topics
@@ -61,13 +87,50 @@ Topics
  - C
  - C++
  - Java
+ - Objective-C
  - Python
  - Ruby
+ - Rust
 - Machine Learning
 - Artificial Intelligence
+- Android
 - Discrete Mathematics
+- Compilers
+- Web2py
 - News and Inspiration
 
-There are many topics, you can contribute to it – create topics add resources to it!
+There are many topics, you can contribute to – Just create topics and add resources to it!
 
 Built with :heart: in GitHub! 
+
+LICENCE: [MIT](LICENSE) (c) Vikesh Tiwari, AlgoWiki
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
+<a href="graphs/contributors"><img src="https://opencollective.com/AlgoWiki/contributors.svg?width=890" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/AlgoWiki#backer)]
+
+<a href="https://opencollective.com/AlgoWiki#backers" target="_blank"><img src="https://opencollective.com/AlgoWiki/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/AlgoWiki#sponsor)]
+
+<a href="https://opencollective.com/AlgoWiki/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/1/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/2/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/3/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/4/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/5/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/6/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/7/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/8/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/AlgoWiki/sponsor/9/website" target="_blank"><img src="https://opencollective.com/AlgoWiki/sponsor/9/avatar.svg"></a>
+
+

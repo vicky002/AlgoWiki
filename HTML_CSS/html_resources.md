@@ -75,6 +75,9 @@
 * [Sass](http://sass-lang.com/)
 * [Bootsrap-from basic](https://www.w3schools.com/bootstrap/default.asp)
 
-
-
-
+Tools
+--------
+* [CSS Arrow Generator](http://www.cssarrowplease.com/)
+* [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+* [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [Favicon Generator](http://www.favicon.cc/?)

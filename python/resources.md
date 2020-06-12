@@ -131,6 +131,7 @@ Video Playlist on YoutTube
     - [Asynchronous python Parralel](https://romain.dorgueil.net/blog/en/tips/2016/09/05/asynchronous-python-parralel.html)
  - [Splinter](https://pypi.python.org/pypi/splinter) - Automate browser actions, such as visiting URLs and interacting with their items.
  - [Requests](https://pypi.python.org/pypi/requests) - Non-GMO HTTP library for Python
+ - [Networkx](https://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
  - [Templating in Python](https://wiki.python.org/moin/Templating)
    - [Jinja2](http://jinja.pocoo.org/docs/) is a full featured template engine for Python.
    - [Wheezy template](https://bitbucket.org/akorn/wheezy.template) - Compact, Expressive, Clean, Blazingly Fast

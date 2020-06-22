@@ -38,8 +38,11 @@ C#
 ## IDEs
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Rider](https://www.jetbrains.com/rider/)
 
 ## Tools
+* [IL Spy](https://github.com/icsharpcode/ILSpy)
+* [Advanced Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 
 ## Community
 * [C# Enthusiasts](https://plus.google.com/communities/105633785309529478535)

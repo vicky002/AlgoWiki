@@ -45,7 +45,8 @@ category: Languages
 * [R Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P)
 * [The R Manuals - CRAN](https://cran.r-project.org/manuals.html)
 * [Swirl - Learn R, in R](https://swirlstats.com/students.html)
-
+* [R Programming- Youtube](https://www.youtube.com/watch?v=rgFVq_Q6VF0&list=PLVHgQku8Z936vOg1-fvaNHCuatKLbn2rG)
+* [R Programming -Data-Flair](https://data-flair.training/blogs/r-programming-language/)
 
 ## Reference Books
 
@@ -55,3 +56,4 @@ category: Languages
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Advanced R](http://adv-r.had.co.nz/)
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/
+* [The Art of R Programming by Norman Matloff](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)

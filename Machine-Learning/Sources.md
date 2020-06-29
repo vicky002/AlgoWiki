@@ -69,6 +69,8 @@ category: Libraries
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [Qwiklab. NVIDIA courses](https://nvidia.qwiklab.com/)
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
+* [Fast-Ai : Making Neural Net Uncool Again](https://www.fast.ai/)
+* [Open AI GYM : Toolkit for developing and comparing reinforcement learning](https://gym.openai.com/)
 * [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 * [mlcourse.ai](https://mlcourse.ai)
 
@@ -99,6 +101,8 @@ category: Libraries
 * [PyTorch](http://pytorch.org/)
 * [Turicreate (by Apple)](https://apple.github.io/turicreate/docs/api/index.html)
 * [MLxtend](http://rasbt.github.io/mlxtend/)
+* [Fast AI](https://docs.fast.ai/)
+* [Open AI Gym](http://gym.openai.com/docs/)
 
 [⬆ Back to Top](#table-of-contents)
 

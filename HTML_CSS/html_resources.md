@@ -52,6 +52,8 @@ category: Languages
 * [Udacity-Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 * [Basic+advance](https://learn.shayhowe.com/)
 * [HTMLDOG](http://www.htmldog.com/)
+* [HTMLJAVATPOINT](https://www.javatpoint.com/html-tutorial)
+* [CSS JAVATPOINT](https://www.javatpoint.com/css-tutorial)
 
 [⬆ Back to Top](#Index)
 

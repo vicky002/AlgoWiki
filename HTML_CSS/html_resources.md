@@ -23,10 +23,12 @@ category: Languages
 * [Gov.uk Form Elements Style Guide](http://govuk-elements.herokuapp.com/form-elements/)
 * [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
+* [HTML: Hypertext Markup Language] (https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Development Network
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com/) - Jeremy Keith
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
+* [Learn HTML] (https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 

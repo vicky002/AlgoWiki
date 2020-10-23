@@ -45,11 +45,13 @@ category: Languages
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
 * [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
+* [CSS: Cascading Stylesheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSSmatic - CSS short cuts](http://www.cssmatic.com/)
 * [CSS-Tricks - Articles on implementing design using CSS](https://css-tricks.com/)
 * [CSS Zen Garden - Finding design inspirations](http://www.csszengarden.com/)
 * [GRID GARDEN- A GAME FOR LEARNING CSS](http://cssgridgarden.com/)
 * [Flexbox froggy- A GAME FOR LEARNING CSS](http://flexboxfroggy.com/)
+* [Learn CSS](https://www.codecademy.com/learn/learn-css)
 * [Sassmeister](https://www.sassmeister.com/)
 * [Udacity-Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 * [Basic+advance](https://learn.shayhowe.com/)

@@ -26,9 +26,9 @@ category: Languages
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com/) - Jeremy Keith
+* [HTML Books](http://www.it-ebooks.info/tag/html/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
-* [HTML Books](http://www.it-ebooks.info/tag/html/)
 
 [⬆ Back to Top](#Index)
 

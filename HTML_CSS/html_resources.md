@@ -23,12 +23,10 @@ category: Languages
 * [Gov.uk Form Elements Style Guide](http://govuk-elements.herokuapp.com/form-elements/)
 * [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
-* [HTML: Hypertext Markup Language] (https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Development Network
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com/) - Jeremy Keith
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
-* [Learn HTML] (https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
@@ -40,9 +38,11 @@ category: Languages
 * [freeCodeCamp](http://www.freecodecamp.org)
 * [General Assembly Dash](http://dash.generalassemb.ly)
 * [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/) - edX
-* [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
+* [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Development Network
 * [HTML Dog Tutorials](http://www.htmldog.com/)
+* [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [Learn CSS Layout](http://learnlayout.com/)
+* [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
 * [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
 * [CSSmatic - CSS short cuts](http://www.cssmatic.com/)

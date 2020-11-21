@@ -44,13 +44,17 @@ category: Languages
 * [LearnR - YouTube](https://www.youtube.com/user/TheLearnR/featured)
 * [R Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P)
 * [The R Manuals - CRAN](https://cran.r-project.org/manuals.html)
-
+* [Swirl - Learn R, in R](https://swirlstats.com/students.html)
+* [R Programming- Youtube](https://www.youtube.com/watch?v=rgFVq_Q6VF0&list=PLVHgQku8Z936vOg1-fvaNHCuatKLbn2rG)
+* [R Programming -Data-Flair](https://data-flair.training/blogs/r-programming-language/)
 
 ## Reference Books
 
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [R Programming for Data Science](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)
+* [PDFs for Beginners](https://www.dropbox.com/sh/vawqdv9bp32v4yg/AABhmF_zWAh1vM7e-HmfXZfKa?dl=0)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Advanced R](http://adv-r.had.co.nz/)
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/
+* [The Art of R Programming by Norman Matloff](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)

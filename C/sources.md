@@ -272,6 +272,7 @@ This is a list of resources for learning C programming in general, or something 
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [Let us C - Yashwant Kanetkar](https://www.pdfdrive.com/let-us-c-e33408389.html)
 
 ##### Beginner
 

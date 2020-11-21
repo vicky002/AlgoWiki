@@ -30,6 +30,8 @@ category: Languages
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
+[⬆ Back to Top](#Index)
+
 ## Websites
 --------
 * [Codecademy](https://www.codecademy.com/learn/web)
@@ -51,11 +53,14 @@ category: Languages
 * [Basic+advance](https://learn.shayhowe.com/)
 * [HTMLDOG](http://www.htmldog.com/)
 
+[⬆ Back to Top](#Index)
+
 ## Frameworks
 --------
 
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
+[⬆ Back to Top](#Index)
 
 ## Learn through games
 --------
@@ -64,6 +69,7 @@ category: Languages
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 
+[⬆ Back to Top](#Index)
 
 ## Methodologies
 --------
@@ -80,7 +86,17 @@ category: Languages
 * [Fabric](https://developer.microsoft.com/en-us/fabric)
 * [Sass](http://sass-lang.com/)
 * [Bootsrap-from basic](https://www.w3schools.com/bootstrap/default.asp)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
 
+[⬆ Back to Top](#Index)
 
+## Tools
+--------
+* [CSS Arrow Generator](http://www.cssarrowplease.com/)
+* [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+* [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+* [Favicon Generator](http://www.favicon.cc/?)
+* [Ratiobuddy](https://ratiobuddy.com/)
 
+[⬆ Back to Top](#Index)
 

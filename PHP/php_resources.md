@@ -784,6 +784,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
+* [Online PHP interpreter](http://sandbox.onlinephpfunctions.com/) - Test your code snippet on various PHP versions.
 
 ## PHP Books
 *Fantastic PHP-related books.*

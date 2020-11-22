@@ -172,6 +172,7 @@ category: Languages
 * [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [OI Wiki](https://github.com/24OI/OI-wiki/)
 * [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms)
+* [Competitive-Programming-Codebook](https://github.com/Foysal87competitive_programming_codebook)
 
 
 [Back To Top](#Index)

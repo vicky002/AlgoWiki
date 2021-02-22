@@ -26,6 +26,7 @@ category: Languages
 * [An Introduction To Programming In Go - Caleb Doxsey](http://www.amazon.in/Introduction-Programming-Go-Caleb-Doxsey/dp/1478355824)
 * [Go Bootcamp](http://www.golangbootcamp.com/)
 * Learning Go by Miek Gieben
+* [Programming in Go by Mark Summerfield](http://www.qtrac.eu/gobook.html)
 
 
 ### Online Resources
@@ -35,6 +36,8 @@ category: Languages
 * [GOLANGBOT](https://golangbot.com)
 * [Go by example](https://gobyexample.com)
 * [Let's Learn Algorithms](https://www.calhoun.io/lets-learn-algorithms/)
+* [Go-koans](https://github.com/cdarwin/go-koans)
+* [Go Bootcamp by Matt Aimonetti](http://www.golangbootcamp.com/book/)
 
 ### Web Frameworks
 
@@ -42,6 +45,7 @@ category: Languages
 * [gin](https://gin-gonic.github.io/gin/)
 * [gorilla](http://www.gorillatoolkit.org/)
 * [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
+* [kit](https://github.com/go-kit/kit)
 
 ### Package Management
 

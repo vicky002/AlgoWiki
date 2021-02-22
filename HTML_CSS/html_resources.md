@@ -26,9 +26,9 @@ category: Languages
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com/) - Jeremy Keith
+* [HTML Books](http://www.it-ebooks.info/tag/html/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
-* [HTML Books](http://www.it-ebooks.info/tag/html/)
 
 [⬆ Back to Top](#Index)
 
@@ -38,16 +38,20 @@ category: Languages
 * [freeCodeCamp](http://www.freecodecamp.org)
 * [General Assembly Dash](http://dash.generalassemb.ly)
 * [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/) - edX
-* [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
+* [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Development Network
 * [HTML Dog Tutorials](http://www.htmldog.com/)
+* [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [Learn CSS Layout](http://learnlayout.com/)
+* [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
 * [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
+* [CSS: Cascading Stylesheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSSmatic - CSS short cuts](http://www.cssmatic.com/)
 * [CSS-Tricks - Articles on implementing design using CSS](https://css-tricks.com/)
 * [CSS Zen Garden - Finding design inspirations](http://www.csszengarden.com/)
 * [GRID GARDEN- A GAME FOR LEARNING CSS](http://cssgridgarden.com/)
 * [Flexbox froggy- A GAME FOR LEARNING CSS](http://flexboxfroggy.com/)
+* [Learn CSS](https://www.codecademy.com/learn/learn-css)
 * [Sassmeister](https://www.sassmeister.com/)
 * [Udacity-Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 * [Basic+advance](https://learn.shayhowe.com/)

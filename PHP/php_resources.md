@@ -104,7 +104,8 @@ amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 6](http://laravel.com/) - Another PHP framework.
+* [Laravel 8](https://laravel.com/docs/8.x/) - A web application framework with expressive, elegant syntax. 
+* [Codeigniter](https://codeigniter.com/user_guide/index.html) - A powerful PHP framework with a very small footprint. 
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.

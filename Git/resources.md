@@ -36,7 +36,7 @@ category: Tools
 * [Fork Syncing](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive and Graphic
 * [Git Immersion](http://gitimmersion.com/) - A guided tour that walks through the fundamentals of Git
-* [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+
 
 
 

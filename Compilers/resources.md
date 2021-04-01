@@ -14,7 +14,8 @@ category: Platform
 * [Compiler construction](https://www.cs.cmu.edu/~aplatzer/course/Compilers/waitegoos.pdf)
 * [Compiler Design - Basic to Advanced](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
-* [Matt Might - Compilers :: CS5470](http://matt.might.net/teaching/compilers/spring-2015/) - Blog posts by Prof. Matt Might on compiler design and a list of projects to learn by doing.
+* [CS5470 Compilers - Matt Might](http://matt.might.net/teaching/compilers/spring-2015/) - Blog posts by Prof. Matt Might on compiler design and a list of projects to learn by doing.
+* [CS143 Compilers - Stanford Compiler Course](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 
 
 ## Compilers

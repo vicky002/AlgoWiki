@@ -14,6 +14,7 @@ category: Platform
 * [Compiler construction](https://www.cs.cmu.edu/~aplatzer/course/Compilers/waitegoos.pdf)
 * [Compiler Design - Basic to Advanced](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+* [Matt Might - Compilers :: CS5470](http://matt.might.net/teaching/compilers/spring-2015/) - Blog posts on compiler design and a list of projects to learn by doing.
 
 ## Compilers
 *A list of compilers*
@@ -29,3 +30,4 @@ category: Platform
 	- [Lex](http://dinosaur.compilertools.net/lex/index.html) - A Lexical Analyzer Generator
 	- [Bison](http://dinosaur.compilertools.net/bison/) - The YACC-compatible Parser Generator
 * [PLY (Python Lex-Yacc)](http://www.dabeaz.com/ply/) - PLY is an implementation of lex and yacc parsing tools for Python.
+* [SLY (Sly Lex Yacc)](https://sly.readthedocs.io/en/latest/sly.html) - SLY is a library for writing parsers and compilers with Python.

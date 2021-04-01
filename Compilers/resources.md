@@ -17,6 +17,7 @@ category: Platform
 * [CS5470 Compilers - Matt Might](http://matt.might.net/teaching/compilers/spring-2015/) - Blog posts by Prof. Matt Might on compiler design and a list of projects to learn by doing.
 * [CS143 Compilers - Stanford Compiler Course](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 * [Parsing Code - Jim Mahoney's Notes](https://cs.marlboro.college/cours/fall2019/formal_languages/notes/parsing)
+* [The man(1) of descent - Damian Conway](http://theweeks.org/xcssa/photos/files/sys-admin_V8/tpj/issues/vol3_4/tpj0304-0010.html) - Conway's explanation of Recursive Descent, a key algorithm for compiler design.
 
 
 ## Compilers

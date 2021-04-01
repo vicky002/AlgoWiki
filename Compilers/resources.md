@@ -32,4 +32,4 @@ category: Platform
 	- [Bison](http://dinosaur.compilertools.net/bison/) - The YACC-compatible Parser Generator
 * [PLY (Python Lex-Yacc)](http://www.dabeaz.com/ply/) - PLY is an implementation of lex and yacc parsing tools for Python.
 * [SLY (Sly Lex Yacc)](https://sly.readthedocs.io/en/latest/sly.html) - SLY is a library for writing parsers and compilers with Python.
-* [mal - Make A Lisp](https://github.com/kanaka/mal) - Mal is a Clojure inspired Lisp interpreter and a learning tool for building interpreters.
+* [mal - Make A Lisp](https://github.com/kanaka/mal) - Implement Lisp in a language of your choice.

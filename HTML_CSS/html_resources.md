@@ -35,7 +35,9 @@ category: Languages
 ## Websites
 --------
 * [Codecademy](https://www.codecademy.com/learn/web)
+* [Easing Functions Cheat Sheet](https://easings.net)
 * [freeCodeCamp](http://www.freecodecamp.org)
+* [Frontend Mentor: Frontend Coding Challenges](https://www.frontendmentor.io)
 * [General Assembly Dash](http://dash.generalassemb.ly)
 * [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2017/course/) - edX
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Development Network
@@ -71,6 +73,7 @@ category: Languages
 ## Learn through games
 --------
 
+* [CSS Diner](https://flukeout.github.io)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Grid Garden](http://cssgridgarden.com/)
@@ -80,6 +83,7 @@ category: Languages
 ## Methodologies
 --------
 
+* [Animate.css](https://animate.style)
 * [BEM: About](https://en.bem.info/methodology/)
 * [BEM: Introduction](http://getbem.com/introduction/)
 * [BEM: CSS Tricks Guide](https://css-tricks.com/bem-101)
@@ -98,6 +102,7 @@ category: Languages
 
 ## Tools
 --------
+* [Clippy CSS clip-path Maker](https://bennettfeely.com/clippy/)
 * [CSS Arrow Generator](http://www.cssarrowplease.com/)
 * [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
 * [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)

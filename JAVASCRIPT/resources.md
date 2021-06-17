@@ -85,6 +85,7 @@ category: Languages
 #### Videos
 - [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
 - [Angular todo app](https://www.youtube.com/watch?v=WuiHuZq_cg4)
+- [React JS for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
 #### Newsletters
 

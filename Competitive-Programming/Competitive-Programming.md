@@ -90,6 +90,7 @@ category: Languages
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
+* [SPOJ](https://www.spoj.com/)
 * [USACO](https://usaco.org/) - Intended for high school students, but open to everyone. A good introductory contest.
 * [CSAcademy](https://csacademy.com)
 * [Atcoder](https://atcoder.jp)

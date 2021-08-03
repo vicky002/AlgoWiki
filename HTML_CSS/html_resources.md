@@ -58,6 +58,10 @@ category: Languages
 * [HTMLDOG](http://www.htmldog.com/)
 * [HTMLJAVATPOINT](https://www.javatpoint.com/html-tutorial)
 * [CSS JAVATPOINT](https://www.javatpoint.com/css-tutorial)
+* [HTML W3SCHOOL](https://www.w3schools.com/html/default.asp)
+* [CSS W3SCHOOL](https://www.w3schools.com/cssref/default.asp)
+* [HTML HTML5DOCTOR](http://www.html5doctor.com/)
+* [HTML SOLOLEARN](https://www.sololearn.com/home)
 
 [⬆ Back to Top](#Index)
 

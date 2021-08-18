@@ -25,7 +25,6 @@ category: Languages
 - [Jobs](#jobs)
 - [Other Resource Lists](#other-resource-lists)
 
-
 ### Online
 
 #### Documentation
@@ -77,12 +76,15 @@ category: Languages
 
 #### Podcasts
 
-- http://javascriptjabber.com/
-- http://thechangelog.com/podcast/
-- http://www.jsclasses.org/blog/category/podcast/
-- https://hipsters.tech/
+- [Javascript Jabber](http://javascriptjabber.com/)
+- [The Changelog](http://thechangelog.com/podcast/)
+- [JS Classes](http://www.jsclasses.org/blog/category/podcast/)
+- [Hipsters Ponto Tech](https://hipsters.tech/)
+- [The Vanilla JS Podcast](https://vanillajspodcast.com/)
+- [JS Talks](https://js-talks.netlify.app/)
 
 #### Videos
+
 - [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
 - [Angular todo app](https://www.youtube.com/watch?v=WuiHuZq_cg4)
 

@@ -47,6 +47,7 @@ category: Other
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
+* [LeetCode](https://leetcode.com/)
 
 
 ### Problem Sets
@@ -106,3 +107,4 @@ category: Other
 ###  Learning Resources
 * [Stanford University ICPC Team Notebook (2015-16)Stanford University ICPC Team Notebook (2015-16)](http://cs.stanford.edu/group/acm/SLPC/notebook.pdf)
 * [Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+* [Geeks for geeks Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/)

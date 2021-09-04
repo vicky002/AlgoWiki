@@ -53,6 +53,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [Interview Preparation](Interviews/resources.md)
 * [JavaScript](JAVASCRIPT/resources.md)
 * [JavaScript Guide](https://github.com/airbnb/javascript/blob/master/README.md)
+* [Kotlin](Kotlin/Kotlin_Resources.md)
 * [Rails](Rails/rails_resources.md)
 * [Ruby](Ruby/ruby_resources.md)
 * [Linux](Linux)

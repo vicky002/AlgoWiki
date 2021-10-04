@@ -32,7 +32,6 @@ category: Languages
 --------
 
 * [freeCodeCamp - Dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
-* [The Net Ninja - Flutter Tutorial for Beginners (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 [⬆ Back to Top](#Index)
 

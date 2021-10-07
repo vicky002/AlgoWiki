@@ -123,7 +123,6 @@ category: Languages
 - http://blog.mozilla.org/javascript/
 - http://sixrevisions.com/category/javascript/
 
-
 ### Books
 
 - [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reg Braithwaite
@@ -154,6 +153,7 @@ category: Languages
 - [Mixu's Node Book](http://book.mixu.net/node/)
 - [Node: Up and Running](http://shop.oreilly.com/product/0636920015956.do) - Tom Hughes-Croucher
 - [The Node Beginner Book](http://nodebeginner.org/) - Manuel Kiessling
+- [Deploying NodeJs](https://deployingnodejs.com/) - Kati Frantz
 
 #### Lists of Books
 
@@ -161,7 +161,6 @@ category: Languages
 - [Manning Catalog by Subject](https://www.manning.com/catalog/sort/sort-by-subject)
 - [JavaScript Development and Resources (Oreilly)](http://oreilly.com/javascript/)
 - [JavaScript (Oreilly)](http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1)
-
 
 ### Offline
 
@@ -190,11 +189,9 @@ category: Languages
 - http://nodeconf.com/
 - http://nodesummit.com/
 
-
 ### Jobs
 
 - http://careers.stackoverflow.com/jobs/tag/nodejs
-
 
 ### Other Resource Lists
 

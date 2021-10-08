@@ -192,6 +192,7 @@ category: Languages
 ### Jobs
 
 - http://careers.stackoverflow.com/jobs/tag/nodejs
+- https://jsjobbs.com/
 
 ### Other Resource Lists
 

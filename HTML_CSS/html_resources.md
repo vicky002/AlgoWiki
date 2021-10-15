@@ -10,6 +10,7 @@ category: Languages
 * [Frameworks](#frameworks)
 * [Learn through games](#learn-through-games)
 * [Methodologies](#methodologies)
+* [Tools](#tools)
 
 
 ## Online Books and PDFs

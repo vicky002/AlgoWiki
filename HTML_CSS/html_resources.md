@@ -64,7 +64,7 @@ category: Languages
 * [HTML W3SCHOOL](https://www.w3schools.com/html/default.asp)
 * [CSS W3SCHOOL](https://www.w3schools.com/cssref/default.asp)
 * [HTML HTML5DOCTOR](http://www.html5doctor.com/)
-* [HTML SOLOLEARN](https://www.sololearn.com/home)
+* [HTML SOLOLEARN](https://www.sololearn.com/learning/1014)
 
 [⬆ Back to Top](#Index)
 

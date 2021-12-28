@@ -13,6 +13,7 @@ category: Libraries
   * [Python](#python)
   * [Java](#java)
   * [JavaScript](#javascript)
+  * [C/C++](#cpp)
 * [Algorithms](#algorithms)
 * [Popular Datasets](#popular-datasets)
 * [Relevant Research Papers](#relevant-research-papers)
@@ -123,6 +124,19 @@ category: Libraries
 #### Lua
 
 * [Torch](http://torch.ch)
+
+[⬆ Back to Top](#table-of-contents)
+
+#### C/C++
+
+* [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+* [mlpack](https://www.mlpack.org/)
+* [DyNet](https://github.com/clab/dynet)
+* [Shogun](https://github.com/shogun-toolbox/shogun)
+* [FANN](https://github.com/libfann)
+* [OpenNN](https://github.com/Artelnics/opennn)
+* [SHARK Library](https://github.com/Shark-ML/Shark)
+* [Armadillo](https://github.com/EmanueleCannizzaro/armadillo)
 
 [⬆ Back to Top](#table-of-contents)
 

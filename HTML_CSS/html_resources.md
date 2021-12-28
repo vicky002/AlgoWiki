@@ -30,6 +30,7 @@ category: Languages
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+* [41 HTML CSS books](https://freefrontend.com/html-css-books/)
 
 [⬆ Back to Top](#Index)
 
@@ -65,6 +66,7 @@ category: Languages
 * [CSS W3SCHOOL](https://www.w3schools.com/cssref/default.asp)
 * [HTML HTML5DOCTOR](http://www.html5doctor.com/)
 * [HTML SOLOLEARN](https://www.sololearn.com/home)
+* [CSS Reference: CoDrops](http://tympanus.net/codrops/css_reference/)
 
 [⬆ Back to Top](#Index)
 

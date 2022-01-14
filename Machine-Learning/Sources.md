@@ -142,27 +142,28 @@ category: Libraries
 
 ### Algorithms
 
-* Kernel Density Estimation and Non-parametric Bayes Classifier
-* K-Means
 * Affinity Propagation
+* Apriori
+* Autoencoders
+* Bagging and boosting
+* Bootstrapped SVM
+* DBSCAN
+* Decision Tree
+* Dimensionality Reduction
+* Fast Singular Value Decomposition
+* Gradient Boosting algorithms(GBM, XGBoost, LightGBM, CatBoost)
 * Hierarchical clustering/Agglomerative clustering
+* Kernel Density Estimation and Non-parametric Bayes Classifier
 * Kernel Principal Components Analysis
+* K-Means
+* Linear Discriminant Analysis (LDA)
 * Linear Regression
 * Logistic Regression
 * Neighbors (Nearest, Farthest, Range, k, Classification)
 * Non-Negative Matrix Factorization
-* Support Vector Machines
-* Dimensionality Reduction
-* Fast Singular Value Decomposition
-* Decision Tree
-* Random Forest
-* Bootstrapped SVM
-* DBSCAN
 * Principal Component Analysis(PCA)
-* Linear Discriminant Analysis (LDA)
-* Autoencoders
-* Bagging and boosting
-* Apriori
+* Random Forest
+* Support Vector Machines
 
 [⬆ Back to Top](#table-of-contents)
 

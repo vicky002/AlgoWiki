@@ -1,4 +1,4 @@
----
+﻿---
 title: Machine Learning
 category: Libraries
 ---
@@ -72,6 +72,7 @@ category: Libraries
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
 * [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 * [mlcourse.ai](https://mlcourse.ai)
+* [FreeCodeCamp Youtube Channel](https://www.youtube.com/watch?v=ycvSMpsg7qk&list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1)
 
 [⬆ Back to Top](#table-of-contents)
 

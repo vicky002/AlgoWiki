@@ -110,6 +110,10 @@ Created with a view to connecting people to information, this list below contain
 | ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
 | ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
+| ★★★ | [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests](https://1lib.in/dl/5689722/e58577), Book by Antti Laaksonen | Building on what already is the most comprehensive introduction to competitive programming, this enhanced new textbook features new material on advanced topics, such as calculating Fourier transforms, finding minimum cost flows in graphs, and using automata in string problems. |
+| ★★☆ | [Competitive Programming in Python: 128 Algorithms to Develop Your Coding Skills](https://1lib.in/dl/11000183/d4584f), Book by Christoph Dürr and Jill-Jênn Vie | Want to kill it at your job interview in the tech industry? Want to win that coding competition? Learn all the algorithmic techniques and programming skills you need from two experienced coaches, problem setters, and jurors for coding competitions. |
+| ★★★ | [Computational Geometry: Algorithms and Applications](https://1lib.in/dl/502987/3de826), Book by Marc van Kreveld, Mark Overmars, and Mark de Berg | Computational geometry emerged from the ?eld of algorithms design and analysis in the late 1970s. It has grown into a recognized discipline with its own journals, conferences, and a large community of active researchers. |
+
 
 ### Books for Algorithms
 
@@ -120,6 +124,8 @@ Created with a view to connecting people to information, this list below contain
 | ★★☆ | [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena | The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](http://www.algorist.com). |
 | ★★★ | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne | This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It is used in some IOI training camps as a textbook. |
 |     | [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action), by Marcello La Rocca | This book provides a different approach to algorithms, balancing theory with a more practical angle, with a section per-chapter focusing on how to apply algorithms to real-world use cases that can be found in your daily work, or in competitive programming; it also presents a blend of classic, advanced, and new algorithms. |
+| ★★★ | [Computational Geometry: Algorithms and Applications](https://1lib.in/dl/502987/3de826), Book by Marc van Kreveld, Mark Overmars, and Mark de Berg | Computational geometry emerged from the ?eld of algorithms design and analysis in the late 1970s. It has grown into a recognized discipline with its own journals, conferences, and a large community of active researchers. |
+| ★★★ | [Algorithms](https://1lib.in/dl/2738376/0834cf), Book by Robert Sedgewick | Robert Sedgewick and Kevin Wayne's Algorithms is one of the most popular textbooks on algorithms today and is widely used in colleges and universities worldwide.
 
 ### Books for Mathematics
 

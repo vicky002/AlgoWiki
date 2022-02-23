@@ -20,7 +20,7 @@ category: Languages
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim
 * [GA Dash](http://dash.generalassemb.ly)
-* [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [Gov.uk Form Elements Style Guide](http://govuk-elements.herokuapp.com/form-elements/)
 * [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci

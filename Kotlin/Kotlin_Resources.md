@@ -39,3 +39,18 @@ category: Languages
 
 ## Blogs
 --------
+* [The Kotlin Blog : Kotlin Programming Language by JetBrains](https://blog.jetbrains.com/kotlin/)
+* [Kot. Academy Blog](https://blog.kotlin-academy.com/)
+* [Kotlin Expertise Blog](https://kotlinexpertise.com/)
+* [SuperKotlin Blog](https://superkotlin.com/blog/)
+* [Antonio Leiva: Kotlin for Android development made easy](https://antonioleiva.com/kotlin/)
+* [Coding with Mohit](https://codingwithmohit.com/)
+* [Kotlin Tutorial Blog: Kotlin Tutorials - Learn Kotlin Programming](https://www.kotlintutorialblog.com/)
+
+## IDEs
+--------
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [TryKotlin](https://try.kotlinlang.org/)
+* [Android Studio](https://developer.android.com/studio/)
+* [Atom](https://atom.io/)
+* [Kotlin On Repl.it](https://replit.com/new/kotlin)

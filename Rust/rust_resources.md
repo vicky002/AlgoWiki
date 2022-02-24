@@ -18,7 +18,7 @@ category: Languages
 
 ## Documentation
 
-- _These are highly suggested bookmarks_
+##### These are highly suggested bookmarks_
 - [The Rust Programming Language - Rust Documentation](https://doc.rust-lang.org/book/)
 - [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
 - [Rust Guidelines](http://aturon.github.io/)
@@ -86,7 +86,7 @@ category: Languages
 - [Rust 101: Interactive Rust Tutorial](https://www.ralfj.de/projects/rust-101/main.html)
 - [Getting Started with Rust](http://aml3.github.io/RustTutorial/html/01.html)
 - [Rust For C++](https://ronald-liu.gitbooks.io/rust-for-c-/content/)
-- [Why Rust? | Rust Basics] (https://dumindu.gitbooks.io/rust-basics/content/why_rust.html)
+- [Why Rust? | Rust Basics](https://dumindu.gitbooks.io/rust-basics/content/why_rust.html)
 - [Why Rust? - O'Reilly Media](http://www.oreilly.com/programming/free/why-rust.csp)
 
 ## Frameworks

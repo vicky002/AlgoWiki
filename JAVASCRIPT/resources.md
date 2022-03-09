@@ -58,6 +58,9 @@ category: Languages
   - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
   - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
   - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
+  - [React Tutorial] (https://www.youtube.com/watch?v=Ke90Tje7VS0)
+  - [Angular Tutorial] (https://youtu.be/0eWrpsCLMJQ)
+
 - Coding Challenges
   - [Codecademy](http://www.codecademy.com/)
   - [Codewars](http://www.codewars.com/)
@@ -87,6 +90,7 @@ category: Languages
 
 - [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
 - [Angular todo app](https://www.youtube.com/watch?v=WuiHuZq_cg4)
+
 
 #### Newsletters
 

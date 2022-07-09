@@ -58,6 +58,8 @@ category: Languages
   - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
   - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
   - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
+  - [Asynchronous JavaScript](https://youtu.be/exBgWAIeIeg)
+  - [Redux Toolkit for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3)
 - Coding Challenges
   - [Codecademy](http://www.codecademy.com/)
   - [Codewars](http://www.codewars.com/)

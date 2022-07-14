@@ -20,6 +20,29 @@ category: Platform
 * [The man(1) of descent - Damian Conway](http://theweeks.org/xcssa/photos/files/sys-admin_V8/tpj/issues/vol3_4/tpj0304-0010.html) - Conway's explanation of Recursive Descent, a key algorithm for compiler design.
 
 
+## Courses
+*A list of Courses*
+
+* [Compilers (edX)](https://www.edx.org/course/compilers)
+* [SOE-YCSCS1 (Stanford)](https://online.stanford.edu/courses/soe-ycscs1-compilers)
+* [Compiler Design (Udemy)](https://www.udemy.com/course/compiler-design-n/)
+* [Compiler Design (NPTEL)](https://onlinecourses.nptel.ac.in/noc20_cs13/preview)
+
+
+## Playlists
+*A list of Playlists*
+
+* [Compiler Design (Gate Smashers)](https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc)
+* [Compiler Design (University Academy)](https://youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT)
+* [Compiler Design (GeeksforGeeks](https://www.geeksforgeeks.org/compiler-design-tutorials/)
+
+## Blogs
+*A list of Blogs *
+
+* [Compiler Design (Javatpoint)](https://www.javatpoint.com/compiler-tutorial)
+* [Compiler Design (Tutorialspoint](https://www.tutorialspoint.com/compiler_design/index.htm)
+
+
 ## Compilers
 *A list of compilers*
 

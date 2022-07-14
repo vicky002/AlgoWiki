@@ -83,6 +83,7 @@ category: Languages
 * [CSS Diner](https://flukeout.github.io)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 * [Grid Garden](http://cssgridgarden.com/)
 
 [⬆ Back to Top](#Index)

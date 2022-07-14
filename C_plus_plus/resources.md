@@ -68,6 +68,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
 * [The GNU C Library](http://elmerland.com/gnu_manual.html) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
 
+[Back To Top](#Everything-about-C++)
+
 ## Frameworks
 *C++ generic frameworks and libraries.*
 
@@ -99,11 +101,15 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
 * [Yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11. [Boost]
 
+[Back To Top](#Everything-about-C++)
+
 ## Artificial Intelligence
 
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
 * [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications. [BSD]
+
+[Back To Top](#Everything-about-C++)
 
 ## Asynchronous Event Loop
 
@@ -111,6 +117,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libuv](https://github.com/libuv/libuv) - Cross-platform asychronous I/O. [BSD]
+
+[Back To Top](#Everything-about-C++)
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
@@ -123,6 +131,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
 
+[Back To Top](#Everything-about-C++)
+
 ## Biology
 *Bioinformatics, Genomics, Biotech*
 
@@ -131,6 +141,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Vcflib](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
 
+[Back To Top](#Everything-about-C++)
+
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
 
@@ -138,6 +150,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
  * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
+
+ [Back To Top](#Everything-about-C++)
 
 ## Compression
 *Compression and Archiving Libraries*
@@ -157,6 +171,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [ZLib](http://zlib.net/) - A very compact compression library for data streams. [zlib]
 * [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. [MPL/LGPL]
 
+[Back To Top](#Everything-about-C++)
+
 ## Concurrency
 *Concurrency and Multithreading*
 
@@ -171,10 +187,14 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
 
+[Back To Top](#Everything-about-C++)
+
 ## Containers
 
 * [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
+
+[Back To Top](#Everything-about-C++)
 
 ## Cryptography
 *Cryptography and Encryption Libraries*
@@ -195,6 +215,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [retter](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
 
+[Back To Top](#Everything-about-C++)
+
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
@@ -208,6 +230,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
+
+[Back To Top](#Everything-about-C++)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
@@ -227,6 +251,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 
+[Back To Top](#Everything-about-C++)
+
 ## Game Engine
 
 * [Allegro](http://alleg.sourceforge.net) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
@@ -239,6 +265,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Polycode](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
 * [Torque2D](https://github.com/GarageGames/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. [MIT] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D) - An open-source C++ engine built for 3D game development. [MIT] [website](https://www.garagegames.com/products/torque-3d)
+
+[Back To Top](#Everything-about-C++)
 
 ## GUI
 *Graphic User Interface*
@@ -258,6 +286,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Sciter](http://www.terrainformatica.com/sciter/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 
+[Back To Top](#Everything-about-C++)
+
 ## Graphics
 
 * [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. [BSD]
@@ -271,6 +301,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 * [Open Graphics Library (OpenGL)](https://www.opengl.org/) :zap: - Cross-platform application programming interface (API) for rendering 2D and 3D vector graphics [SGI][link](http://www.sgi.com/tech/opengl/?/license.html)
 * [Anti-Grain Geometry](http://www.antigrain.com/) - A platform independent engine for rendering anti-aliased images from vectorial data. [GPL]
+
+[Back To Top](#Everything-about-C++)
 
 ## Image Processing
 
@@ -289,11 +321,15 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [VIGRA](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
+[Back To Top](#Everything-about-C++)
+
 ## Internationalization
 
 * [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext`. [GPL2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
+
+[Back To Top](#Everything-about-C++)
 
 ## Inter-process communication
 
@@ -306,6 +342,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [WAMP](http://wamp.ws/) - Provides RPC and pub/sub messaging patterns. (various implementations, various languages)
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
 * [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
+
+[Back To Top](#Everything-about-C++)
 
 ## JSON
 
@@ -331,6 +369,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. [ISC]
 
+[Back To Top](#Everything-about-C++)
+
 ## Logging
 
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
@@ -340,6 +380,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache 2.0]
 * [spdlog](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
+
+[Back To Top](#Everything-about-C++)
 
 ## Machine Learning
 
@@ -352,6 +394,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox. [GPLv3]
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. [Apache2]
+
+[Back To Top](#Everything-about-C++)
 
 ## Math
 
@@ -367,6 +411,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
 * [exprtk](http://www.partow.net/programming/exprtk/) - C++ Mathematical Expression Library
 
+[Back To Top](#Everything-about-C++)
+
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
@@ -375,6 +421,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. [zlib]
 * [SFML](http://www.sfml-dev.org/) :zap: - Simple and Fast Multimedia Library. [zlib]
+
+[Back To Top](#Everything-about-C++)
 
 ## Networking
 
@@ -397,6 +445,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 
+[Back To Top](#Everything-about-C++)
+
 ## Physics
 *Dynamics simulation engines*
 
@@ -409,6 +459,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 
+[Back To Top](#Everything-about-C++)
+
 ## Robotics
 
 * [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
@@ -417,6 +469,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. [BSD]
 * [RobWork](http://www.robwork.dk/jrobwork/) - A collection of C++ libraries for simulation and control of robot systems. [Apache2]
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
+
+[Back To Top](#Everything-about-C++)
 
 ## Scientific Computing
 
@@ -432,6 +486,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 
+[Back To Top](#Everything-about-C++)
+
 ## Serialization
 
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
@@ -441,6 +497,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
+[Back To Top](#Everything-about-C++)
+
 ## Video
 
 * [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
@@ -448,6 +506,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
 * [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/) - A free and open video compression format. [BSD]
+
+[Back To Top](#Everything-about-C++)
 
 ## Virtual Machines
 
@@ -465,6 +525,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
 
+[Back To Top](#Everything-about-C++)
+
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
 
@@ -478,6 +540,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [TinyXML2](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. [zlib]
 * [TinyXML++](https://code.google.com/p/ticpp/) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. [MIT]
 * [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. [Apache2]
+
+[Back To Top](#Everything-about-C++)
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
@@ -515,6 +579,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
+[Back To Top](#Everything-about-C++)
+
 # Software
 *Software for creating a development environment.*
 
@@ -533,6 +599,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
 
+[Back To Top](#Everything-about-C++)
+
 ## Online Compiler
 *List of online C/C++ compilers*
 
@@ -546,6 +614,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Rise4Fun](http://webcompiler.cloudapp.net/) - Online Visual C++ compiler.
 * [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 
+[Back To Top](#Everything-about-C++)
+
 ## Debugger
 *List of C/C++ debuggers*
 
@@ -554,6 +624,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
 * [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) - (also known as ASan) is a memory error detector for C/C++.
 * [x64_dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
+
+[Back To Top](#Everything-about-C++)
 
 ## Integrated Development Environment
 *List of C/C++ nominal IDEs.*
@@ -577,6 +649,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 
+[Back To Top](#Everything-about-C++)
+
 ## Build Systems
 
 * [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
@@ -590,6 +664,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 * [Premake](http://industriousone.com/premake) - A tool configured with lua scipt to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
 
+[Back To Top](#Everything-about-C++)
+
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
 
@@ -598,6 +674,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 * [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
+
+[Back To Top](#Everything-about-C++)
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
@@ -615,6 +693,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
+[Back To Top](#Everything-about-C++)
+
 ## Books
 *Fantastic C/C++ related books.*
 
@@ -623,6 +703,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [6 Free eBooks On C++ Game Programming](http://www.efytimes.com/e1/fullnews.asp?edid=120435) - Learn how to create graphics And video games in C++.
 
+[Back To Top](#Everything-about-C++)
+
 ## Coding Style
 
 * [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
@@ -630,6 +712,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 * [Linux kernel coding style](https://www.kernel.org/doc/Documentation/CodingStyle)
+
+[Back To Top](#Everything-about-C++)
 
 ## Talks
 
@@ -649,6 +733,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
 * [Derek Banas C++ in One Video](https://www.youtube.com/watch?v=Rub-JsjMhWY&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY) - Gives a good overview/review of the functionality of C++
 
+[Back To Top](#Everything-about-C++)
+
 ## Websites
 *Useful C/C++ related websites.*
 
@@ -662,6 +748,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 * [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
+
+[Back To Top](#Everything-about-C++)
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
@@ -698,4 +786,6 @@ C++ Books
 * [A Tour of C++](https://isocpp.org/tour) - Bjarne Stroustrup (PDF, Online)
 * [Let us C++  by Yashwant P Kanetkar](https://www.amazon.in/Let-Us-Yashavant-P-Kanetkar/dp/8176561061) - Amazon Link
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+
+[Back To Top](#Everything-about-C++)
 

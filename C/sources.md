@@ -53,6 +53,8 @@ This is released under the GNU Free Documentation License - its text is provided
 * [PCC][74] - A venerable C compiler. Supports C99. [Various licenses][75], all free.
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [GNU GPL2.1][8].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Crypto
 
@@ -63,6 +65,8 @@ This is released under the GNU Free Documentation License - its text is provided
 * [libsodium][198] - A modern and easy-to-use crypto library. [Expat][11].
 * [libtomcrypt][299] - A fairly comprehensive, modular and portable cryptographic toolkit. Public domain.
 * [mbed TLS][291] - Another crypto implementation for C. [GNU GPL2.1][8].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Database
@@ -79,6 +83,8 @@ This lists databases and data stores with C APIs.
 * [SQLite][22] - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. Public domain.
 * [UnQLite][23] - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD][24].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Documentation Generation
 
@@ -87,6 +93,8 @@ This lists databases and data stores with C APIs.
 * [Docutils][321] - A text-processing system to convert plain text documentation into a range of useful formats. Public domain.
 * [Doxygen][318] - The de-facto standard tool for generating C documentation from annotated sources. Can generate a large range of formats. [GNU GPL2.1][8].
 * [GTK-Doc][319] - A tool for generating C documentation from annotated sources. Has support for Autotools. [GNU LGPL2.1][15].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Editors
@@ -101,6 +109,8 @@ These are specifically fancier, IDE-type editors. If you want a programmer's tex
 * [KDevelop][44] - The KDE IDE. [GNU GPL2.1][8].
 * [NetBeans][260] - Another IDE written in Java. [GNU GPL2.1][8] or [CDDL][261].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Environments
 
@@ -108,6 +118,8 @@ This is a list of technologies designed to bring Windows into the 21st century w
 
 * [Cygwin][253] - Designed to emulate a POSIX-compatible environment extensively under Windows. [Various licenses, all free][254].
 * [MinGW-w64][287] - A minimalist environment for C development on Windows with 64 bit support. [Various licenses, all free][252].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Frameworks
@@ -127,6 +139,8 @@ This section has big libraries that provide data structures and other stuff you 
 * [qlibc][277] - A simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [qLib license][278] (similar to [FreeBSD][24]).
 * [stb][114] - A range of single-file libraries for C. Public domain.
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Game Programming
 
@@ -138,6 +152,8 @@ These are provided as examples of C game programming code.
 * [ioquake3][107] - The Quake3 engine, freed at last. [GNU GPL2.1][8]
 * [Quake][225] - The Quake engine. [GNU GPL2.1][8].
 * [Quake2][221] - The Quake2 engine. [GNU GPL2.1][8].
+
+[Back To Top](#AlgoWiki-C)
 
 #### Resources
 
@@ -153,11 +169,15 @@ These are libraries of all sorts that are useful for game programming.
 * [SDL][50] - A cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick and graphics hardware via OpenGL. [zlib][49].
 * [SDL2][301]- A a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL. This is the most current version. [zlib][49]
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Generic Programming
 
 * [klib][76] - Small and lightweight implementations of common algorithms and data structures. [Expat][11].
 * [SGLIB][30] - Simple Generic Library; an implementation of a range of generic programming structures and idioms in C. [GNU GPL3][41].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Graphics
@@ -172,6 +192,8 @@ These are libraries of all sorts that are useful for game programming.
 * [mozjpeg][200] - An improved JPEG encoder. [3-clause BSD][6].
 * [OpenGL][147] - The industry standard for high-performance graphics, with a native C binding. [Various licenses][148].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Graphical User Interface
 
@@ -183,6 +205,8 @@ These are specifically [widget toolkits][12].
 * [Tk][19] - A basic widget toolkit. Part of Tcl/Tk. [Tcl/Tk License][20].
 * [XForms Toolkit][21] - A widget toolkit designed for the XWindow system. [GNU LGPL2.1][15].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### JSON
 
@@ -191,6 +215,8 @@ These are specifically [widget toolkits][12].
 * [json-c][220] - A library for working with JSON. [Expat][11].
 * [WJElement][77] - Advanced JSON manipulation library, with support for JSON Schema. [GNU GPL3][41].
 * [YAJL][60] - A fast C JSON streaming parser library. [ISC][61]
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Learning, Reference and Tutorials
@@ -208,6 +234,8 @@ This is a list of resources for learning C programming in general, or something 
 * [GNU C Reference Manual][329]
 * [Robert Pike's notes on programming in C][273]
 
+[Back To Top](#AlgoWiki-C)
+
 ##### Beginner
 
 * [A tutorial on pointers][213]
@@ -217,6 +245,8 @@ This is a list of resources for learning C programming in general, or something 
 * [POSIX Threads Programming tutorial][263] (a little dated, but most of it is still valid and useful)
 * [The GNU C Programming Tutorial][212] (online PDF)
 * [Templating in C][267]
+
+[Back To Top](#AlgoWiki-C)
 
 ##### Intermediate
 
@@ -231,6 +261,8 @@ This is a list of resources for learning C programming in general, or something 
 * [What a C programmer should know about memory][271]
 * [What every C programmer should know about undefined behaviour][275]
 
+[Back To Top](#AlgoWiki-C)
+
 ##### Advanced
 
 * [A quick tutorial on implementing and debugging malloc, free, calloc, and realloc][204]
@@ -241,6 +273,8 @@ This is a list of resources for learning C programming in general, or something 
 * [Metaprogramming custom control structures in C][343]
 * [Some dark corners of C][210]
 * [Writing efficient C and C code optimization][33]
+
+[Back To Top](#AlgoWiki-C)
 
 ##### Self-study Courses
 
@@ -274,17 +308,23 @@ This is a list of resources for learning C programming in general, or something 
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 * [Let us C - Yashwant Kanetkar](https://www.pdfdrive.com/let-us-c-e33408389.html)
 
+[Back To Top](#AlgoWiki-C)
+
 ##### Beginner
 
 * [C Primer Plus 6E][184] - A complete tutorial on programming in C11.
 * [C Programming: A Modern Approach][64] - An excellent book to learn the basics from C from.
 * [Head First C][102] - A 'head-first' style book for learning C.
 
+[Back To Top](#AlgoWiki-C)
+
 ##### Intermediate
 
 * [21st Century C][35] - A very good *second* programming book on C.
 * [Understanding and Using C Pointers][36] - An in-depth resource on pointers in C.
 * [ZeroMQ][183] - A book for using ZeroMQ with C.
+
+[Back To Top](#AlgoWiki-C)
 
 ##### Advanced
 
@@ -296,6 +336,8 @@ This is a list of resources for learning C programming in general, or something 
 * [FFMPEG][63] - A complete, cross-platform solution to record, convert and stream audio and video. [GNU LGPL2.1][15], with some parts under [GNU GPL2.1][8].
 * [GStreamer][123] - A framework for audio and visual media. [GNU LGPL2.1][15].
 * [lodepng][69] - A simple PNG image decoder and encoder, requiring no other dependencies. [3-clause BSD][6].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Networking and Internet
@@ -331,6 +373,8 @@ This is a list of resources for learning C programming in general, or something 
 * [twitc][237] - A mini C library for interacting with the Twitter OAuth API. [GNU GPL3][41].
 * [ZeroMQ][52] - High-performance message passing networking library. Implemented in C++, but has a C interface. [GNU LGPL3][5].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Numerical
 
@@ -354,6 +398,7 @@ This is a list of resources for learning C programming in general, or something 
 * [SLEPc][283] - A software library for the solution of large, sparse eigenvalue problems on parallel computers. [GNU LGPL3][5].
 * [Yeppp!][72] - Very fast, SIMD-optimized mathematical library. [3-clause BSD][6].
 
+[Back To Top](#AlgoWiki-C)
 
 ### Parallel Programming
 
@@ -368,6 +413,8 @@ This is a list of resources for learning C programming in general, or something 
 * [SLEPc][283] - A software library for the solution of large, sparse eigenvalue problems on parallel computers. [GNU LGPL3][5].
 * [TinyCThread][115] - A portable, small implementation of the C11 threads API. [zlib][49].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Regex
 
@@ -378,6 +425,8 @@ This is a list of resources for learning C programming in general, or something 
 * [TRE][82] - A POSIX-compliant, feature-full regex library. [FreeBSD][24].
 * [T-Rex][81] - Another tiny regex library. [zlib][49].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Serialization
 
@@ -386,6 +435,8 @@ This is a list of resources for learning C programming in general, or something 
 * [msgpackalt][132] - A simple, light and fast binary serialization library. [3-clause BSD][6].
 * [protobuf-c][129] - An implementation of Google Protocol Buffer in C. [FreeBSD][24].
 * [xdr][131] - External Data Representation; a standard for data serialization. Standard (no license applicable).
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Source Code Collections
@@ -398,6 +449,8 @@ This contains collections of small source code. If you want something big and in
 * [libdjb][292] - A collection of libraries doing various things. (Apparently) public domain.
 * [ulib][154] - Another collection of source code. [Expat][11].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Standard Libraries
 
@@ -408,6 +461,8 @@ This contains standard C libraries.
 * [glibc][57] - The GNU C Library; an implementation of the C standard library. [GNU LGPL3][5].
 * [musl][10] - A standard C library, compatible with POSIX 2008 and C11. Designed for static linking. [Expat][11].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### String Manipulation
 
@@ -416,6 +471,8 @@ This contains standard C libraries.
 * [libunistring][173] - A library for manipulating Unicode strings in C. [GNU LGPL3][5].
 * [libgiconv][163] - A text conversion library. [GNU LGPL2.1][8].
 * [SDS][29] - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib][26]. [FreeBSD][24].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Testing
@@ -428,6 +485,8 @@ This contains standard C libraries.
 * [CUnit][94] - Another unit testing framework for C. [GNU LGPL2.1][15].
 * [minunit][92] - Minimal unit testing framework for C. [Expat][11].
 * [Unity][296] - A simple unit testing framework for C. [Expat][11].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### Text Editor Extensions
@@ -483,6 +542,8 @@ This is a list of useful programs to help you write and debug C code which are *
 * [unifdef][290] - Removes #ifdef and #if directives with their delimited text without touching any other part of the file. [3-clause BSD][6] and [FreeBSD][24].
 * [Valgrind][85] - A range of dynamic analysis tools, including a leak checker. [GNU GPL2.1][8].
 
+[Back To Top](#AlgoWiki-C)
+
 
 ### Utilities
 
@@ -528,6 +589,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [uthash][117] - A hash table implementation, allowing existing structures to be stored in a hash table easily. [1-clause BSD][118]
 * [Viola][241] - A simplification of libCello. [Expat][11].
 * [zlib][230] - A massively-spiffy yet delicately-unobtrusive compression library. [3-clause BSD][6].
+
+[Back To Top](#AlgoWiki-C)
 
 
 ### XML
@@ -891,3 +954,5 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [347]: http://cdecl.org/
 [348]: https://github.com/mpv-player/mpv
 [349]: http://ctp.mkprog.com/en/c/
+
+[Back To Top](#AlgoWiki-C)

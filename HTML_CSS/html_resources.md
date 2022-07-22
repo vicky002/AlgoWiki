@@ -67,6 +67,7 @@ category: Languages
 * [HTML HTML5DOCTOR](http://www.html5doctor.com/)
 * [HTML SOLOLEARN](https://www.sololearn.com/learning/1014)
 * [CSS Reference: CoDrops](http://tympanus.net/codrops/css_reference/)
+* [HTML Scaler Topics](https://www.scaler.com/topics/html)
 
 [⬆ Back to Top](#Index)
 

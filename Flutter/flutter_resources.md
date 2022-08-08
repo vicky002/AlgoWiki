@@ -37,6 +37,7 @@ category: Frameworks
 * [The Net Ninja - Flutter Tutorial for Beginners (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 * [The Net Ninja - Flutter & Firebase App Build (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 * [Traversy Media - Flutter Crash Course](https://www.youtube.com/watch?v=1gDhl4leEzA)
+* [The Boring Flutter Development Show](https://youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
 
 [⬆ Back to Top](#Index)
 

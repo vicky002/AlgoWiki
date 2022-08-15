@@ -27,6 +27,7 @@ Python Development Resources
 - [Hosting](#hosting)
 - [Books](#books)
 - [Podcasts](#podcasts)
+- [Games](#games)
 
 ## Guides
  - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
@@ -214,3 +215,8 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
  - [Python testing](http://pythontesting.net/test-podcast/)
  - [Import this](https://www.kennethreitz.org/import-this/)
  - [Python Bytes](https://pythonbytes.fm/)
+
+## Games
+* [Code Combat](https://codecombat.com/)
+* [CheckiO](https://py.checkio.org/)
+* [Codin Game](https://www.codingame.com/start)

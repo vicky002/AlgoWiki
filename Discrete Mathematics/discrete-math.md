@@ -17,6 +17,8 @@ Discrete Mathematics
 
 * [Set Theory](http://math.boisestate.edu/~holmes/holmes/head.pdf) - Elementary set theory with a Universal Set
 
+* [Introduction to Set Theory](https://www.scaler.com/topics/sql/Set-theory/) - Scaler topics
+
 ## Videos
 *Video tutorials for Discrete mathematics.*
 

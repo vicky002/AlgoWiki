@@ -220,7 +220,9 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://quiz.geeksforgeeks.org/bubble-sort/)
  - [Article](https://en.wikipedia.org/wiki/Bubble_sort)
  - [Article](http://www.algolist.net/Algorithms/Sorting/Bubble_sort)
+ - [Article](https://www.scaler.com/topics/data-structures/bubble-sort/)
  - [Video](https://www.youtube.com/watch?v=y_Nuui4Qf-k)
+
 
 ### Selection Sort
  - [Article](http://quiz.geeksforgeeks.org/selection-sort/)

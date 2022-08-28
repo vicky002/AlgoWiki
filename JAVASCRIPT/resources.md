@@ -45,7 +45,7 @@ category: Languages
 - Video:
   - [Egghead](https://egghead.io/)
   - [Frontend Masters](http://frontendmasters.com/)
-  - [Lynda: NodeJS Essential Training](http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html)
+  - [LinkedIn Learning: Node.js Essential Training](https://www.linkedin.com/learning/node-js-essential-training-14888164/)
   - [Pluralsight: JavaScript](http://www.pluralsight.com/tag/javascript)
   - [Node Tuts](http://nodetuts.com/)
   - [Scotch](http://scotch.io/tutorials)

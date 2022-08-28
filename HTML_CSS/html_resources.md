@@ -118,6 +118,7 @@ category: Languages
 
 ## Tools
 --------
+* [Web Tools for HTML-CSS Generator](https://webcode.tools/)
 * [Clippy CSS clip-path Maker](https://bennettfeely.com/clippy/)
 * [CSS Arrow Generator](http://www.cssarrowplease.com/)
 * [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)

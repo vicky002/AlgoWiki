@@ -204,3 +204,4 @@ category: Languages
 - https://github.com/bolshchikov/js-must-watch
 - https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
 - https://www.javatpoint.com/javascript-tutorial
+- https://www.scaler.com/topics/javascript/

@@ -448,6 +448,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://guide.couchdb.org/draft/btree.html)
  - [Article](http://www.bluerwhite.org/btree/)
  - [Article](http://cis.stvincent.edu/html/tutorials/swd/btree/btree.html)
+ - [Article](https://www.scaler.com/topics/data-structures/b-tree-in-data-structure/)
  - [Video](https://www.youtube.com/watch?v=coRJrcIYbF4)
 
 ### B-tree and UB-tree

@@ -11,6 +11,8 @@ category: Platforms
 # Courses
 - https://www.coursera.org/learn/embedded-operating-system
 - https://in.udacity.com/course/introduction-to-operating-systems--ud923
+- https://www.classcentral.com/course/swayam-introduction-to-operating-systems-6559
+
 
 [⬆ Back to top](#table-of-contents)
 
@@ -25,6 +27,7 @@ category: Platforms
   - [Studytonight: Operating System](http://www.studytonight.com/operating-system/introduction-operating-systems)
   - [TutorialsPoint: Operatig System](https://www.tutorialspoint.com/operating_system/)
   - [Codescracker: Operating System](https://codescracker.com/operating-system/)
+  -[geeksforgeeks: Operating System](https://www.geeksforgeeks.org/operating-systems/)
 
 [⬆ Back to top](#table-of-contents)
 

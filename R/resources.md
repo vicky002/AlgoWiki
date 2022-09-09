@@ -29,6 +29,7 @@ category: Languages
 * [Building R Packages - Coursera](https://www.coursera.org/learn/r-packages)
 * [Building Data Visualization Tools - Coursera](https://www.coursera.org/learn/r-data-visualization)
 * [Statistics and R - edX](https://www.edx.org/course/statistics-and-r)
+* [Learn R with codecademy](https://www.codecademy.com/learn/learn-r)
 * [Introduction to R for Data Science - edX](https://www.edx.org/course/introduction-r-data-science-1)
 * [Analyzing Big Data with Microsoft R - edX](https://www.edx.org/course/analyzing-big-data-microsoft-r-2)
 * [Programming in R for Data Science - edX](https://www.edx.org/course/programming-in-r-for-data-science)

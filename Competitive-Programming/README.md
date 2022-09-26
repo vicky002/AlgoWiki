@@ -169,6 +169,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
+| ★★★ | [C2-ladders](https://c2-ladders.com) | Mixed |
 | ★★★ | [A2 Online Judge](https://a2oj.com/Categories.jsp) | Mixed |
 | ★★★ | [Problem Classifier](http://problemclassifier.appspot.com/) | SPOJ |
 | ★★☆ | [UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) | CP Book |
@@ -342,6 +343,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Mikhail Tikhomirov (Endagorion) | [Youtube](https://www.youtube.com/user/Endagorion/) |
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
 | mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool) |
+| TakeUForward   |  [Youtube](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig) |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).

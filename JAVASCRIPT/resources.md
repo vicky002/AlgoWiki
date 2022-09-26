@@ -52,6 +52,7 @@ category: Languages
   - [TutsPlus: JavaScript](http://code.tutsplus.com/categories/javascript/courses)
   - [bolshcikov: js must watch](https://github.com/bolshchikov/js-must-watch)
   - [Derek Banas: JavaScript Tutorial](https://www.youtube.com/watch?v=fju9ii8YsGs)
+  - [Learn Javascript for free](https://scrimba.com/learn/learnjavascript)
   - [JavaScript 30](https://javascript30.com/)
   - [Udacity: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
   - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)

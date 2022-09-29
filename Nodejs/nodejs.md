@@ -1,6 +1,6 @@
 ---
 title: NodeJS
-category: Frameworks
+category: Runtime Environment
 ---
 
 Resources For Learning Nodejs
@@ -9,7 +9,7 @@ Resources For Learning Nodejs
 ## What is Nodejs?
 ----------------
 
-Nodejs is an open source javascript framework for building scalable server-side applications.
+Nodejs is an open source javascript runtime environment for building scalable server-side applications.
 Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
 ## Where to use Nodejs?

@@ -40,6 +40,8 @@ category: Languages
 - [Code Translation Project - JavaScript](http://ctp.mkprog.com/en/javascript/)
 - [TogetherJS](https://togetherjs.com/docs/)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Courses
 
 - Video:
@@ -70,12 +72,16 @@ category: Languages
   - [WebSchool.io: Javascript](https://www.youtube.com/watch?v=KHystvLmVeA&list=PL77JVjKTJT2ieRNlfVYqzd95ultVcR1q2)
   - [WebSchool.io: Vue.js](https://www.youtube.com/watch?v=xfZsoEZpit4&list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Short Guides
 
 - [JavaScript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Douglas Crockford's JavaScript](https://www.crockford.com/javascript/)
 - [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Podcasts
 
@@ -86,10 +92,14 @@ category: Languages
 - [The Vanilla JS Podcast](https://vanillajspodcast.com/)
 - [JS Talks](https://js-talks.netlify.app/)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Videos
 
 - [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
 - [Angular todo app](https://www.youtube.com/watch?v=WuiHuZq_cg4)
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Newsletters
 
@@ -100,10 +110,14 @@ category: Languages
 - http://www.sitepoint.com/newsletter/
 - http://superherojs.com/
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Lists of Blogs
 
 - http://www.quora.com/What-are-some-good-JavaScript-blogs-aggregators-to-follow
 - https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Blogs - Single Author
 
@@ -119,12 +133,16 @@ category: Languages
 - https://flaviocopes.com/
 - https://www.valentinog.com/blog/redux/
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Blogs - Multiple Authors
 
 - http://howtonode.org/
 - http://blog.jquery.com/
 - http://blog.mozilla.org/javascript/
 - http://sixrevisions.com/category/javascript/
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Books
 
@@ -158,12 +176,16 @@ category: Languages
 - [The Node Beginner Book](http://nodebeginner.org/) - Manuel Kiessling
 - [Deploying NodeJs](https://deployingnodejs.com/) - Kati Frantz
 
+[⬆ Back to Top](#table-of-contents)
+
 #### Lists of Books
 
 - [Best JavaScript Books](http://www.goodreads.com/list/show/10757.Best_JavaScript_Books)
 - [Manning Catalog by Subject](https://www.manning.com/catalog/sort/sort-by-subject)
 - [JavaScript Development and Resources (Oreilly)](http://oreilly.com/javascript/)
 - [JavaScript (Oreilly)](http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1)
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Offline
 
@@ -172,6 +194,8 @@ category: Languages
 - http://www.meetup.com/
 - http://nodeschool.io/
 - https://github.com/beerjs
+
+[⬆ Back to Top](#table-of-contents)
 
 #### Conferences
 
@@ -192,11 +216,15 @@ category: Languages
 - http://nodeconf.com/
 - http://nodesummit.com/
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Jobs
 
 - http://careers.stackoverflow.com/jobs/tag/nodejs
 - https://jsjobbs.com/
 - https://www.linkedin.com/jobs/search/?currentJobId=3226766290&keywords=javascript%20developer&refresh=true
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Other Resource Lists
 
@@ -206,3 +234,5 @@ category: Languages
 - https://github.com/bolshchikov/js-must-watch
 - https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
 - https://www.javatpoint.com/javascript-tutorial
+
+[⬆ Back to Top](#table-of-contents)

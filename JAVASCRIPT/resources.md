@@ -69,6 +69,8 @@ category: Languages
   - [freeCodeCamp](https://www.freecodecamp.org/)
   - [WebSchool.io: Javascript](https://www.youtube.com/watch?v=KHystvLmVeA&list=PL77JVjKTJT2ieRNlfVYqzd95ultVcR1q2)
   - [WebSchool.io: Vue.js](https://www.youtube.com/watch?v=xfZsoEZpit4&list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
+  - [React in Hindi](https://youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
+  - [React & React Native by CS50](https://youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 
 #### Short Guides
 

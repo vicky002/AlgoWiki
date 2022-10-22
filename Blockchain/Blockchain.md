@@ -12,6 +12,8 @@
 * [Mastering Blockchain](http://ibs.edu.sg/repos/MASTERING%20BLOCKCHAIN%201ST%20EDITION.pdf)
 * [Mastering Bitcoin - O'reilly](https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf)
 * [Blockchain for Beginners](http://bford.info/log/2016/1102-cybsec-blockchain.pdf)
+* [beginning-blockchain-guide-building-solutions.pdf](https://github.com/ishabhthakur/AlgoWiki/files/9844353/beginning-blockchain-guide-building-solutions.pdf)
+
 
 ## White Paper
 --------

@@ -26,4 +26,5 @@ Discrete Mathematics
 
 * [Counting and Probablility](http://artofproblemsolving.com/videos/counting) - Counting and Probability videos from AOPS
 
+* [Counting and Probablility](http://artofproblemsolving.com/videos/counting) - Counting and Probability videos from AOPS
 

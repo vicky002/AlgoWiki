@@ -26,5 +26,5 @@ Discrete Mathematics
 
 * [Counting and Probablility](http://artofproblemsolving.com/videos/counting) - Counting and Probability videos from AOPS
 
-* [Counting and Probablility](http://artofproblemsolving.com/videos/counting) - Counting and Probability videos from AOPS
+* [Discrete Math I (Entire Course)](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) - Discrete Math I course by Kimberly Brehm
 

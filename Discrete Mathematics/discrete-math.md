@@ -20,7 +20,7 @@ Discrete Mathematics
 ## Videos
 *Video tutorials for Discrete mathematics.*
 
-* [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) - Mathematics for Computer Science from MIT OCW
+* [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) - Mathematics for Computer Science from MIT OCW
 
 * [CSE 547 Discrete Mathematics](http://www3.cs.stonybrook.edu/~algorith/math-video/) - Skiena's CSE 547 Discrete Mathematics Lecture Videos
 

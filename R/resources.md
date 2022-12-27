@@ -58,5 +58,7 @@ category: Languages
 * [PDFs for Beginners](https://www.dropbox.com/sh/vawqdv9bp32v4yg/AABhmF_zWAh1vM7e-HmfXZfKa?dl=0)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Advanced R](http://adv-r.had.co.nz/)
-* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 * [The Art of R Programming by Norman Matloff](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
+
+[⬆ Back to Top](#table-of-contents)

@@ -1,10 +1,27 @@
+---
+title: Artificial Intelligence
+category: Libraries
+---
+
 # Artificial Intelligence (AI)
 
-A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
+A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
 Contributions most welcome.
 
 ![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
+
+## Index
+- [Online Courses](#online-courses)
+- [Books About Artificial Intelligence](#books-about-artificial-intelligence)
+- [Programming](#programming)
+- [Philosophy of AI](#philosophy-of-ai)
+- [Free Content](#free-content)
+- [Code](#code)
+- [Videos/Talks](#videostalks)
+- [Learning](#learning)
+- [Misc](#misc)
+- [Podcasts](#podcasts)
 
 ## Online Courses
 
@@ -16,6 +33,10 @@ Contributions most welcome.
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
 * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
+* [Practical Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math and also without dumbing anything down.
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
+
+[⬆ Back to Top](#index)
 
 ## Books About Artificial Intelligence
 
@@ -25,16 +46,23 @@ Contributions most welcome.
 * [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) - In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work
 * [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) - Beginning with elementary reactive agents, Nilsson gradually increases their cognitive horsepower to illustrate the most important and lasting ideas in AI
 
+[⬆ Back to Top](#index)
+
 ## Programming
 
 * [Prolog Programming for Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
 
+[⬆ Back to Top](#index)
+
 ## Philosophy of AI
 
-* [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book. 
+* [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
+* [On Intelligence](http://www.amazon.in/Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins, develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines.
+
+[⬆ Back to Top](#index)
 
 ## Free Content
 
@@ -43,17 +71,25 @@ Contributions most welcome.
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 * [Artificial Intelligence and Molecular Biology](http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
-* [Brief Introduction to Educational Implications of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks. 
+* [Brief Introduction to Educational Implications of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia:Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
+* [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on AI and ML, including neural networks, deep learning, and NLP.
+
+[⬆ Back to Top](#index)
 
 ## Code
 
 * [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
 
+[⬆ Back to Top](#index)
+
 ## Videos/Talks
 
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+* [Stanford University School of Engineering: Convolutional Neural Networks for visual recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Youtube playlist that elaborately discusses about the fundamentals of building a convolutional neural network model and also the functionality of different types of neural networks.
+
+[⬆ Back to Top](#index)
 
 ## Learning
 
@@ -62,6 +98,21 @@ Contributions most welcome.
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
 
+[⬆ Back to Top](#index)
+
 ## Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
+* [AI APIs To Implement](https://developer.ibm.com/api/list)
+
+## Podcasts
+
+* [The AI Podcast](https://player.fm/series/the-ai-podcast)
+* [Artifically Intelligent](https://player.fm/series/artificially-intelligent)
+* [Gigaom AI Minute](https://player.fm/series/gigaom-ai-minute)
+* [Concerning AI | Existential Risk From Artificial Intelligence](https://player.fm/series/concerning-ai-existential-risk-from-artificial-intelligence)
+* [Artificial Intelligence in Industry with Dan Faggella](https://player.fm/series/artificial-intelligence-in-industry-with-dan-faggella)
+* [O'Reilly Bots Podcast - O'Reilly Media Podcast](https://player.fm/series/oreilly-bots-podcast-oreilly-media-podcast)
+
+
+[⬆ Back to Top](#index)

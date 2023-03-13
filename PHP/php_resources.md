@@ -1,3 +1,8 @@
+---
+title: PHP
+category: Languages
+---
+
 amazingly awesome PHP libraries, resources and shiny things.
 
 ## Table of Contents
@@ -72,6 +77,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 	- [PHP Videos](#php-videos)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
+- [Content Management Systems](#cms)
 - [Contributing](#contributing)
 
 ## Dependency Management
@@ -98,7 +104,8 @@ amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 5](http://laravel.com/) - Another PHP framework.
+* [Laravel 8](https://laravel.com/docs/8.x/) - A web application framework with expressive, elegant syntax. 
+* [Codeigniter](https://codeigniter.com/user_guide/index.html) - A powerful PHP framework with a very small footprint. 
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
@@ -201,7 +208,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for file manipulation and MIME type detection.*
 
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
+* [League\Flysystem](https://github.com/thephpleague/flysystem) - Another filesystem abstraction layer.
 * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
@@ -220,6 +227,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement the dependency injection design pattern.*
 
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Nette DI](https://github.com/nette/di) - Full fledged dependency injection container with autowiring
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
@@ -262,6 +270,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Nette Tester](https://tester.nette.org/en/) - Testing library from author of [Nette Framework](https://nette.org/en/).
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
@@ -269,9 +278,11 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [SemaphoreCI](https://semaphoreapp.com/) - A continuous integration platform for open source and private projects.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
+* [PHP Censor](https://github.com/php-censor/php-censor) - An open source self-hosted continuous integration server for PHP projects.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Jenkins](http://jenkins-ci.org/) A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+* [Grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool, which can be useful on dev stage
 
 ## Documentation
 *Libraries for generating project documentation.*
@@ -280,6 +291,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [apidocjs](http://apidocjs.com/) - A documentation generator based on PHP Anntotations
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -295,6 +307,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Argon2](https://github.com/charlesportwoodii/php-argon2-ext) - A next generation of BCrypt hash, with CPU/GPU/Memory constraints
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -329,6 +342,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PHPStan](https://github.com/phpstan/phpstan) - A tool for static analysis of PHP code.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
@@ -357,6 +371,7 @@ amazingly awesome PHP libraries, resources and shiny things.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Blackfire.io](http://blackfire.io) - A low-overhead code profiler.
+* [PHPSPX](https://github.com/NoiseByNorthwest/php-spx) A PHP profiling extension.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -565,6 +580,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+* [Money](https://github.com/sebastianbergmann/money) A Value Object that represents a monetary value (and stores it correctly in database)
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
@@ -719,7 +735,7 @@ Libraries to help manage database schemas and migrations.
 *Alternative PHP virtual machines.*
 
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-* [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
+* [HippyVM](http://hippyvm.baroquesoftware.com) - Another PHP virtual machine.
 * [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
 
 ## Integrated Development Environment
@@ -751,10 +767,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
+* [PHP Reference](http://ctp.mkprog.com/en/php/) - with examples and comparison to other languages
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 * [Nomad PHP](http://nomadphp.com/) - A online PHP learning resource.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
+* [PHPToday](https://www.phptoday.org/) - Community driven news website for PHP developers.
 
 ## Other Websites
 *Useful websites related to web development.*
@@ -766,6 +784,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
+* [Online PHP interpreter](http://sandbox.onlinephpfunctions.com/) - Test your code snippet on various PHP versions.
 
 ## PHP Books
 *Fantastic PHP-related books.*
@@ -833,3 +852,11 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
 * Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
+
+## Content Management System
+
+* [WordPress](https://wordpress.org/)
+* [Drupal](http://www.drupal.com/)
+* [Joomla](https://www.joomla.com/)
+
+## Contributing

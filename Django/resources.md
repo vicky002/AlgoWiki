@@ -1,8 +1,13 @@
-Django Python Web Framework
----------------------------
+---
+title: Django
+category: Frameworks
+---
 
-- [Django](#django)
-    - [Admin Interface](#admin-interface)
+## Django
+------------------------------
+
+[Django](#django) -->
+     [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -51,6 +56,7 @@ Django Python Web Framework
 - [Utilities](#utilities)
 - [Contributing](#contributing)
 
+
 ## Admin interface
 
 *Packages that extend the Admin interface, adding or improving features.*
@@ -70,6 +76,8 @@ Django Python Web Framework
 * [django-wpadmin](https://github.com/barszczmm/django-wpadmin/) - WordPress look and feel for Django administration panel.
 * [yawd-admin](https://github.com/yawd/yawd-admin/) - An administration website for Django
 
+[Back To Top](#Django)
+
 ## Asset Management
 
 *Packages that help manage the static assets of a project.*
@@ -78,6 +86,9 @@ Django Python Web Framework
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
 * [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-pipeline](https://github.com/cyberdelia/django-pipeline/) - Asset packaging for Django.
+
+[Back To Top](#Django)
+
 
 ## Authentication
 
@@ -91,6 +102,8 @@ Django Python Web Framework
 * [django-userena](https://github.com/bread-and-pepper/django-userena/) - Accounts for Django made beautifully simple
 * [python-social-auth](https://github.com/omab/python-social-auth/) - Python Social Auth is an easy-to-setup social authentication/registration mechanism with support for several frameworks and auth providers.
 
+[Back To Top](#Django)
+
 ## Authorization
 
 *Packages related to authorization infrastructure and permissions.*
@@ -101,6 +114,8 @@ Django Python Web Framework
 * [django-oml](https://github.com/RouteAtlas/django-oml/) - Object Moderation Layer, mixin for models that allows you moderate several content types.
 * [django-permission](https://github.com/lambdalisue/django-permission/) An enhanced permission library which enables a *logic-based permission system* to handle complex permissions in Django
 * [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database. At its core, it is a generic framework for building rule-based systems, similar to decision trees. It can also be used as a standalone library in other contexts and frameworks.
+
+[Back To Top](#Django)
 
 ## Caching
 
@@ -113,12 +128,16 @@ Django Python Web Framework
 * [django-ormcache](https://github.com/educreations/django-ormcache/) - A cache manager mixin that provides some caching of objects for the ORM.
 * [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache is a caching framework for django applications.
 
+[Back To Top](#Django)
+
 ## Compatibility
 
 *Packages that help to keep compatibility of reusable apps between different Django versions.*
 
 * [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for Django 1.4 to 1.7.x.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
+
+[Back To Top](#Django)
 
 ## Debugging
 
@@ -128,6 +147,8 @@ Django Python Web Framework
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
 * [django-querycount](https://github.com/bradmontgomery/django-querycount/) - Middleware that Prints the number of DB queries to the runserver console.
 * [django-silk](https://github.com/mtford90/silk/) - Silky smooth profiling for Django
+
+[Back To Top](#Django)
 
 ## Email
 
@@ -142,6 +163,8 @@ Django Python Web Framework
 * [django-templated-email](https://github.com/BradWhittington/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 * [django-yubin](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews with some extras.
 * [djrill](https://github.com/brack3t/Djrill/) - Email backend and new message class for Mandrill transactional email service from MailChimp.
+
+[Back To Top](#Django)
 
 ## Fields
 
@@ -158,12 +181,16 @@ Django Python Web Framework
 * [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - A UUIDField for Django.
 * [django-versatileimagefield](https://github.com/WGBH/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 
+[Back To Top](#Django)
+
 ## File Transfers
 
 *Packages that help transfer files between projects and users*
 
 * [django-downloadview](https://github.com/benoitbryon/django-downloadview/) - Serve files with Django.
 * [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
+
+[Back To Top](#Django)
 
 ## Forms
 
@@ -175,6 +202,8 @@ Django Python Web Framework
 * [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms/) - django-floppyforms is an application that gives you full control of the output of forms rendering. The forms API and features are exactly the same as Django’s, the key difference is that fields and widgets are rendered in templates instead of using string interpolation, giving you full control of the output using Django templates.
 * [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light/) - django-autocomplete-light's purpose is to enable autocompletes quickly and properly in a django project.
 
+[Back To Top](#Django)
+
 ## GIS
 
 *Packages that make it easier to work with geographical information system projects.*
@@ -182,11 +211,15 @@ Django Python Web Framework
 * [django-geoposition](https://github.com/philippbosch/django-geoposition/) - A model field that can hold a geoposition (latitude/longitude), and corresponding admin/form widget.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with Google Maps.
 
+[Back To Top](#Django)
+
 ## Image handling
 
 *Packages that help to manipulate, alter, or convert images.*
 
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
+
+[Back To Top](#Django)
 
 ## RESTful API
 
@@ -198,11 +231,15 @@ Django Python Web Framework
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
 
+[Back To Top](#Django)
+
 ## Migrations
 
 *Packages that help migrate the database when there are schema updates.*
 
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
+
+[Back To Top](#Django)
 
 ## Mobile Support
 
@@ -210,6 +247,8 @@ Django Python Web Framework
 
 * [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - A minimal Django app that implements Device models that can send messages through APNS and GCM.
 * [django-pushy](https://github.com/rakanalh/django-pushy) - Django app that provides push notifications functionality with celery. The main purpose of this app is to help you send push notifications to your users at scale. If you have lots of registered device keys, django-pushy will split your keys into smaller groups which run in parallel making the process of sending notifications faster.
+
+[Back To Top](#Django)
 
 ## Model Extensions
 
@@ -220,6 +259,8 @@ Django Python Web Framework
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 * [django-treebeard](https://github.com/tabo/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
+
+[Back To Top](#Django)
 
 ## Payment Processing
 
@@ -234,9 +275,13 @@ Django Python Web Framework
 * [django-oscar-paypal](https://github.com/django-oscar/django-oscar-paypal/) - PayPal integration for django-oscar. Can be used without Oscar too.
 * [django-zebra](https://github.com/GoodCloud/django-zebra/) - Forms, widgets, template tags and examples that make Stripe + Django easier.
 
+[Back To Top](#Django)
+
 ## Project Management
 
 * [django-timepiece](https://github.com/caktus/django-timepiece/) - A multi-user Django application for tracking people's time on projects.
+
+[Back To Top](#Django)
 
 ## Search
 
@@ -244,6 +289,8 @@ Django Python Web Framework
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
 * [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
+
+[Back To Top](#Django)
 
 ## Security
 
@@ -257,6 +304,8 @@ Django Python Web Framework
 * [django-sslify](https://github.com/rdegges/django-sslify/) - Force SSL on your Django site.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold/) - Stronghold is middleware to default all your views to login required.
 
+[Back To Top](#Django)
+
 ## SEO
 
 *Packages that help improve SEO ( Search Engine Optimization ) of projects.*
@@ -264,6 +313,8 @@ Django Python Web Framework
 * [django-meta](https://github.com/nephila/django-meta/) - a pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 * [django-seo](https://github.com/willhardy/django-seo/) - Provides a set of tools for managing Search Engine Optimisation (SEO) for Django sites.
 * [django-robots](https://github.com/jezdez/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol.
+
+[Back To Top](#Django)
 
 ## Settings
 
@@ -274,6 +325,8 @@ Django Python Web Framework
 * [python-decouple](https://github.com/henriquebastos/python-decouple/) - Strict separation of config from code.
 * [django-environ](https://github.com/joke2k/django-environ) - Allows you to utilize 12factor inspired environment variables to configure your Django application.
 
+[Back To Top](#Django)
+
 ## Storage
 
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
@@ -283,11 +336,14 @@ Django Python Web Framework
 * [django-webdav-storage](https://github.com/marazmiki/django-webdav-storage) - Django storage backend that stores files in custom WebDAV storage.
 * [django-selectel-storage](https://github.com/marazmiki/django-selectel-storage) - This application allows you easily save media and static files into [Selectel](https://selectel.ru/) cloud storage.
 
+[Back To Top](#Django)
 
 
 ## Tagging
 
 * [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
+
+[Back To Top](#Django)
 
 ## Task Queue
 
@@ -296,6 +352,8 @@ Django Python Web Framework
 * [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
+
+[Back To Top](#Django)
 
 ## Testing
 
@@ -314,6 +372,8 @@ Django Python Web Framework
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
 
+[Back To Top](#Django)
+
 ## Thumbnail
 
 *Packages that help generate thumbnails.*
@@ -321,6 +381,8 @@ Django Python Web Framework
 * [django-stdimage](https://github.com/codingjoe/django-stdimage/) - Thumbnails and image utils for Django.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
 * [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail/) - Thumbnails for Django.
+
+[Back To Top](#Django)
 
 ## Translations
 
@@ -332,17 +394,23 @@ Django Python Web Framework
 * [django-parler](https://github.com/edoburu/django-parler) - Simple Django model translations without nasty hacks
 * [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
 
+[Back To Top](#Django)
+
 ## Views
 
 *Packages that enhance or provide new view classes.*
 
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
 
+[Back To Top](#Django)
+
 ## Web frontend integration
 
 * [django-angular](https://github.com/jrief/django-angular/) - Let AngularJS play well with Django.
 * [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
 * [djangular](https://github.com/appliedsec/djangular/) - A reusable Django app that provides better integration and tools for Angular.js.
+
+[Back To Top](#Django)
 
 ## WYSIWYG Editors
 
@@ -354,10 +422,14 @@ Django Python Web Framework
 * [django-wysiwyg](https://github.com/pydanny/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
 * [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
 
+[Back To Top](#Django)
+
 ## Wiki apps
 
 * [django-wiki](https://github.com/django-wiki/django-wiki) A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 * [waliki](https://github.com/mgaitan/waliki) An extensible wiki app for Django with a Git backend.
+
+[Back To Top](#Django)
 
 ## Workflows
 
@@ -369,6 +441,8 @@ Django Python Web Framework
 * [django-viewflow](https://github.com/kmmbvnr/django-viewflow/) - Reusable workflow library for Django.
 * [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) - django-workflows provides a generic workflow engine for Django.
 * [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) - Library to plug xworkflows into django models.
+
+[Back To Top](#Django)
 
 ## Other
 
@@ -402,6 +476,8 @@ Django Python Web Framework
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 
+[Back To Top](#Django)
+
 # Projects
 
 *Outstanding Django projects.*
@@ -433,13 +509,15 @@ Django Python Web Framework
 * [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
 * [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
 
+[Back To Top](#Django)
+
 # Resources
 
 Where to discover new Django apps and projects.
 
 ## Books
 
-* [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8/) - A best practice book for making Python and Django as fun as ice cream.
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) - A best practice book for making Python and Django as fun as ice cream.
 * [High Performance Django](https://highperformancedjango.com/) (1.7) - Deploying fast, scalable Django sites.
 * [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do) (1.7) - Using REST, WebSockets, and Backbone with Django
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
@@ -449,9 +527,13 @@ Where to discover new Django apps and projects.
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+* [The Django Book](https://djangobook.com/the-django-book/) (1.8)
+
+[Back To Top](#Django)
 
 ## Websites
 
+* [Django Official documentation](https://docs.djangoproject.com/en/1.11/) - Official documentation for Django.
 * [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
 * [Django Packages](https://www.djangopackages.com/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
@@ -459,6 +541,8 @@ Where to discover new Django apps and projects.
 * [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
 * [Mastering Django: Core](http://masteringdjango.com/django-book/) - teaches core django,also AKA
 as the NEW DJANGO BOOK.
+
+[Back To Top](#Django)
 
 
 ## Conferences
@@ -470,13 +554,19 @@ as the NEW DJANGO BOOK.
 * [DjangoCon Europe](http://www.djangocon.eu/) - is the annual largest European-based Django conference that is usually held in late spring.
 * [DjangoCon US](http://www.djangocon.us/) - is the largest North American Django conference generally held the first week in September each year.
 
+[Back To Top](#Django)
+
 ## Videos
 
-* [Must Watch Django Videos](https://github.com/rosarior/django-must-watch/) - Must-watch videos about Django (or about Python as applied to Django)
+* [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
 * [GoDjango](https://godjango.com) - Django videos from basics to advanced. Covering 3rd party apps to core Django compontents.
+
+[Back To Top](#Django)
 
 # Utilities
 
 *Non Django projects that make it easier to work with Django*
 
 * [Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere/) - Run manage.py commands from anywhere. Finds closest to current path manage.py file and runs commands against it.
+
+[Back To Top](#Django)

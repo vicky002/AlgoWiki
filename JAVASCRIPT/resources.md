@@ -1,117 +1,113 @@
-Books
-=====
-JavaScript
------------
-* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
-* [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
-* [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
-* [Dev Docs](http://devdocs.io/)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) - Addy Osmani
-* [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/) - Marijn Haverbeke
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [Human Javascript](http://read.humanjavascript.com/)
-* [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
-* [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
-* [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley
-* [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
-* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
-* [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
-* [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
-* [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
-* [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
-* [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
-* [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
-* [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
-* [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
-* [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/) - Noel Rappin
-* [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](http://leanpub.com/marionetteexpose) - Jack Killilea
-* [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
-* [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
-* [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
-* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
-* [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
-* [The JavaScript Tutorial](http://javascript.info/)
-* [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
-* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+---
+title: JavaScript
+category: Languages
+---
 
+# JavaScript
 
+### Table of Contents
 
-Node.js
--------
-* [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
-* [Mixu's Node Book](http://book.mixu.net/node/)
-* [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
-* [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
-* [The Node Beginner Book](http://nodebeginner.org/)
+- [Online](#online)
+  - [Documentation](#documentation)
+  - [Courses](#courses)
+  - [Short Guides](#short-guides)
+  - [Podcasts](#podcasts)
+  - [Videos](#videos)
+  - [Newsletters](#newsletters)
+  - [Lists of Blogs](#list-of-blogs)
+  - [Blogs - Single Author](#blogs---single-author)
+  - [Blogs - Multiple Authors](#blogs---multiple-authors)
+- [Books](#books)
+  - [Lists of Books](#lists)
+- [Offline](#offline)
+  - [Meetups](#meetups)
+  - [Conferences](#conferences)
+- [Jobs](#jobs)
+- [Other Resource Lists](#other-resource-lists)
 
-Online
-================================
+### Online
 
-**Documentation**
+#### Documentation
 
-- _These are highly suggested bookmarks_
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- http://www.ecma-international.org/ecma-262/5.1/
-- https://nodejs.org/api/
-- https://iojs.org/api/
+- [JavaScript MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [jQuery API](https://api.jquery.com/)
+- [ReactJS](https://reactjs.org/docs/hello-world.html)
+- [AngularJS](https://angular.io/docs)
+- [ECMAScript® 2017 Language Specification ](https://www.ecma-international.org/ecma-262/8.0/index.html)
+- [NodeJS](https://nodejs.org/en/docs/)
+- [JavaScript I/O](https://iojs.org/api/)
+- [Dev Docs](https://devdocs.io/)
+- [Code Translation Project - JavaScript](http://ctp.mkprog.com/en/javascript/)
+- [TogetherJS](https://togetherjs.com/docs/)
 
-**Courses**
+#### Courses
+
 - Video:
-  - https://www.codeschool.com/paths/javascript
-  - https://egghead.io/
-  - http://frontendmasters.com/
-  - https://learnable.com/topics/javascript
-  - http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
-  - http://www.pluralsight.com/tag/javascript
-  - http://nodetuts.com/
-  - http://scotch.io/tutorials
-  - https://www.tagtree.tv/library
-  - http://code.tutsplus.com/categories/javascript/courses
-  - https://github.com/bolshchikov/js-must-watch (one-off videos)
+  - [Egghead](https://egghead.io/)
+  - [Frontend Masters](http://frontendmasters.com/)
+  - [LinkedIn Learning: Node.js Essential Training](https://www.linkedin.com/learning/node-js-essential-training-14888164/)
+  - [Pluralsight: JavaScript](http://www.pluralsight.com/tag/javascript)
+  - [Node Tuts](http://nodetuts.com/)
+  - [Scotch](http://scotch.io/tutorials)
+  - [TutsPlus: JavaScript](http://code.tutsplus.com/categories/javascript/courses)
+  - [bolshcikov: js must watch](https://github.com/bolshchikov/js-must-watch)
+  - [Derek Banas: JavaScript Tutorial](https://www.youtube.com/watch?v=fju9ii8YsGs)
+  - [Learn Javascript for free](https://scrimba.com/learn/learnjavascript)
+  - [JavaScript 30](https://javascript30.com/)
+  - [Udacity: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+  - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
+  - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
+  - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
+  - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
+  - [Asynchronous JavaScript](https://youtu.be/exBgWAIeIeg)
+  - [Redux Toolkit for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3)
 - Coding Challenges
-  - http://www.codecademy.com/
-  - http://www.codewars.com/
-  - http://ejohn.org/apps/learn/
-  - http://nodeschool.io/
+  - [Codecademy](http://www.codecademy.com/)
+  - [Codewars](http://www.codewars.com/)
+  - [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+  - [NodeSchool](http://nodeschool.io/)
+  - [freeCodeCamp](https://www.freecodecamp.org/)
+  - [WebSchool.io: Javascript](https://www.youtube.com/watch?v=KHystvLmVeA&list=PL77JVjKTJT2ieRNlfVYqzd95ultVcR1q2)
+  - [WebSchool.io: Vue.js](https://www.youtube.com/watch?v=xfZsoEZpit4&list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
 
-**Short guides**
+#### Short Guides
 
-- [JavaScript 101 - jQuery](http://learn.jquery.com/javascript-101/)
 - [JavaScript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-- http://javascript.crockford.com/
+- [Douglas Crockford's JavaScript](https://www.crockford.com/javascript/)
+- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
-**Podcasts**
+#### Podcasts
 
-- http://five-js.envylabs.com/
-- http://javascriptjabber.com/
-- http://nodeup.com/
-- http://thechangelog.com/podcast/
-- http://www.jsclasses.org/blog/category/podcast/
-- http://emberwatch.com/podcasts.html
+- [Javascript Jabber](http://javascriptjabber.com/)
+- [The Changelog](http://thechangelog.com/podcast/)
+- [JS Classes](http://www.jsclasses.org/blog/category/podcast/)
+- [Hipsters Ponto Tech](https://hipsters.tech/)
+- [The Vanilla JS Podcast](https://vanillajspodcast.com/)
+- [JS Talks](https://js-talks.netlify.app/)
 
-**Newsletters**
+#### Videos
 
-- http://dailyjs.com/
-- http://designpepper.com/a-drip-of-javascript/
+- [Angular Routing](https://www.youtube.com/watch?v=5uhZCc0j9RY)
+- [Angular todo app](https://www.youtube.com/watch?v=WuiHuZq_cg4)
+
+#### Newsletters
+
+- https://medium.com/dailyjs
 - http://www.echojs.com/
 - http://javascriptweekly.com/
 - http://nodeweekly.com/
 - http://www.sitepoint.com/newsletter/
 - http://superherojs.com/
 
-**Lists of Blogs**
+#### Lists of Blogs
 
-- http://javascriptweblog.wordpress.com/2010/04/02/my-top-10-javascript-blogs/
 - http://www.quora.com/What-are-some-good-JavaScript-blogs-aggregators-to-follow
-- http://stackoverflow.com/questions/409056/top-rated-javascript-blogs
 - https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
 
-**Blogs - Single Author**
+#### Blogs - Single Author
 
-- http://www.2ality.com/
+- https://2ality.com/
 - http://addyosmani.com/blog/
 - http://badassjs.com/
 - http://ejohn.org/
@@ -120,91 +116,93 @@ Online
 - http://www.joezimjs.com/
 - http://blog.ponyfoo.com/
 - http://rmurphey.com/
+- https://flaviocopes.com/
+- https://www.valentinog.com/blog/redux/
 
-**Blogs - Multiple Authors**
+#### Blogs - Multiple Authors
 
 - http://howtonode.org/
 - http://blog.jquery.com/
 - http://blog.mozilla.org/javascript/
 - http://sixrevisions.com/category/javascript/
 
-Books
-================================
+### Books
 
-**Paid**
-
-- [Javascript: The Good Parts by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/)
-- [Secrets of the JavaScript Ninja by John Resig](http://www.manning.com/resig/)
-- [Maintainable JavaScript by Nicholas C. Zakas](http://www.amazon.com/gp/product/1449327680/)
-- [Professional JavaScript for Web Developers by Nicholas C. Zakas](http://www.amazon.com/gp/product/B006PW2URI/)
-- [Learning JavaScript Design Patterns by Addy Osmani](http://www.amazon.com/dp/1449331815/)
-- [JavaScript Patterns by Stoyan Stefanov](http://www.amazon.com/dp/0596806752/)
-- [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming by Dustin Diaz](http://www.amazon.com/dp/159059908X/)
-- [Node Patterns](http://nodepatternsbooks.com/)
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-
-**Free**
-- [JavaScript Allongé by Reg Braithwaite](https://leanpub.com/javascript-allonge/read)
-- [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/)
+- [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reg Braithwaite
+- [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 - [JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 - [Human JavaScript](http://read.humanjavascript.com/)
-- [Learning JavaScript Design Patterns by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [The Refactoring Tales By Jack Franklin](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
+- [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html) - Jack Franklin
 - [JavaScript WikiBook](http://en.wikibooks.org/wiki/JavaScript)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson
+- [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
+- [Book of Modern Frontend Tooling](https://tooling.github.io/book-of-modern-frontend-tooling/)
+- [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) - Addy Osmani
+- [JJavaScript and JQuery: Interactive Front-End Web Development](http://javascriptbook.com/) - Jon Duckett
+- [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
+- [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
+- [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - Nicholas Johnson
+- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
+- [JavaScript the Right Way](http://jstherightway.org/)
+- [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
+- [Master Space and Time With JavaScript](http://www.noelrappin.com/mstwjs) - Noel Rappin
+- [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do) - Eric Elliott
+- [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
+- [The JavaScript Tutorial](http://javascript.info/)
+- [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) - Nicholas C. Zakas (PDF)
+- [Mixu's Node Book](http://book.mixu.net/node/)
+- [Node: Up and Running](http://shop.oreilly.com/product/0636920015956.do) - Tom Hughes-Croucher
+- [The Node Beginner Book](http://nodebeginner.org/) - Manuel Kiessling
+- [Deploying NodeJs](https://deployingnodejs.com/) - Kati Frantz
 
-**Lists**
+#### Lists of Books
 
 - [Best JavaScript Books](http://www.goodreads.com/list/show/10757.Best_JavaScript_Books)
-- [Developer Reading List: The Must-Have Books for JavaScript](http://www.drdobbs.com/article/print?articleId=240148421)
-- [Manning Catalog by Subject](http://manning.com/catalog/by/subject/)
+- [Manning Catalog by Subject](https://www.manning.com/catalog/sort/sort-by-subject)
 - [JavaScript Development and Resources (Oreilly)](http://oreilly.com/javascript/)
 - [JavaScript (Oreilly)](http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1)
 
-Offline
-================================
+### Offline
 
-**Non conference meetups**
+#### Meetups
 
 - http://www.meetup.com/
 - http://nodeschool.io/
 - https://github.com/beerjs
 
-**Conferences**
-
-_Watch the videos on these sites!_
+#### Conferences
 
 - http://brooklynjs.com/
 - http://campjs.com/
 - http://cascadiajs.com/
 - http://connect-js.com/
-- http://empirejs.org/
+- https://twitter.com/empirejs
 - http://fluentconf.com/
-- http://forwardjs.com/
+- http://forwardjs.com/ (certificate currently expired, proceed at own risk)
 - http://futurejs.org/
-- http://html5devconf.com/
 - http://js.la/
 - http://jsconf.com/
-- http://jsfest.com/
+- https://jsfest.com.ua/indexe.html
 - http://nationjs.com/
 - http://ng-conf.org/
 - http://ngeurope.org/
 - http://nodeconf.com/
-- http://nodeconfeu.com/
 - http://nodesummit.com/
 
-Jobs
-================================
+### Jobs
 
-- http://jobs.jsninja.com/a/jbb/find-jobs
-- http://jobs.nodejs.org/a/jobs/list/
 - http://careers.stackoverflow.com/jobs/tag/nodejs
+- https://jsjobbs.com/
+- https://www.linkedin.com/jobs/search/?currentJobId=3226766290&keywords=javascript%20developer&refresh=true
 
-Other resource lists
-================================
+### Other Resource Lists
 
 - http://superherojs.com/
 - http://www.nodecloud.org/
 - http://www.quora.com/What-are-the-best-resources-to-learn-Node-js
-- http://blog.modulus.io/nodejs-resources
 - https://github.com/bolshchikov/js-must-watch
+- https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+- https://www.javatpoint.com/javascript-tutorial

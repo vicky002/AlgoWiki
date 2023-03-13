@@ -52,6 +52,7 @@ Created with a view to connecting people to information, this list below contain
 | ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
 | ★★☆ | [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit) | A list of important topics in competitive programming with exercise problems. |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
+| ★★☆ | [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), by [takeuforward org](https://takeuforward.org/) | handily crafted and picked top coding interview questions of DSA|
 
 
 ## Tutorial Websites

@@ -87,6 +87,7 @@ category: Languages
 * [Hello World Open](https://helloworldopen.com/)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk/)
 * [Just another Golf Coding](http://jagc.org/)
+* [LeetCode](https://leetcode.com/)
 * [Microcorruption](https://microcorruption.com/)
 * [Topcoder](https://www.topcoder.com/)
 * [Hackerearth](https://www.hackerearth.com)
@@ -178,7 +179,8 @@ category: Languages
 [Back To Top](#Index)
 
 ## YouTube
-
+* [CodeHelp - by Babbar](https://www.youtube.com/@CodeHelp)
+* [LoveBabbar](https://www.youtube.com/@LoveBabbar)
 * [Petr Mitrichev's Channel](https://www.youtube.com/user/petrmitrichev)
 * [Errichto's Channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 * [Endagorion's Channel](https://www.youtube.com/user/Endagorion)

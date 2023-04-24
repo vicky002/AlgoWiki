@@ -126,5 +126,6 @@ category: Languages
 * [Favicon Generator](http://www.favicon.cc/?)
 * [Ratiobuddy](https://ratiobuddy.com/)
 * [Layoutit CSS Grid Generator](https://grid.layoutit.com/)
+* [Image Pixel Color Picker](https://imagecolorpicker.com/en)
 
 [⬆ Back to Top](#Index)

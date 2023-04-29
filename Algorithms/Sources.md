@@ -498,6 +498,11 @@ We have lots of links to add here...it will be updated soon!
  - [Article](https://prashanthkvs.wordpress.com/2012/03/04/heavy-light-decomposition/)
  - [Video](https://courses.csail.mit.edu/6.851/spring12/lectures/L19.html)
 
+### DAA Named Algorithms
+-[Article](https://www.techiedelight.com/kruskals-algorithm-for-finding-minimum-spanning-tree/)
+-[Article](https://www.techiedelight.com/pairs-shortest-paths-floyd-warshall-algorithm/)
+-[Artile](https://www.techiedelight.com/single-source-shortest-paths-dijkstras-algorithm/)
+-[Article](https://www.techiedelight.com/single-source-shortest-paths-bellman-ford-algorithm/)
 [⬆ Back to Top](#index)
 
 Will be updated soon!

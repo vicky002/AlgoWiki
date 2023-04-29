@@ -477,6 +477,8 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
 
+[Back To Top](#Everything-about-C++)
+
 ## Scripting
 
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)

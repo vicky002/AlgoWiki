@@ -35,3 +35,5 @@ Learn Ruby through the following online and offline resources.
 ## Ruby Documentation
 - [Ruby-Doc.org](http://ruby-doc.org/)
 - [Documentation](https://www.ruby-lang.org/en/documentation/)
+
+[⬆ Back to Top](#table-of-contents)

@@ -18,6 +18,7 @@ category: Platform
 * [CS143 Compilers - Stanford Compiler Course](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 * [Parsing Code - Jim Mahoney's Notes](https://cs.marlboro.college/cours/fall2019/formal_languages/notes/parsing) - Part of a Formal Languages course
 * [The man(1) of descent - Damian Conway](http://theweeks.org/xcssa/photos/files/sys-admin_V8/tpj/issues/vol3_4/tpj0304-0010.html) - Conway's explanation of Recursive Descent, a key algorithm for compiler design.
+* [Compilers - Principles, Techniques, and Tools (2006).pdf](https://github.com/ishabhthakur/AlgoWiki/files/9844326/Compilers.-.Principles.Techniques.and.Tools.2006.pdf)
 
 
 ## Courses

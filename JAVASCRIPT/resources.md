@@ -61,6 +61,7 @@ category: Languages
   - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
   - [Asynchronous JavaScript](https://youtu.be/exBgWAIeIeg)
   - [Redux Toolkit for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3)
+  - [Scrimba - Learn Javascript](https://scrimba.com/learn/learnjavascript)
 - Coding Challenges
   - [Codecademy](http://www.codecademy.com/)
   - [Codewars](http://www.codewars.com/)
@@ -69,6 +70,7 @@ category: Languages
   - [freeCodeCamp](https://www.freecodecamp.org/)
   - [WebSchool.io: Javascript](https://www.youtube.com/watch?v=KHystvLmVeA&list=PL77JVjKTJT2ieRNlfVYqzd95ultVcR1q2)
   - [WebSchool.io: Vue.js](https://www.youtube.com/watch?v=xfZsoEZpit4&list=PL77JVjKTJT2hpxOjdD6VDc1JDXAKs08z5)
+  - [Frontend Mentor](https://www.frontendmentor.io/home)
 
 #### Short Guides
 

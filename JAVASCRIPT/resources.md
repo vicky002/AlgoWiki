@@ -173,7 +173,7 @@ category: Languages
 - http://nodeschool.io/
 - https://github.com/beerjs
 
-#### Conferences
+#### List of Conferences 
 
 - http://brooklynjs.com/
 - http://campjs.com/
@@ -192,13 +192,13 @@ category: Languages
 - http://nodeconf.com/
 - http://nodesummit.com/
 
-### Jobs
+### Jobs List
 
 - http://careers.stackoverflow.com/jobs/tag/nodejs
 - https://jsjobbs.com/
 - https://www.linkedin.com/jobs/search/?currentJobId=3226766290&keywords=javascript%20developer&refresh=true
 
-### Other Resource Lists
+### Other Resources List
 
 - http://superherojs.com/
 - http://www.nodecloud.org/

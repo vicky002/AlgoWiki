@@ -28,6 +28,7 @@ Python Development Resources
 - [Books](#books)
 - [Podcasts](#podcasts)
 - [Games](#games)
+- [Video](#videos)
 
 ## Guides
  - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
@@ -220,3 +221,6 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
 * [Code Combat](https://codecombat.com/)
 * [CheckiO](https://py.checkio.org/)
 * [Codin Game](https://www.codingame.com/start)
+
+## Videos
+* [Harshit Vashisth](https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j&si=hzzjSKAAM7kaUaBQ)

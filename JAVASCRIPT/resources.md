@@ -31,7 +31,7 @@ category: Languages
 
 - [JavaScript MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery API](https://api.jquery.com/)
-- [ReactJS](https://reactjs.org/docs/hello-world.html)
+- [ReactJS](https://react.dev/)
 - [AngularJS](https://angular.io/docs)
 - [ECMAScript® 2017 Language Specification ](https://www.ecma-international.org/ecma-262/8.0/index.html)
 - [NodeJS](https://nodejs.org/en/docs/)

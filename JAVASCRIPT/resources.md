@@ -36,7 +36,7 @@ category: Languages
 - [ECMAScript® 2017 Language Specification ](https://www.ecma-international.org/ecma-262/8.0/index.html)
 - [NodeJS](https://nodejs.org/en/docs/)
 - [JavaScript I/O](https://iojs.org/api/)
-- [Dev Docs](https://devdocs.io/)
+- [Dev Docs](https://devdocs.io/javascript/)
 - [Code Translation Project - JavaScript](http://ctp.mkprog.com/en/javascript/)
 - [TogetherJS](https://togetherjs.com/docs/)
 

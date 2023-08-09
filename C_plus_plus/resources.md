@@ -6,7 +6,7 @@ category: Languages
 # Everything about C++
 A curated list of C++ frameworks, libraries, resources, and shiny things.
 
-- [C++](#awesome-cpp)
+- [C++](#everything-about-c)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)

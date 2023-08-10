@@ -11,7 +11,6 @@ category: Languages
 * [Coding Calendar](#cdoing-calendar)
 * [Competitive Programming](#competitive-programming)
 * [Competitive Programming Problem Recommender](#competitive-programming-problem-recommender)
-* [Motivational](#motivation)
 * [Problem Sets](#problem-sets)
 * [Quora posts](#Quora-posts)
 * [Syllabus](#syllabus)

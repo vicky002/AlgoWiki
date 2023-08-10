@@ -54,7 +54,6 @@ category: Frameworks
     - [Videos](#videos)
     - [Websites](#websites)
 - [Utilities](#utilities)
-- [Contributing](#contributing)
 
 
 ## Admin interface

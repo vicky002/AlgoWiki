@@ -17,7 +17,7 @@ category: Other
 * [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
-* [other repos](#similar-github-repos)
+* [Similar github repos](#similar-github-repos)
 
 
 ## Articles

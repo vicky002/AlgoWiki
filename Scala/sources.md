@@ -27,6 +27,7 @@ category: Languages
    * [Tour of Scala - Interactive tutorial](http://scalatutorials.com/tour/)
 
 ### Reference Books
+   * [Functional Programming in Scala - 2nd Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition)
    * [Essential Scala - Free Ebook](https://underscore.io/books/essential-scala/)
    * [Programming in Scala - Second Edition](http://ccfit.nsu.ru/~den/Scala/programming_in_scala_2nd.pdf)
    * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)

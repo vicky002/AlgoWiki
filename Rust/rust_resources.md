@@ -48,7 +48,6 @@ category: Languages
 - [Brian Anderson](https://brson.github.io/blog/index.html)
 - [Steve Klabnik](http://words.steveklabnik.com/)
 - [Aaron Turon](http://aturon.github.io/blog/)
-- [Jonathon Turner](http://www.jonathanturner.org/)
 
 
 ## Community

@@ -86,7 +86,6 @@ category: Languages
 - [Rust 101: Interactive Rust Tutorial](https://www.ralfj.de/projects/rust-101/main.html)
 - [Getting Started with Rust](http://aml3.github.io/RustTutorial/html/01.html)
 - [Rust For C++](https://ronald-liu.gitbooks.io/rust-for-c-/content/)
-- [Why Rust? | Rust Basics](https://dumindu.gitbooks.io/rust-basics/content/why_rust.html)
 - [Why Rust? - O'Reilly Media](http://www.oreilly.com/programming/free/why-rust.csp)
 
 ## Frameworks

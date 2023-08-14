@@ -3,7 +3,7 @@ title: Objective C
 category: Languages
 ---
 
-# All About Objecitve-C
+# All About Objective-C
 - [Objective-C](#objective-c)
   - [Animations](#animations)
   - [Data Persistence](#data-persistence)

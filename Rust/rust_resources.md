@@ -78,7 +78,6 @@ category: Languages
 
 - [Rust Programming Concepts Book by Matt Carkci — Kickstarter](https://www.kickstarter.com/projects/1712125778/rust-programming-concepts-book)
 - [Programming Rust: Jim Blandy, Jason Orendorff](http://www.amazon.com/Programming-Rust-Jim-Blandy/dp/1491927283)
-- [Rust Essentials | PACKT Books](https://www.packtpub.com/books/content/support/21311)
 - [Professional JavaScript for Web Developers by Nicholas C. Zakas](http://www.amazon.com/gp/product/B006PW2URI/)
 
 **Free**

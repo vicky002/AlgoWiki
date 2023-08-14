@@ -28,7 +28,6 @@ category: Languages
 ## Courses
 
 - Videos:
-  - [Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc)
   - [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k)
   - [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
   - [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY)

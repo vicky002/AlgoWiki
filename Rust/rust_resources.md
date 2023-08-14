@@ -44,7 +44,6 @@ category: Languages
 ## Blogs
 
 - [Andrew Gallant](http://blog.burntsushi.net/)
-- [Andrew Hobden](http://hoverbear.org/tag/rust/)
 - [Brian Anderson](https://brson.github.io/blog/index.html)
 - [Steve Klabnik](http://words.steveklabnik.com/)
 - [Aaron Turon](http://aturon.github.io/blog/)

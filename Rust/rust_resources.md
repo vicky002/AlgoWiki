@@ -96,7 +96,7 @@ category: Languages
 * [Draco](https://github.com/utkarshkukreti/draco)
 * [Smithy](https://github.com/rbalicki2/smithy)
 * [Squark](https://github.com/rail44/squark)
-* [Dodrio](https://github.com/fitzgen/dodrio)
+* [Dodrio - ARCHIVED](https://github.com/fitzgen/dodrio)
 * [TAURI](https://github.com/tauri-apps/tauri)
 * [ACTIX WEB](https://github.com/actix/actix-web)
 

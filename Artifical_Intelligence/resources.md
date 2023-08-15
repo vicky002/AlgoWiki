@@ -24,7 +24,6 @@ Contributions most welcome.
 - [Podcasts](#podcasts)
 
 ## Online Courses
-
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
 * [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
@@ -39,7 +38,6 @@ Contributions most welcome.
 [⬆ Back to Top](#index)
 
 ## Books About Artificial Intelligence
-
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
 * [The Cambridge Handbook of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) - Written for non-specialists, it covers the discipline's foundations, major theories, and principal research areas, plus related topics such as artificial life
@@ -49,14 +47,12 @@ Contributions most welcome.
 [⬆ Back to Top](#index)
 
 ## Programming
-
 * [Prolog Programming for Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
 
 [⬆ Back to Top](#index)
 
 ## Philosophy of AI
-
 * [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
@@ -65,7 +61,6 @@ Contributions most welcome.
 [⬆ Back to Top](#index)
 
 ## Free Content
-
 * [Foundations of computational agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest for Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
@@ -79,20 +74,17 @@ Contributions most welcome.
 [⬆ Back to Top](#index)
 
 ## Code
-
 * [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
 
 [⬆ Back to Top](#index)
 
 ## Videos/Talks
-
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
 * [Stanford University School of Engineering: Convolutional Neural Networks for visual recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Youtube playlist that elaborately discusses about the fundamentals of building a convolutional neural network model and also the functionality of different types of neural networks.
 
 [⬆ Back to Top](#index)
 
 ## Learning
-
 * [Deep Learning. Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
@@ -101,18 +93,17 @@ Contributions most welcome.
 [⬆ Back to Top](#index)
 
 ## Misc
-
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AI APIs To Implement](https://developer.ibm.com/api/list)
 
-## Podcasts
+[⬆ Back to Top](#index)
 
+## Podcasts
 * [The AI Podcast](https://player.fm/series/the-ai-podcast)
 * [Artifically Intelligent](https://player.fm/series/artificially-intelligent)
 * [Gigaom AI Minute](https://player.fm/series/gigaom-ai-minute)
 * [Concerning AI | Existential Risk From Artificial Intelligence](https://player.fm/series/concerning-ai-existential-risk-from-artificial-intelligence)
 * [Artificial Intelligence in Industry with Dan Faggella](https://player.fm/series/artificial-intelligence-in-industry-with-dan-faggella)
 * [O'Reilly Bots Podcast - O'Reilly Media Podcast](https://player.fm/series/oreilly-bots-podcast-oreilly-media-podcast)
-
 
 [⬆ Back to Top](#index)

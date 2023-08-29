@@ -63,6 +63,8 @@ category: Languages
 - [Contributing](#contributing)
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Build Tool
 
 *Tools which handle the buildcycle of an application.*
@@ -70,6 +72,8 @@ category: Languages
 * [Apache Maven](http://maven.apache.org/) - Declarative build and dependency management which favors convention over configuration. It's preferable to Apache Ant which uses a rather procedural approach and can be difficult to maintain.
 * [Gradle](http://www.gradle.org/) - Incremental builds which are programmed via Groovy instead of declaring XML. Works well with Maven's dependency management and treats Ant scripts as first-class citizens.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Bytecode Manipulation
 
@@ -80,6 +84,8 @@ category: Languages
 * [Javassist](http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/javassist/) - Tries to simplify the editing of bytecode.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Cluster Management
 
 *Frameworks which can dynamically manage applications inside of a cluster.*
@@ -87,6 +93,8 @@ category: Languages
 * [Apache Aurora](http://aurora.apache.org/) - Apache Aurora is a Mesos framework for long-running services and cron jobs.
 * [Singularity](http://getsingularity.com/) - Singularity is a Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Code Analysis
 
@@ -99,6 +107,8 @@ category: Languages
 * [SonarQube](http://www.sonarqube.org/) - Integrates other analysis components via plugins and provides an overview of the metrics over time.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Compiler-compiler
 
 *Frameworks that help to create parsers, interpreters or compilers.*
@@ -107,12 +117,16 @@ category: Languages
 * [JavaCC](https://javacc.java.net/) - More specific and slightly easier to learn. Has syntactic lookahead.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Configuration
 
 *Libraries that provide external configuration.*
 
 * [config](https://github.com/typesafehub/config) - Configuration library for JVM languages.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Constraint Satisfaction Problem Solver
 
@@ -123,6 +137,8 @@ category: Languages
 * [OptaPlanner](http://www.optaplanner.org/) - A business planning and resource scheduling optimization solver.
 * [Sat4J](http://www.sat4j.org/) - A state-of-the-art SAT solver for boolean and optimization problems in Java.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Continuous Integration
 
@@ -137,12 +153,16 @@ category: Languages
 * [Travis](https://travis-ci.org) - Hosted service often used for open source projects.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### CSV
 
 *Frameworks and libraries that simplify reading/writing CSV data.*
 
 * [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers) - One of the fastest and most feature-complete CSV parsers for Java. Also comes with parsers for TSV and fixed width records.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Database
 
@@ -160,10 +180,14 @@ category: Languages
 * [Querydsl](http://www.querydsl.com/) - Typesafe unified queries for Java.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Data structures
 
 * [Apache Parquet](https://parquet.incubator.apache.org/) - A columnar storage format based on assembly algorithms from the Dremel paper by Google.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Date and Time
 
@@ -173,6 +197,8 @@ category: Languages
 * [Time4J](https://github.com/MenoData/Time4J) - Advanced date and time library for Java.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Dependency Injection
 
 *Libraries that help to realize the [Inversion of Control](http://en.wikipedia.org/wiki/Inversion_of_control) paradigm.*
@@ -181,6 +207,8 @@ category: Languages
 * [Guice](https://github.com/google/guice) - Lightweight but powerful framework that completes Dagger.
 * [HK2](https://hk2.java.net) - A light-weight and dynamic dependency injection framework.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Development
 
@@ -199,6 +227,8 @@ category: Languages
 * [vert.x](http://vertx.io/) - Polyglot event-driven application framework for the JVM.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Distributed Applications
 
 *Libraries and frameworks for writing distributed and fault-tolerant applications.*
@@ -213,6 +243,8 @@ category: Languages
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Distributed Databases
 
 *Databases in a distributed system that appear to applications as a single data source.*
@@ -221,6 +253,8 @@ category: Languages
 * [Apache HBase](http://hbase.apache.org) - Apache HBase is the Hadoop database, a distributed, scalable, big data store.
 * [Infinispan](http://infinispan.org/) -  Distributed and highly concurrent key/value datastore used for caching.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Distribution
 
@@ -235,6 +269,8 @@ category: Languages
 * [packr](https://github.com/libgdx/packr/) - Packs your JAR, assets and JVM for native distribution on Windows, Linux and Mac OS X.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Document Processing
 
 *Libraries that assist with processing office document formats.*
@@ -243,6 +279,8 @@ category: Languages
 * [jOpenDocument](http://www.jopendocument.org/) - Processes the OpenDocument format.
 * [documents4j](http://documents4j.com) - Java API for document format conversion using third-party converters such as MS Word.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Functional Programming
 
@@ -253,6 +291,8 @@ category: Languages
 * [jOOλ](https://github.com/jOOQ/jOOL) - An extension to Java 8 which aims to fix gaps in lambda, providing numerous missing types and a rich set of sequential Stream API additions.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Game Development
 
 *Frameworks that support the development of games.*
@@ -262,6 +302,8 @@ category: Languages
 * [LWJGL](http://lwjgl.org/) - Robust framework that abstracts libraries like OpenGL/CL/AL.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### GUI
 
 *Libraries to create modern graphical user interfaces.*
@@ -269,6 +311,8 @@ category: Languages
 * [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - The successor of Swing.
 * [Scene Builder](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-info-2157684.html) - Visual layout tool for JavaFX applications.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### High Performance
 
@@ -284,6 +328,8 @@ category: Languages
 * [Trove](http://trove.starlight-systems.com/) - Primitive collections.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### IDE
 
 *Integrated development environments that try to simplify several aspects of development.*
@@ -292,6 +338,8 @@ category: Languages
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - Supports a lot of JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 * [NetBeans](https://netbeans.org/) - Provides integration for several  Java SE and EE features starting with database access and servers to HTML5 and AngularJS.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Imagery
 
@@ -303,6 +351,8 @@ category: Languages
 * [ZXing](https://github.com/zxing/zxing) - Multi-format 1D/2D barcode image processing library.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### JSON
 
 *Libraries that simplify JSON processing.*
@@ -313,6 +363,8 @@ category: Languages
 * [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - JSON parsing and serializing library based on Jackson's streaming API. Outpeforms GSON & Jackson's library.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### JVM and JDK
 
 *Current implementations of the JVM/JDK.*
@@ -320,6 +372,8 @@ category: Languages
 * [JDK 9](https://jdk9.java.net/) - Early access releases of JDK 9.
 * [OpenJDK](http://openjdk.java.net/) - Open source implementation.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Logging
 
@@ -331,6 +385,8 @@ category: Languages
 * [logstash](http://logstash.net/) - Tool for managing log files.
 * [SLF4J](http://www.slf4j.org/) - Abstraction layer which is to be used with an implementation.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Machine Learning
 
@@ -344,6 +400,8 @@ category: Languages
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Messaging
 
 *Tools that help on sending messages between clients to ensure protocol independency.*
@@ -356,6 +414,8 @@ category: Languages
 * [JeroMQ](https://github.com/zeromq/jeromq) - Pure Java implementation of ZeroMQ.
 * [Smack](https://github.com/igniterealtime/Smack/) - A cross-platform [XMPP](http://en.wikipedia.org/wiki/XMPP) client library for Java and Android.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Miscellaneous
 
@@ -371,6 +431,8 @@ category: Languages
 * [RoboVM](http://www.robovm.org/) - Commercial framework with a free trial to write native iOS apps in Java.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Monitoring
 
 *Tools that monitor applications in production.*
@@ -381,11 +443,15 @@ category: Languages
 * [JavaMelody](https://github.com/javamelody/javamelody) - Open-source performance monitoring and profiling.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Native
 *For working with platform-specific native libraries.*
 
 * [JNA](https://github.com/twall/jna) - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Natural Language Processing
 
@@ -396,6 +462,8 @@ category: Languages
 * [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for a variety of tasks ranging from POS tagging to sentiment analysis.
 * [Mallet](http://mallet.cs.umass.edu/) - Statistical natural language processing, document classification, clustering, topic modeling and more.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Networking
 
@@ -408,6 +476,8 @@ category: Languages
 * [Undertow](http://undertow.io/) - Web server providing both blocking and non-blocking API’s based on NIO. Used as a network layer in WildFly.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### ORM
 
 *APIs which handle the persistence of objects.*
@@ -418,6 +488,8 @@ category: Languages
 * [MyBatis](http://mybatis.github.io/mybatis-3/) - Persistence framework that couples objects with stored procedures or SQL statements.
 * [OrmLite](http://ormlite.com/) - Lightweight ORM package avoiding the complexity and overhead of other ORM products.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### PDF
 
@@ -431,6 +503,8 @@ category: Languages
 * [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer in pure Java.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Performance analysis
 
 *Tools for performance optimization and dynamic program analysis.*
@@ -439,6 +513,8 @@ category: Languages
 * [YourKit Java Profiler](https://www.yourkit.com/features/) - Commercial Java profiler.
 * [VisualVM](http://visualvm.java.net/) - Visual interface for detailed information about running applications.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### REST Frameworks
 
@@ -454,12 +530,16 @@ category: Languages
 * [Swagger](https://helloreverb.com/developers/swagger) - Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Science
 
 *Libraries for scientific computing and analysis.*
 
 * [SCaVis](http://jwork.org/scavis/) - Environment for scientific computation, data analysis and data visualization.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Search
 
@@ -469,6 +549,8 @@ category: Languages
 * [Elasticsearch](http://www.elasticsearch.org/) - Distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents.
 * [Terrier](http://www.terrier.org/) -  Highly flexible, efficient, and effective open source search engine, readily deployable on large-scale collections of documents. Terrier implements state-of-the-art indexing and retrieval functionalities, and provides an ideal platform for the rapid development and evaluation of large-scale retrieval applications.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Security
 
@@ -482,6 +564,8 @@ category: Languages
 * [Spring Security](http://projects.spring.io/spring-security/) - Focuses on authentication/authorization and protects against several attack vectors.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Serialization
 
 *Libraries that handle serialization with high efficiency.*
@@ -490,6 +574,8 @@ category: Languages
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Fast and efficient object graph serialization framework.
 * [MessagePack](https://github.com/msgpack/msgpack-java) - Efficient binary serialization format.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Server
 
@@ -503,6 +589,8 @@ category: Languages
 * [WildFly](http://www.wildfly.org/) - Formerly known as JBoss and developed by Red Hat with extensive Java EE support.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Template Engine
 
 *Tools which substitute expressions in a template.*
@@ -513,6 +601,8 @@ category: Languages
 * [JavaServer Pages](https://jsp.java.net/) - Common templating for websites with custom tag libraries.
 * [Thymeleaf](http://www.thymeleaf.org/) - Aims to be a substitute for JSP and works for XML files in general.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Testing
 
@@ -538,6 +628,8 @@ category: Languages
 * [WireMock](http://wiremock.org/) - Testing library for stubbing and mocking web services.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Utility
 
 *Libraries which provide general utility functions.*
@@ -553,6 +645,8 @@ category: Languages
 * [Protégé](http://protege.stanford.edu/) - Provides an ontology editor and a framework to build knowledge-based systems.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Web Crawling
 
 *Libraries that analyze the content of websites.*
@@ -561,6 +655,8 @@ category: Languages
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple lightweight alternative.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
 
+
+[⬆ Back to Top](#table-of-contents)
 
 ### Web Frameworks
 
@@ -580,9 +676,13 @@ category: Languages
 * [Vaadin](https://vaadin.com/) - Event-driven framework build on top of GWT. Uses server-side architecture with Ajax on the client-side.
 
 
+[⬆ Back to Top](#table-of-contents)
+
 ### Resources
 
-#### Communities
+[⬆ Back to Top](#table-of-contents)
+
+### Communities
 
 *Active discussions.*
 
@@ -590,7 +690,9 @@ category: Languages
 * [stackoverflow](http://stackoverflow.com/questions/tagged/java) - Question/answer platform.
 * [vJUG](http://virtualjug.com/) - Online Java user group.
 
-#### Influential Books
+[⬆ Back to Top](#table-of-contents)
+
+### Influential Books
 
 *Books about Java that had a high impact and are still worth reading.*
 
@@ -599,14 +701,18 @@ category: Languages
 * [Java 8 in Action](http://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/)
 * [Thinking in Java](http://www.amazon.com/Thinking-Java-Edition-Bruce-Eckel/dp/0131872486)
 
-#### Podcasts
+[⬆ Back to Top](#table-of-contents)
+
+### Podcasts
 
 *Something to listen to while programming.*
 
 * [The Java Posse](http://www.javaposse.com/) (discontinued as of 02/2015)
 * [The Java Council](http://virtualjug.com/podcast/)
 
-#### Twitter
+[⬆ Back to Top](#table-of-contents)
+
+### Twitter
 
 *Active accounts to follow.*
 
@@ -636,7 +742,9 @@ category: Languages
 * [Tim Boudreau](https://twitter.com/kablosna) - Author and NetBeans guru.
 * [Trisha Gee](https://twitter.com/trisha_gee) - Java Champion and speaker.
 
-#### Websites
+[⬆ Back to Top](#table-of-contents)
+
+### Websites
 
 *Sites to read.*
 

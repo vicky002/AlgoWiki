@@ -658,3 +658,7 @@ category: Languages
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
+
+#### Contributing
+
+WIP

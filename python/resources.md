@@ -29,6 +29,8 @@ Python Development Resources
 - [Podcasts](#podcasts)
 - [Games](#games)
 
+[⬆ Back to Top](#index)
+
 ## Guides
  - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
  - [Learning Python The Hard Way](http://learnpythonthehardway.org/book/)
@@ -38,19 +40,29 @@ Python Development Resources
  - [Porting to Python 3 Redux](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/) -
 Write code that works on Python 2.6, 2.7 and 3.3
 
+[⬆ Back to Top](#index)
+
 ## Weekly & Daily Resources
  - [Python weekly](http://www.pythonweekly.com/)
  - [pycoders weekly](http://www.pycoders.com/)
  - [Planet Python](http://planet.python.org/)
 
+[⬆ Back to Top](#index)
+
 ## Patterns
  - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) :
      - [Video](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 
+[⬆ Back to Top](#index)
+
 ## [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
+[⬆ Back to Top](#index)
+
 ### [Wheezy.web](https://bitbucket.org/akorn/wheezy.web/)
  - Lightweight, high performance, high concurrency WSGI web framework
  - [Documentation](http://wheezyweb.readthedocs.org/en/latest/)
+[⬆ Back to Top](#index)
+
 ### [Django](https://www.djangoproject.com/)
  - Resources
    - [Django Community Blogs](https://www.djangoproject.com/community/blogs/)
@@ -105,17 +117,35 @@ Video Playlist on YoutTube
    - [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
    - [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
    - [Django Tastypie](http://django-tastypie.readthedocs.org/en/latest/)
+[⬆ Back to Top](#index)
+
 ### [Tornado](http://www.tornadoweb.org/)
+[⬆ Back to Top](#index)
+
 ### [Pylons (now Pyramid)](http://www.pylonsproject.org/)
+[⬆ Back to Top](#index)
+
 ### [CherryPy](http://cherrypy.org/)
+[⬆ Back to Top](#index)
+
 ### [Flask](http://flask.pocoo.org/)
+[⬆ Back to Top](#index)
+
 ### [Aiohttp](http://aiohttp.readthedocs.io/en/stable/)
  - HTTP client/server for asyncio (PEP 3156).
+[⬆ Back to Top](#index)
+
 ### [Pyjamas](http://pyjs.org/)(now pyjs)
+[⬆ Back to Top](#index)
+
 ### [Web.py](http://webpy.org/)
+[⬆ Back to Top](#index)
+
 ### [Web2py](http://web2py.com/)
  - Books and Tutorials
    - [Killer Web Development](http://killer-web-development.com/)
+[⬆ Back to Top](#index)
+
 ## Libraries
  - [PEP8](https://pypi.python.org/pypi/pep8) - Python style guide checker
  - [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool.
@@ -178,6 +208,8 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
    - [pandas](http://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
  - Spatial Data Analysis
    - [`pysal`](http://pysal.org) - PySAL (Python Spatial Analysis Library) is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python.
+[⬆ Back to Top](#index)
+
 ## Conference
  - [DjangoCon](http://www.djangocon.us/)
  - [GeoPython](http://www.geopython.net)
@@ -195,9 +227,13 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
    - [jacobian](http://lanyrd.com/profile/jacobian/)@lanyrd
    - [jtauber](http://lanyrd.com/profile/jtauber/)@lanyrd
    - [NextDayVideo](http://www.youtube.com/user/NextDayVideo)
+[⬆ Back to Top](#index)
+
 ## Miscellaneous
  - [PyMite](https://wiki.python.org/moin/PyMite) - Python on a microcontroller
  - [Pyserial](http://pythonhosted.org/pyserial/) - Pyserial encapsulates the access for the serial port
+[⬆ Back to Top](#index)
+
 ## Hosting
  - [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
  - [Dotcloud](http://docs.dotcloud.com/services/python/)
@@ -205,9 +241,13 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
  - [AWS Elasticbeanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python.html)
  - [Deis](http://deis.io/) - Private PaaS like Heroku
  - [Webfaction](https://www.webfaction.com/) - Shared hosting
+[⬆ Back to Top](#index)
+
 ## Books
  - [Python Algorithms: Mastering Basic Algorithms](http://www.amazon.in/Python-Algorithms-Mastering-Basic-Language/dp/148420056X/ref=dp_ob_title_bk) - Great Book for learning Basic Data Structures and Algorithms in Python (3.9 of 5 by GoodReads)
  - [Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python) - A good beginner book for learning about Distrubted Computer Programming in Python
+[⬆ Back to Top](#index)
+
 ## Podcasts
  - [Talk python to me](https://talkpython.fm/)
  - [Python bytes](https://pythonbytes.fm)
@@ -216,7 +256,11 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
  - [Import this](https://www.kennethreitz.org/import-this/)
  - [Python Bytes](https://pythonbytes.fm/)
 
+[⬆ Back to Top](#index)
+
 ## Games
 * [Code Combat](https://codecombat.com/)
 * [CheckiO](https://py.checkio.org/)
 * [Codin Game](https://www.codingame.com/start)
+
+[⬆ Back to Top](#index)

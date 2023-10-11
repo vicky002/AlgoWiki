@@ -52,6 +52,10 @@ Write code that works on Python 2.6, 2.7 and 3.3
  - Lightweight, high performance, high concurrency WSGI web framework
  - [Documentation](http://wheezyweb.readthedocs.org/en/latest/)
 ### [Django](https://www.djangoproject.com/)
+ - Free Online Courses
+   - [Edx](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA) : MITx: Introduction to Computer Science and Programming Using Python
+   - [Edx:CS50](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) : HarvardX: CS50's Introduction to Programming with Python
+   - [Edx:CS50web](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) : HarvardX: CS50's Web Programming with Python and JavaScript
  - Resources
    - [Django Community Blogs](https://www.djangoproject.com/community/blogs/)
    - [Django Blog](https://www.djangoproject.com/weblog/)
@@ -82,7 +86,6 @@ Video Playlist on YoutTube
    - [Python 101](http://www.rexx.com/~dkuhlman/python_101/python_101.html)
    - [Codecademy](http://www.codecademy.com/tracks/python)
    - [Coursera](https://www.coursera.org/courses?search=python)
-   - [Edx](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA)
    - [CodeSchool: Learn Python](https://www.codeschool.com/learn/python)
  - Libraries
    - [Django Jenkins](https://github.com/kmmbvnr/django-jenkins)-Plug and play continuous integration with django and jenkins

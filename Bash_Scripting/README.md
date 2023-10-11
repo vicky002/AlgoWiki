@@ -4,7 +4,12 @@
 In addition of this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
 
 ## Books and Resources
+### Free Courses for beginners
+- [Basic-bash-scripting](https://www.freecodecamp.org/learn/relational-database/learn-bash-by-building-a-boilerplate/build-a-boilerplate) : By building a boilerplate.
+- [Medium-bash-scripting](https://www.freecodecamp.org/learn/relational-database/learn-bash-scripting-by-building-five-programs/build-five-programs) : By building five programs
+- [Advance-bash-scripting](https://www.freecodecamp.org/learn/relational-database/learn-advanced-bash-by-building-a-kitty-ipsum-translator/build-a-kitty-ipsum-translator) : By building a kitty ipsum translator
 
+### Docs and books
 - [The Bash-Hackers Wiki](http://wiki.bash-hackers.org/doku.php) - Human-readable documentation of any kind about GNU Bash
 - [Bash beginner's mistakes](http://wiki.bash-hackers.org/scripting/newbie_traps) (by the Bash-Hackers Wiki)
 - [Bash Guide](http://mywiki.wooledge.org/BashGuide) - A bash guide for beginners. (by Lhunath)

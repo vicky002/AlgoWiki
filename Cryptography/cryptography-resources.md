@@ -15,7 +15,6 @@ Resources For Learning Cryptography
 ### Guide for Beginners
 + [A Beginners Guide to Cryptography](http://epictuts.blogspot.in/2011/06/beginners-guide-to-cryptography.html)
 + [A Beginner’s Guide to Cryptography & Some Useful Resources](https://www.comparitech.com/blog/information-security/cryptography-guide/)
-+ [Cryptography tutorial: CISSP study guide](http://searchitchannel.techtarget.com/tutorial/Cryptography-tutorial-CISSP-study-guide)
 + [what is cryptography](https://www.synopsys.com/software-integrity/resources/knowledge-database/cryptography.html)
 
 ### PDF Books for Learning Cryptography

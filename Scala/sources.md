@@ -29,7 +29,6 @@ category: Languages
 ### Reference Books
    * [Essential Scala - Free Ebook](https://underscore.io/books/essential-scala/)
    * [Programming in Scala - Second Edition](http://ccfit.nsu.ru/~den/Scala/programming_in_scala_2nd.pdf)
-   * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
    * [Scala for the Impatient](http://fileadmin.cs.lth.se/scala/scala-impatient.pdf)
 
 

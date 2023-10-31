@@ -11,6 +11,7 @@ category: Languages
  - [Getting started with the Assembly language](https://riptutorial.com/assembly)
  - [The Holy Book of x86](https://github.com/Captainarash/The_Holy_Book_of_X86)
  - [x86 Assembly Guide by the University of Virginia Computer Science](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+
 [⬆ Back to Top](#index)
 ## Online resources
  - [Explore how different languages are compiled down to assembly](https://godbolt.org/)

@@ -19,6 +19,8 @@ Category: Languages
 
 ![SQL](https://pspdfkit.com/assets/images/blog/2018/tips-for-contributing-to-the-swift-language/article-header-0cfa379e.png)
 
+[⬆ Back to Top](#index)
+
 ## Online Books and PDFs <img src="https://emoji.gg/assets/emoji/2519_book_pages.gif" width="50px">
 -------------------------
 * [The Swift Programming Language](https://carlosicaza.com/swiftbooks/SwiftLanguage.pdf)
@@ -28,6 +30,8 @@ Category: Languages
 * [Learning Swift](https://www.scribd.com/document/478194057/Learning-Swift-pdf)
 * [Learn Computer Science with Swift](https://www.dropbox.com/s/ixm3b0kxb6uwalk/Learn%20Computer%20Science%20with%20Swift_%20Computation%20Concepts%2C%20Programming%20Paradigms%2C%20Data%20Management%2C%20and%20Modern%20Component%20Architectures%20with%20Swift%20and%20Playgrounds.pdf?dl=0)
 * [Swift™ For Dummies](https://pdfhost.io/v/ZEMRkiWo7_Swift_For_Dummies)
+
+[⬆ Back to Top](#index)
 
 ## Website <img src="https://emoji.gg/assets/emoji/GoogleChrome.png" width="50px">
 ------------
@@ -41,6 +45,8 @@ Category: Languages
 
 
 
+[⬆ Back to Top](#index)
+
 ## Videos <img src="https://emoji.gg/assets/emoji/5382-youtube-animated.gif" width="40px">
 ---------
 - [2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)](https://youtu.be/F2ojC6TNwws)
@@ -51,6 +57,8 @@ Category: Languages
 - [Learn the Essentials of Swift in one hour](https://youtu.be/n5X_V81OYnQ)
 - [Learn Swift Fast (2020) - Full Course For Beginners](https://youtu.be/FcsY1YPBwzQ)
 
+
+[⬆ Back to Top](#index)
 
 ## Online Courses and MOOCs <img src="https://emoji.gg/assets/emoji/1640-do-not-disturb.gif" width="55px">
 --------
@@ -78,6 +86,8 @@ Category: Languages
 
 • [Learn Swift with free tutorials - Hacking with Swift](https://www.hackingwithswift.com/learn)
 
+[⬆ Back to Top](#index)
+
 ## Blog <img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" width="40px">
 --------
 * [Blog - Swift.org](https://swift.org/blog/)
@@ -89,6 +99,8 @@ Category: Languages
 * [SwiftRocks - How Swift Works & iOS Tips and Tricks](https://swiftrocks.com/)
 * [The Swift Blog](https://codewithchris.com/blog/)
 
+[⬆ Back to Top](#index)
+
 ## Newsletter <img src="https://emoji.gg/assets/emoji/4925_blurpednewsletter.png" width="40px">
 --------
 - [SWIFT News & Events](https://www.swift.com/news-events/newsletters)
@@ -99,6 +111,8 @@ Category: Languages
 - [Awesome Swift Weekly | LibHunt](https://swift.libhunt.com/newsletter)
 - [Newsletter - Swift Journals](http://www.swiftjournals.org/newsletter.php)
 
+[⬆ Back to Top](#index)
+
 ## Best Swift IDEs <img src="https://resources.jetbrains.com/storage/products/appcode/img/meta/appcode_logo_300x300.png" width="50px">
 --------
 * [AppCode](https://www.jetbrains.com/objc/)
@@ -107,3 +121,5 @@ Category: Languages
 * [Silver](https://www.elementscompiler.com/elements/silver/)
 * [Swift Online Compiler & Interpreter - Replit](https://replit.com/languages/swift)
 * [Sedona - Compiler for Swift](https://kappsmart.com/swiftcompiler/)
+
+[⬆ Back to Top](#index)

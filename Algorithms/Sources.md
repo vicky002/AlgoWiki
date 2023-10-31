@@ -83,6 +83,7 @@ We have lots of links to add here...it will be updated soon!
 - [Heap](#heap)
 - [Linked List](#linked-list)
 
+[⬆ Back to Top](#index)
 
 ## Dynamic Programming
 ### Matrix chain multiplication

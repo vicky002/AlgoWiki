@@ -49,6 +49,6 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
 
 + Github repos and interactive tutorials for learning Node.js
 
-  +[Art of Node](https://github.com/maxogden/art-of-node)
-  +[Node School](https://nodeschool.io/)
-  +[Learn You Node.js](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)
+  + [Art of Node](https://github.com/maxogden/art-of-node)
+  + [Node School](https://nodeschool.io/)
+  + [Learn You Node.js](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)

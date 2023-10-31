@@ -19,7 +19,6 @@ category: Frameworks
 
 ### Generators
 - [Rails Composer](https://github.com/RailsApps/rails-composer)
-- [Prelang](http://prelang.com)
 - [Hobo](http://www.hobocentral.net)
 
 ### Guides

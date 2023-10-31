@@ -39,6 +39,14 @@ category: Languages
 - [Dev Docs](https://devdocs.io/)
 - [Code Translation Project - JavaScript](http://ctp.mkprog.com/en/javascript/)
 - [TogetherJS](https://togetherjs.com/docs/)
+- [JavaScript Best Website To Learn from](https://www.javascripttutorial.net/javascript-dom/)
+- [Javascript Tutorials](https://www.javascripttutorial.net/)
+- [Javascript Regex](https://www.rexegg.com/regex-quickstart.html)
+- [wtfJs](https://github.com/denysdovhan/wtfjs)
+- [JSFuck](http://www.jsfuck.com/)
+- [W3School](https://www.w3schools.com/)
+- [W3Docs](https://www.w3docs.com/)
+- [Javascript Info](https://javascript.info/)
 
 #### Courses
 

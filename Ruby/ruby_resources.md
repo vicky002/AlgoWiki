@@ -25,7 +25,6 @@ Learn Ruby through the following online and offline resources.
 - [Learn Ruby with the Edgecase Ruby Koans](http://rubykoans.com/)
 - [Codecademy: Ruby](https://www.codecademy.com/learn/learn-ruby)
 - [Learn Ruby the Hardway](https://learnrubythehardway.org/book/preface.html)
-- [Odin Project: Ruby Programming](https://www.theodinproject.com/courses/ruby-programming)
 - [Ruby Lang: Quick Start](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Ruby for Beginners: Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/print.html)
 - [Ruby Monk](https://rubymonk.com/)

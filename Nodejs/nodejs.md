@@ -27,6 +27,7 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
 
 
 + Blogs for Beginners
+	+ [Node.js DEV](https://nodejs.dev/en/)
 	+ [Node.js for beginners](https://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314)
 	+ [Node.js tutorials](http://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
 	+ [Node.js in 3 days](https://www.guru99.com/node-js-tutorial.html)

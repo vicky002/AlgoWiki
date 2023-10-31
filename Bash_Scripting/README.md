@@ -1,4 +1,4 @@
-## Bash Scripts
+# Bash Scripts
 > A curated list of delightful Bash scripts and resources.
 
 In addition of this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
@@ -29,6 +29,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 
+[⬆ Back to Top](#books-and-resources)
+
 ## Command-Line Productivity
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
@@ -41,6 +43,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 - [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+
+[⬆ Back to Top](#books-and-resources)
 
 ## Customization
 
@@ -58,11 +62,15 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 
+[⬆ Back to Top](#books-and-resources)
+
 ## Data
 
 *Tools for working with data.*
 
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
+
+[⬆ Back to Top](#books-and-resources)
 
 ## For Developers
 
@@ -71,6 +79,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+
+[⬆ Back to Top](#books-and-resources)
 
 ## Downloading and Serving
 
@@ -82,6 +92,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors
 
+[⬆ Back to Top](#books-and-resources)
+
 ## Applications
 
 *Command line-based applications or command line access to existing services.*
@@ -91,6 +103,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
 - [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
 
+[⬆ Back to Top](#books-and-resources)
+
 ## Games
 
 *All work and no play is a cruddy way to spend your day.*
@@ -99,10 +113,14 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 - [solitaire](https://opensource-usability.blogspot.com/2016/10/solitaire-in-bash-script.html) - Bash implementation of solitaire
 
+[⬆ Back to Top](#books-and-resources)
+
 ## Website
 
 - [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
 - [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands
+
+[⬆ Back to Top](#books-and-resources)
 
 ## Shell Package Management
 
@@ -112,6 +130,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 - [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
+
+[⬆ Back to Top](#books-and-resources)
 
 ## Shell Script Development
 
@@ -134,6 +154,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
+
+[⬆ Back to Top](#books-and-resources)
 
 ## Community
 

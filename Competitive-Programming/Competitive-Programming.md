@@ -43,6 +43,7 @@ category: Languages
 * [WL's Blog](https://wuliangx.wordpress.com/category/competitive-programming/)
 * [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
 * [How to Win Coding Competitions: Secrets of Champions (edX course)](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions-0)
+* [Guide to Competitive Programming](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf)
 * [List of other resources](http://codeforces.com/blog/entry/23054)
 * [Competitive Programming Playlist](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main)
 * Suggested problems tagged with Algorithms- [Foundation](https://www.codechef.com/certification/prepare#foundation) & [Advanced](https://www.codechef.com/certification/prepare#advanced)

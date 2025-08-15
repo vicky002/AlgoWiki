@@ -7,7 +7,6 @@ category: Platform
 
 ## Resources
 * [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
-	- AKA *Dragon book*
 * [Basics of Compiler Design](http://www.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
 * [Compiler design in C](http://holub.com/goodies/compiler/compilerDesignInC.pdf)
 * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)

@@ -72,6 +72,10 @@ category: Libraries
 * [Association Rules Mining and Apriori Algorithm](https://www.datatheque.com/posts/association-analysis/)
 * [Learn ML.NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 * [mlcourse.ai](https://mlcourse.ai)
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+* [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
+* [Freecodecamp Machine Learning With Python](https://www.freecodecamp.org/learn/machine-learning-with-python)
+* [Tiny Machine Learning](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -205,5 +209,6 @@ category: Libraries
 * [This Week in Machine Learning & AI](https://twimlai.com/)
 * [Learning Machines 101](http://www.learningmachines101.com/)
 * [Partially Derivative](http://partiallyderivative.com/)
+* [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 
 [⬆ Back to Top](#table-of-contents)

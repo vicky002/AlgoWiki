@@ -37,4 +37,4 @@ category: Languages
    * [JDoodle](https://www.jdoodle.com/compile-scala-online)
    * [Scala Fiddle](https://scalafiddle.io/)
 
-
+[⬆ Back to Top](#index)

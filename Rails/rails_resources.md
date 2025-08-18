@@ -56,3 +56,5 @@ category: Frameworks
 - [Rails API Documentation](http://api.rubyonrails.org)
 - [Rails Source Code](https://github.com/rails/rails)
 - [Rails Official Blog](http://weblog.rubyonrails.org)
+
+[⬆ Back to Top](#index)

@@ -223,3 +223,5 @@ to manipulate ISZ files (.isz), including .isz to .iso conversion
 * [Code Combat](https://codecombat.com/)
 * [CheckiO](https://py.checkio.org/)
 * [Codin Game](https://www.codingame.com/start)
+
+[⬆ Back to Top](#table-of-contents)

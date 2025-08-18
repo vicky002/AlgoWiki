@@ -860,3 +860,5 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Joomla](https://www.joomla.com/)
 
 ## Contributing
+
+[⬆ Back to Top](#table-of-contents)

@@ -55,7 +55,6 @@ category: Languages
   - [Learn Javascript for free](https://scrimba.com/learn/learnjavascript)
   - [JavaScript 30](https://javascript30.com/)
   - [Udacity: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
-  - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
   - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
   - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
   - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)

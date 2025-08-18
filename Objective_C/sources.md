@@ -4,7 +4,7 @@ category: Languages
 ---
 
 # All About Objecitve-C
-- [Objective-C](#objective-c)
+- [Objective-C](#all-about-objective-c)
   - [Animations](#animations)
   - [Data Persistence](#data-persistence)
   - [Dependency Manager](#dependency-manager)

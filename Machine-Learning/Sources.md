@@ -13,7 +13,7 @@ category: Libraries
   * [Python](#python)
   * [Java](#java)
   * [JavaScript](#javascript)
-  * [C/C++](#cpp)
+  * [C/C++](#c)
 * [Algorithms](#algorithms)
 * [Popular Datasets](#popular-datasets)
 * [Relevant Research Papers](#relevant-research-papers)

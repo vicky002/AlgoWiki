@@ -186,6 +186,9 @@ MySQL software, libraries and resources.
 - [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
 - [Percona Live](http://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
 
+## E-Books
+
+...
 
 ## Media
 

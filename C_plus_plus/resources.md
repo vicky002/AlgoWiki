@@ -57,7 +57,6 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 	- [Videos](#videos)
 	- [Websites](#websites)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*

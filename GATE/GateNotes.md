@@ -10,3 +10,5 @@ category: Other
 * [Ankur Gupta Notes](http://www.ankurgupta.net/gate-notes/)
 * [Workbook with Answer](https://drive.google.com/open?id=0B47CU_twbDB6fnhacjBRSGlHdkg0dklkc0gxWG5iY3BjRnBWemRVbnZQdXhQSnRoZU50YzQ)
 
+# Similar Github Repos that will help Gate Aspirants #
+* [GATE-and-CSE-Resources-for-Students](https://github.com/baquer/GATE-and-CSE-Resources-for-Students)

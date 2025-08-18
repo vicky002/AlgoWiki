@@ -194,7 +194,6 @@ category: Languages
 
 ### Jobs
 
-- http://careers.stackoverflow.com/jobs/tag/nodejs
 - https://jsjobbs.com/
 - https://www.linkedin.com/jobs/search/?currentJobId=3226766290&keywords=javascript%20developer&refresh=true
 

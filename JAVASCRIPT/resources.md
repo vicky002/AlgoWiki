@@ -14,7 +14,7 @@ category: Languages
   - [Podcasts](#podcasts)
   - [Videos](#videos)
   - [Newsletters](#newsletters)
-  - [Lists of Blogs](#list-of-blogs)
+  - [Lists of Blogs](#lists-of-blogs)
   - [Blogs - Single Author](#blogs---single-author)
   - [Blogs - Multiple Authors](#blogs---multiple-authors)
 - [Books](#books)

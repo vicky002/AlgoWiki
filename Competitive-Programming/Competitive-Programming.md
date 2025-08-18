@@ -8,7 +8,7 @@ category: Languages
 * [Article & Blogs](#articles)
 * [Books](#Books)
 * [Code Repositories](#code-repository)
-* [Coding Calendar](#cdoing-calendar)
+* [Coding Calendar](#coding-calendar)
 * [Competitive Programming](#competitive-programming)
 * [Competitive Programming Problem Recommender](#competitive-programming-problem-recommender)
 * [Motivational](#motivation)

@@ -22,7 +22,6 @@ category: Languages
 - [The Rust Programming Language - Rust Documentation](https://doc.rust-lang.org/book/)
 - [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
 - [Rust Guidelines](http://aturon.github.io/)
-- [Rust by Example](http://rustbyexample.com/)
 
 
 ## Courses

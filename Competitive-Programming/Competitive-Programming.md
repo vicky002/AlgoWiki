@@ -52,6 +52,7 @@ category: Languages
 ### Books
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
 * [Competitive Programming (1 ed.)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) | [(Associated Code)](https://github.com/stevenhalim/cpbook-code)
+* [Guide to Competitive Programming_ Learning and Improving Algorithms Through Contests](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf)
 
  [Back To Top](#Index)
  

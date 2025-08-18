@@ -6,6 +6,7 @@ category: Languages
 C#
 =======
 ## Index
+- [Resources](#resources)
 - [Reference](#reference)
 - [Online Training](#online-training)
 - [Books](#books)

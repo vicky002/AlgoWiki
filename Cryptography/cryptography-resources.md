@@ -25,7 +25,6 @@ Resources For Learning Cryptography
 + [Tutorial point pdf on cryptography](https://www.tutorialspoint.com/cryptography/cryptography_tutorial.pdf)
 
 ### Video Tutorials on Cryptography.
-+ [Cryptography And Network Security](http://nptel.ac.in/courses/106105031/1)
 + [Khan Academy - Journey into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 + [All About Cryptography](http://freevideolectures.com/Course/3027/Cryptography-and-Network-Security)
 + [Cryptography: Encryption](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption/)

@@ -97,7 +97,7 @@ canvas,
 video {
   display: inline-block;
   *display: inline;
-  *zoom: 1;
+  *zoom : 1;
 }
 
 /*
@@ -684,7 +684,7 @@ hr {
   border: 0;
   outline: none;
   height: 3px;
-  background: transparent url("../images/hr.gif") center center repeat-x;
+  background: transparent url(images/hr.gif) center center repeat-x;
   margin: 0 0 20px;
 }
 
@@ -701,7 +701,7 @@ dt {
   height: 60px;
   width: 100%;
   position: fixed;
-  background: url(../images/nav-bg.gif) #353535;
+  background: url(images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);

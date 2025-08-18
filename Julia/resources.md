@@ -34,6 +34,7 @@ category: Languages
 
 ## Reference Books
 
+* [Julia Data Science](https://juliadatascience.io/)
 * [Project Building with Julia](https://www.amazon.com/Julia-Programming-Projects-building-visualization/dp/178829274X?tag=uuid10-20)
 * [Julia for data science](https://www.amazon.com/Julia-Data-Science-Zacharias-Voulgaris/dp/1634621301?tag=uuid10-20)
 * [Guide to Julia](https://www.techrepublic.com/article/how-to-learn-julia-a-resources-guide-for-developers/)

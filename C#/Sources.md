@@ -14,7 +14,7 @@ C#
 - [Community](#community)
 - [Blogs](#blogs)
 
-### Resources
+## Resources
 * [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 * [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 * [WPF](https://dotnet.microsoft.com/apps/desktop)

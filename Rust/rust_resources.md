@@ -16,7 +16,11 @@ category: Languages
 - [Podcasts](#podcasts)
 - [Books](#books)
 
+[⬆ Back to Top](#index)
+
 ## Documentation
+
+[⬆ Back to Top](#index)
 
 ##### These are highly suggested bookmarks_
 - [The Rust Programming Language - Rust Documentation](https://doc.rust-lang.org/book/)
@@ -24,6 +28,8 @@ category: Languages
 - [Rust Guidelines](http://aturon.github.io/)
 - [Rust by Example](http://rustbyexample.com/)
 
+
+[⬆ Back to Top](#index)
 
 ## Courses
 
@@ -41,6 +47,8 @@ category: Languages
   - [Rust Exercises](http://exercism.io/languages/rust)
 
 
+[⬆ Back to Top](#index)
+
 ## Blogs
 
 - [Andrew Gallant](http://blog.burntsushi.net/)
@@ -51,6 +59,8 @@ category: Languages
 - [Jonathon Turner](http://www.jonathanturner.org/)
 
 
+[⬆ Back to Top](#index)
+
 ## Community
 
 - [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
@@ -58,11 +68,15 @@ category: Languages
 - News: [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/)
 
 
+[⬆ Back to Top](#index)
+
 ## Playground
 
 - [Rust Playground](https://play.rust-lang.org)
 - [Alternative Playground](http://play.integer32.com/)
 
+
+[⬆ Back to Top](#index)
 
 ## Podcasts
 
@@ -71,6 +85,8 @@ category: Languages
 - [Request for Explanation](https://request-for-explanation.github.io/podcast/)
 - [Rusty Spike](https://rusty-spike.blubrry.net/)
 
+
+[⬆ Back to Top](#index)
 
 ## Books
 
@@ -89,6 +105,8 @@ category: Languages
 - [Why Rust? | Rust Basics](https://dumindu.gitbooks.io/rust-basics/content/why_rust.html)
 - [Why Rust? - O'Reilly Media](http://www.oreilly.com/programming/free/why-rust.csp)
 
+[⬆ Back to Top](#index)
+
 ## Frameworks
 * [Yew](https://yew.rs/)
 * [stdweb](https://github.com/koute/stdweb)
@@ -100,3 +118,4 @@ category: Languages
 * [TAURI](https://github.com/tauri-apps/tauri)
 * [ACTIX WEB](https://github.com/actix/actix-web)
 
+[⬆ Back to Top](#index)

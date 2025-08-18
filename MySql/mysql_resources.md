@@ -178,7 +178,7 @@ MySQL software, libraries and resources.
 
 *At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
 
-##Conferences
+## Conferences
 
 *Public, recurring conferences on and around MySQL*
 

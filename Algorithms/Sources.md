@@ -237,6 +237,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](quiz.geeksforgeeks.org/merge-sort/)
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/mergeSort.htm)
  - [Article](https://en.wikipedia.org/wiki/Merge_sort)
+ - [Article](https://www.scaler.com/topics/merge-sort-in-python/)
  - [Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
 
 ### Quick Sort

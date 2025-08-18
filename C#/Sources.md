@@ -51,7 +51,7 @@ C#
 * [Discord Group](https://discordapp.com/invite/ccyrDKv)
 * [hanselminutes Podcast](https://hanselminutes.com/)
 
-### Blogs
+## Blogs
 * [Scott Hansalman](https://www.hanselman.com/blog/)
 * [You have been hacked](https://haacked.com/)
 * [Jason Roberts](http://dontcodetired.com/blog/)

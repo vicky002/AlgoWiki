@@ -6,6 +6,10 @@ category: Libraries
 Discrete Mathematics
 ---------------------
 
+## Helpful Sites and Tutorials
+*Helpful Websites with Interactive Content*
+* [Discrete Math Tools - CompSciLib](https://www.compscilib.com/search/discrete-math) - Discrete Math Content that includes Calculators with step-by-step solutions, in-depth learning tutorials, and dynamic practice problems.
+
 ## Lecture Notes and PDFs
 *Lecture notes, LaTex/ PDF resources*
 

@@ -56,7 +56,6 @@ A curated list of C++ frameworks, libraries, resources, and shiny things.
 	- [Coding Style](#coding-style)
 	- [Videos](#videos)
 	- [Websites](#websites)
-- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Standard Libraries

@@ -18,7 +18,7 @@ category: Languages
   - [Blogs - Single Author](#blogs---single-author)
   - [Blogs - Multiple Authors](#blogs---multiple-authors)
 - [Books](#books)
-  - [Lists of Books](#lists)
+  - [Lists of Books](#lists-of-books)
 - [Offline](#offline)
   - [Meetups](#meetups)
   - [Conferences](#conferences)

@@ -16,8 +16,10 @@ category: Libraries
   * [C/C++](#cpp)
 * [Algorithms](#algorithms)
 * [Popular Datasets](#popular-datasets)
+* [Videos](#videos)
 * [Relevant Research Papers](#relevant-research-papers)
 * [Podcasts](#podcasts)
+* [Tips for Freshers](#tips-for-freshers)
 
 
 ### Books
@@ -186,6 +188,14 @@ category: Libraries
 
 [⬆ Back to Top](#table-of-contents)
 
+### Videos
+
+* [Hindi Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+* [English Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)
+
+[⬆ Back to Top](#table-of-contents)
+
+
 
 ### Relevant Research Papers
 
@@ -207,3 +217,18 @@ category: Libraries
 * [Partially Derivative](http://partiallyderivative.com/)
 
 [⬆ Back to Top](#table-of-contents)
+
+### Tips for Freshers
+
+If you're new to machine learning, here are some tips to get started:
+
+* **Take Your Time**: Don't rush through the subject; take time to understand each concept thoroughly.
+* **Build Projects**: Practical experience is crucial; try implementing projects to apply what you learn.
+* **Bridge Theory and Practice**: There's often a gap between theory and practice; focus on practical applications.
+* **Start from Basics**: Build a strong foundation by starting with fundamental concepts.
+* **Overcome Challenges**: If you get stuck, don't hesitate to revisit topics and seek clarification.
+* **Explore Deep Learning**: Once comfortable with basics, explore deep learning techniques.
+* **Understand Transformers**: To understand advanced models like ChatGPT, delve into transformer architectures.
+
+[⬆ Back to Top](#table-of-contents)
+

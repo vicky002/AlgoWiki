@@ -45,6 +45,7 @@ category: Languages
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla Development Network
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [HTML Tutorial](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/) - Udemy
+* [Learn HTML in Detail](https://www.scaler.com/topics/html/) - Scaler Topics
 * [Learn CSS Layout](http://learnlayout.com/)
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)

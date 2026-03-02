@@ -333,6 +333,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Dynamic/chainMatrixMult.htm)
  - [Article](http://www.geeksforgeeks.org/dynamic-programming-set-8-matrix-chain-multiplication/)
  - [Article](http://algorithinking.blogspot.com/2011/07/chain-matrix-multiplication.html)
+ - [Article](https://www.scaler.com/topics/matrix-chain-multiplication/)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=u6Y055g4mOE#t=0)
 
 ### Delayed Column Generation

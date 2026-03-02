@@ -1,3 +1,9 @@
+---
+title: Rails
+category: Frameworks
+---
+
+
 # Rails Development Resources
 
 ### [Index](#index)

@@ -1,3 +1,8 @@
+---
+title: Objective C
+category: Languages
+---
+
 # All About Objecitve-C
 - [Objective-C](#objective-c)
   - [Animations](#animations)
@@ -50,14 +55,14 @@
 *Framework for testing.*
 
 * [OCMock](http://ocmock.org) - Mocking framework for iOS
-* [TestFlight](https://developer.apple.com/testflight/) - Beta Testing framework 
+* [TestFlight](https://developer.apple.com/testflight/) - Beta Testing framework
 * [XCTest](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - Apple's native testing framework that can do unit testing, UI testing, and performance testing.
 
 # Resources
 
 ## Books
 
-*Intro level books that teach you the basic concepts of the Objective-C language and iOS programming.* 
+*Intro level books that teach you the basic concepts of the Objective-C language and iOS programming.*
 
 * [iOS Programming: The Big Nerd Ranch Guide (4th Edition)](https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides/dp/0321942051/ref=sr_1_7?s=books&ie=UTF8&qid=1468365404&sr=1-7&keywords=big+nerd+ranch)
 * [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition)](https://www.bignerdranch.com/we-write/objective-c-programming/)
@@ -70,4 +75,4 @@
 * [Ray Wenderlich](https://www.raywenderlich.com)
 * [tutorialspoint](http://www.tutorialspoint.com/objective_c/index.htm)
 * [Vea Software YouTube Channel](https://www.youtube.com/user/veasoftware) - Objective-C and Swift video tutorials
- 
+

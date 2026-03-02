@@ -1,3 +1,7 @@
+---
+title: Interviews
+category: Other
+---
 
 ### Contents
 
@@ -242,3 +246,4 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [interview](https://github.com/andreis/interview)
 * [interview](https://github.com/sam17/interview)
 * [interview](https://github.com/mission-peace/interview)
+* [donnemartin/system-design-primer(system design)](https://github.com/donnemartin/system-design-primer)

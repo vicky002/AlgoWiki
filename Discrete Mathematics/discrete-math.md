@@ -1,3 +1,8 @@
+---
+title: Discrete Mathematics
+category: Libraries
+---
+
 Discrete Mathematics
 ---------------------
 

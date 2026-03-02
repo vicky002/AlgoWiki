@@ -1,3 +1,8 @@
+---
+title: Algorithms
+category: Libraries
+---
+
 Suggest us Algorithms to add, just give us names [Here](https://docs.google.com/forms/d/16zan_258T14UBttNgXmgfAcgMU0nTRdE61l23F29EI4/viewform?usp=send_form)!
 -------------------------------------------------------------
 We have lots of links to add here...it will be updated soon!
@@ -53,7 +58,7 @@ We have lots of links to add here...it will be updated soon!
   - [Double Metaphone Algorithm](#double-metaphone-algorithm)
   - [Floyd Cycle Detection Algorithm](#floyd-cycle-detection-algorithm)
   - [Fibonacci Search Algorithm](#fibonacci-search-algorithm)
-  - [Fisher–Yates shuffle Algorithm ](#fisheraeur-yates-shuffle-algorithm)
+  - [Fisher–Yates shuffle Algorithm ](#fisheryates-shuffle-algorithm)
   - [General Problem Solver](#general-problem-solver)
   - [Jump Point Search ](#jump-point-search)
   - [Kadane's Algorithm](#kadanes-algorithm)
@@ -216,31 +221,31 @@ We have lots of links to add here...it will be updated soon!
  - [Article](https://en.wikipedia.org/wiki/Bubble_sort)
  - [Article](http://www.algolist.net/Algorithms/Sorting/Bubble_sort)
  - [Video](https://www.youtube.com/watch?v=y_Nuui4Qf-k)
- 
+
 ### Selection Sort
  - [Article](http://quiz.geeksforgeeks.org/selection-sort/)
  - [Article](https://en.wikipedia.org/wiki/Selection_sort)
  - [Video](https://www.youtube.com/watch?v=6nDMgr0-Yyo)
- 
+
 ### Insertion Sort
  - [Article](quiz.geeksforgeeks.org/insertion-sort/)
  - [Article](https://en.wikipedia.org/wiki/Insertion_sort)
  - [Article](https://www.tutorialspoint.com/data_structures_algorithms/insertion_sort_algorithm.htm)
  - [Video](https://www.youtube.com/watch?v=i-SKeOcBwko)
- 
+
 ### Merge Sort
  - [Article](quiz.geeksforgeeks.org/merge-sort/)
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/mergeSort.htm)
  - [Article](https://en.wikipedia.org/wiki/Merge_sort)
  - [Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
- 
+
 ### Quick Sort
  - [Article](http://quiz.geeksforgeeks.org/quick-sort/)
  - [Article](https://en.wikipedia.org/wiki/Quicksort)
  - [Article](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
  - [Video](https://www.youtube.com/watch?v=COk73cpQbFQ)
 
-[⬆ Back to Top](#index) 
+[⬆ Back to Top](#index)
 
 ## String and String Pattern Matching
 
@@ -284,7 +289,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](https://www.java.net/blog/potty/archive/2012/04/19/string-searching-algorithms-part-i)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=rDPuaNw9_Eo)
 
-### Knuth-Morris-Pratt Algorithm 
+### Knuth-Morris-Pratt Algorithm
  - [Article](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/StringMatch/kuthMP.htm)
  - [Article](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/)
  - [Article](https://computersciencesource.wordpress.com/2011/01/03/string-searching-the-knuth-morris-pratt-algorithm/)
@@ -330,7 +335,7 @@ We have lots of links to add here...it will be updated soon!
  - [Article](http://algorithinking.blogspot.com/2011/07/chain-matrix-multiplication.html)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=u6Y055g4mOE#t=0)
 
-### Delayed Column Generation 
+### Delayed Column Generation
  - [Article](http://stackoverflow.com/questions/15685665/example-of-delayed-column-generation)
  - [Article](http://neos-server.org/casestudies/cutting/formulation.html)
 
@@ -382,7 +387,7 @@ We have lots of links to add here...it will be updated soon!
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=i3U-csxumts)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=49V_hbKu-Lc)
 
-### Fisher–Yates shuffle Algorithm 
+### Fisher–Yates shuffle Algorithm
  - [Article](http://www.geeksforgeeks.org/shuffle-a-given-array/)
  - [Article](http://bost.ocks.org/mike/shuffle/)
  - [Article](http://www.codinghorror.com/blog/2007/12/the-danger-of-naivete.html)
@@ -393,7 +398,7 @@ We have lots of links to add here...it will be updated soon!
 ### General Problem Solver
  - [Article](http://psywww.com/intropsych/ch07_cognition/general_problem_solver.html)
 
-### Jump Point Search 
+### Jump Point Search
  - [Article](http://harablog.wordpress.com/2011/09/07/jump-point-search/)
  - [Article](http://www.stoimen.com/blog/2011/12/12/computer-algorithms-jump-search/)
  - [Video](https://www.youtube.com/watch?feature=player_embedded&v=bcDhV7kwWio)
@@ -495,4 +500,4 @@ We have lots of links to add here...it will be updated soon!
 
 [⬆ Back to Top](#index)
 
-Will be updated soon! 
+Will be updated soon!

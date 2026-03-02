@@ -1,3 +1,8 @@
+---
+title: Cryptography
+category: Languages
+---
+
 Resources For Learning Cryptography
 ==================================
 ## Index
@@ -16,7 +21,7 @@ Resources For Learning Cryptography
 ### PDF Books for Learning Cryptography
 + [An overview of cryptography](http://www.garykessler.net/library/crypto.html)
 + [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf)
-+ [Cryptography For Dummies](https://doc.lagout.org/network/3_Cryptography/Cryptography%20for%20Dummies.pdf) 
++ [Cryptography For Dummies](https://doc.lagout.org/network/3_Cryptography/Cryptography%20for%20Dummies.pdf)
 + [Tutorial point pdf on cryptography](https://www.tutorialspoint.com/cryptography/cryptography_tutorial.pdf)
 
 ### Video Tutorials on Cryptography.

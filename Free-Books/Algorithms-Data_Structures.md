@@ -1,3 +1,9 @@
+---
+title: Algorithms and DS
+category: Books
+---
+
+
 Algorithms And Data Structures
 ============================
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
@@ -17,16 +23,16 @@ Algorithms And Data Structures
 * [Foundations of Computer Science- Al Aho and Jeff Ullman](http://infolab.stanford.edu/~ullman/focs.html)
 * [Introduction To Algorithms](http://www.eecs.yorku.ca/~jeff/AIMS/introduction-to-algorithms-3rd-edition.pdf)
 * [Open Data Structures: An Introduction- Pat Morin](http://www.aupress.ca/index.php/books/120226)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) 
+* [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition) University of North Texas (PDF)](http://larc.unt.edu/ian/books/free/lnoa.pdf)
 * [Linked List Basics (PDF)](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 * [Linked List Problems (PDF)](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf)
-* [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) 
+* [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
-* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) 
+* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 * [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
 * [The Art of Computer Programming(fascicles, mostly volume 4) - Donald Knuth](http://www.cs.utsa.edu/~wagner/knuth)
 * [The Design of Approximation Algorithms(PDF)](http://www.designofapproxalgs.com/book.pdf)

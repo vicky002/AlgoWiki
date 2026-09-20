@@ -11,104 +11,21 @@
 <body>
   <div id="app"></div>
 </body>
-<script src="//unpkg.com/vue/dist/vue.js"></script>
-<script src="//unpkg.com/babel-standalone@6/babel.min.js"></script>
-<script src="//unpkg.com/docsify-demo-box-vue@1.0.4/dist/docsify-demo-box-vue.min.js"></script>
 <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
-<script src="//unpkg.com/element-ui/lib/index.js"></script>
-<script src="//unpkg.com/element-ui/lib/umd/locale/en.js"></script>
-<script src="//unpkg.com/vue-data-tables@2.1.0/dist/data-tables.min.js"></script>
-<script src="//unpkg.com/json2csv@3.9.1/dist/json2csv.js"></script>
 <script>
-    Vue.use(DataTables)
-  Vue.use(DataTables.DataTablesServer)
-  ELEMENT.locale(ELEMENT.lang.en)
-  var data, titles;
-  var id = 0;
-  var define =
-`data = [{
-  "content": "Water flood",
-  "flow_no": "FW201601010001",
-  "flow_type": "Repair",
-  "flow_type_code": "repair",
-  }, {
-  "content": "Lock broken",
-  "flow_no": "FW201601010002",
-  "flow_type": "Repair",
-  "flow_type_code": "repair",
-  }, {
-  "content": "Help to buy some drinks",
-  "flow_no": "FW201601010003",
-  "flow_type": "Help",
-  "flow_type_code": "help"
-}];
-titles = [{
-  prop: "flow_no",
-  label: "NO."
-  }, {
-  prop: "content",
-  label: "Content"
-  }, {
-  prop: "flow_type",
-  label: "Type"
-}]`
-  var es5define = Babel.transform(define, { presets: ['es2015'] }).code
-  eval(es5define)
-  var jsResources = '<scr' + 'ipt src="//unpkg.com/vue/dist/vue.js"></scr' + 'ipt>'
-    + '\n<scr' + `ipt src="//unpkg.com/element-ui/lib/index.js"></scr` + 'ipt>'
-    + '\n<scr' + `ipt src="//unpkg.com/element-ui/lib/umd/locale/en.js"></scr` + 'ipt>'
-    + '\n<scr' + `ipt src="//unpkg.com/vue-data-tables@2.1.0/dist/data-tables.min.js"></scr` + 'ipt>'
-  var cssResources = '@import url("//unpkg.com/element-ui/lib/theme-default/index.css");'
-  var bootCode =
-    'ELEMENT.locale(ELEMENT.lang.en)\n'
-    + 'Vue.use(DataTables)\n'
-    + 'Vue.use(DataTables.DataTablesServer)\n'
-    + 'var data, titles\n\n' + define + '\n\n';
-
   window.$docsify = {
     coverpage: true,
     name: 'AlgoWiki',
-    repo: 'https://www.github.com/vicky002/AlgoWiki',
+    repo: 'https://github.com/vicky002/AlgoWiki',
     subMaxLevel: 4,
     loadSidebar: false,
     themeColor: '#3F51B5',
     ga: 'UA-45497633-7',
     codesponsor: 'p9HijS4T3i4dif3TiynvGHf1',
     search: 'auto',
-
-    // search: [
-    //   '/', 
-    //   '/Algorithms',
-    //   '/Android',
-    //   '/C',
-    //   '/C#'
-    // ],
-
-    // search: {
-    //   maxAge: 86400000, // Expiration time, the default one day
-    //   paths: [], // or 'auto'
-    //   placeholder: 'Type to search',
-
-    //   // Localization
-    //   placeholder: {
-    //     '/': 'Type to search'
-    //   },
-
-    //   noData: 'No Results!',
-
-    //   // Localization
-    //   noData: {
-    //     '/': 'No Results'
-    //   },
-
-    //   // Headline depth, 1 - 6
-    //   depth: 2
-    // },
-
     plugins: [
-      DemoBoxVue.create(jsResources, cssResources, bootCode),
       EditOnGithubPlugin.create(
-        'https://github.com/vicky002/AlgoWiki/'
+        'https://github.com/vicky002/AlgoWiki/blob/gh-pages/'
       ),
       function (hook) {
         var footer = [
@@ -124,11 +41,8 @@ titles = [{
       }
     ]
   }
-
-
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
